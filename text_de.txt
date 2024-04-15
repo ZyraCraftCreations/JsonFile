@@ -1,0 +1,14 @@
+{
+    "items" :[
+        {
+            "key":"THIS_IS_MY_FIRT_KEY",
+            "value":"Dies ist ein Test in englischer Sprache"
+        },
+        {
+            "key":"THIS_IS_MY_SECOND_KEY",
+            "value":"Dies ist ein zweiter Test in englischer Sprache"
+        }
+    
+
+    ]
+}
