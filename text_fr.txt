@@ -1,0 +1,14 @@
+{
+    "items" :[
+        {
+            "key":"THIS_IS_MY_FIRT_KEY",
+            "value":"cecii est un test en francais"
+        },
+        {
+            "key":"THIS_IS_MY_SECOND_KEY",
+            "value":"Ceci est un deuxeme test en francais"
+        }
+    
+
+    ]
+}
