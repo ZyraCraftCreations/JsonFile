@@ -1,14 +1,45 @@
 {
     "items" :[
         {
-            "key":"THIS_IS_MY_FIRT_KEY",
-            "value":"Dies ist ein Test in englischer Sprache"
+            "key":"MenuKey1",
+            "value":"Neues Spiel"
         },
         {
-            "key":"THIS_IS_MY_SECOND_KEY",
-            "value":"Dies ist ein zweiter Test in englischer Sprache"
+            "key":"MenuKey2",
+            "value":"Weiter"
+        },
+        {
+            "key":"MenuKey3",
+            "value":"Ausfahrt"
+        },
+        {
+            "key":"MenuKey4",
+            "value":"Ja"
+        },
+        {
+            "key":"MenuKey5",
+            "value":"Nein"
+        },
+        {
+            "key":"MenuKey6",
+            "value":"Ein neues Spiel beginnen?"
+        },
+        {
+            "key":"MenuKey7",
+            "value":"Beenden Sie das Spiel?"
+        },
+        {
+            "key":"MenuKey8",
+            "value":"Einstellungen"
+        },
+        {
+            "key":"MenuKey9",
+            "value":"Ton"
+        },
+        {
+            "key":"MenuKey10",
+            "value":"Musik"
         }
-    
 
     ]
 }
