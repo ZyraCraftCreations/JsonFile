@@ -1,0 +1,45 @@
+{
+    "items" :[
+        {
+            "key":"MenuKey1",
+            "value":"新游戏"
+        },
+        {
+            "key":"MenuKey2",
+            "value":"继续"
+        },
+        {
+            "key":"MenuKey3",
+            "value":"退出"
+        },
+        {
+            "key":"MenuKey4",
+            "value":"是"
+        },
+        {
+            "key":"MenuKey5",
+            "value":"没有"
+        },
+        {
+            "key":"MenuKey6",
+            "value":"开始新游戏？"
+        },
+        {
+            "key":"MenuKey7",
+            "value":"退出游戏？"
+        },
+        {
+            "key":"MenuKey8",
+            "value":"设置"
+        },
+        {
+            "key":"MenuKey9",
+            "value":"声音"
+        },
+        {
+            "key":"MenuKey10",
+            "value":"音乐"
+        }
+
+    ]
+}
