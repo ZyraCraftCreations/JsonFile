@@ -1,0 +1,49 @@
+{
+    "items" :[
+        {
+            "key":"MenuKey1",
+            "value":"Нова гра"
+        },
+        {
+            "key":"MenuKey2",
+            "value":"Продовжити"
+        },
+        {
+            "key":"MenuKey3",
+            "value":"Вихід"
+        },
+        {
+            "key":"MenuKey4",
+            "value":"Так"
+        },
+        {
+            "key":"MenuKey5",
+            "value":"Ні"
+        },
+        {
+            "key":"MenuKey6",
+            "value":"Почати нову гру?"
+        },
+        {
+            "key":"MenuKey7",
+            "value":"Вийти з гри?"
+        },
+        {
+            "key":"MenuKey8",
+            "value":"Налаштування"
+        },
+        {
+            "key":"MenuKey9",
+            "value":"Звук"
+        },
+        {
+            "key":"MenuKey10",
+            "value":"Музика"
+        },
+        {
+            "key":"MenuKey11",
+            "value":"Мова"
+        }
+
+    ]
+}

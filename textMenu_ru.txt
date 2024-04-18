@@ -1,0 +1,49 @@
+{
+    "items" :[
+        {
+            "key":"MenuKey1",
+            "value":"Новая игра"
+        },
+        {
+            "key":"MenuKey2",
+            "value":"Продолжить"
+        },
+        {
+            "key":"MenuKey3",
+            "value":"Выход"
+        },
+        {
+            "key":"MenuKey4",
+            "value":"Да"
+        },
+        {
+            "key":"MenuKey5",
+            "value":"Нет"
+        },
+        {
+            "key":"MenuKey6",
+            "value":"Начать новую игру?"
+        },
+        {
+            "key":"MenuKey7",
+            "value":"Выйти из игры?"
+        },
+        {
+            "key":"MenuKey8",
+            "value":"Настройки"
+        },
+        {
+            "key":"MenuKey9",
+            "value":"Звук"
+        },
+        {
+            "key":"MenuKey10",
+            "value":"Музыка"
+        },
+        {
+            "key":"MenuKey11",
+            "value":"Язык"
+        }
+
+    ]
+}
