@@ -39,6 +39,10 @@
         {
             "key":"MenuKey10",
             "value":"Muzyka"
+        },
+        {
+            "key":"MenuKey11",
+            "value":"Język"
         }
 
     ]
