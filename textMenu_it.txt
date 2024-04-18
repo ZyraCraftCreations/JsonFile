@@ -2,43 +2,47 @@
     "items" :[
         {
             "key":"MenuKey1",
-            "value":"新游戏"
+            "value":"Nuovo gioco"
         },
         {
             "key":"MenuKey2",
-            "value":"继续"
+            "value":"Continua"
         },
         {
             "key":"MenuKey3",
-            "value":"退出"
+            "value":"Uscita"
         },
         {
             "key":"MenuKey4",
-            "value":"是"
+            "value":"Sì"
         },
         {
             "key":"MenuKey5",
-            "value":"没有"
+            "value":"No"
         },
         {
             "key":"MenuKey6",
-            "value":"开始新游戏？"
+            "value":"Iniziare una nuova partita?"
         },
         {
             "key":"MenuKey7",
-            "value":"退出游戏？"
+            "value":"Uscire dal gioco?"
         },
         {
             "key":"MenuKey8",
-            "value":"设置"
+            "value":"Impostazioni"
         },
         {
             "key":"MenuKey9",
-            "value":"声音"
+            "value":"Suono"
         },
         {
             "key":"MenuKey10",
-            "value":"音乐"
+            "value":"Musica"
+        },
+        {
+            "key":"MenuKey11",
+            "value":"Lingua"
         }
 
     ]
