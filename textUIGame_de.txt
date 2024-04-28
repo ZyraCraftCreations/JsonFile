@@ -1,0 +1,635 @@
+{
+    "items" :[
+        {
+            "key":"UIGameKey1",
+            "value":"Zum Menü gehen?"
+        },
+        {
+            "key":"UIGameKey2",
+            "value":"Ja"
+        },
+        {
+            "key":"UIGameKey3",
+            "value":"Nein"
+        },
+        {
+            "key":"UIGameKey4",
+            "value":"Deine Energie. Ohne Energie ist es unmöglich, Kartenschlachten zu spielen"
+        },
+        {
+            "key":"UIGameKey5",
+            "value":"Einstieg in den Zug"
+        },
+
+
+
+        {
+            "key":"UIGameKey6",
+            "value":"Arme Stadt"
+        },
+        {
+            "key":"UIGameKey7",
+            "value":"Reiche Stadt"
+        },
+        {
+            "key":"UIGameKey8",
+            "value":"Standort Winter"
+        },
+        {
+            "key":"UIGameKey9",
+            "value":"Vergessenes Tal"
+        },
+        {
+            "key":"UIGameKey10",
+            "value": ["Reiche Stadt", "Arme Stadt", "Das Wintertal"]
+        },
+
+
+
+        {
+            "key":"UIGameKey11",
+            "value":"Bier"
+        },
+        {
+            "key":"UIGameKey12",
+            "value":"Stellarer Schluck"
+        },
+        {
+            "key":"UIGameKey13",
+            "value":"Karotte"
+        },
+        {
+            "key":"UIGameKey14",
+            "value":"Starshine Spirit"
+        },
+        {
+            "key":"UIGameKey15",
+            "value":"Beeren"
+        },
+        {
+            "key":"UIGameKey16",
+            "value":"Kraut"
+        },
+        {
+            "key":"UIGameKey17",
+            "value":"Zaubertrank Energie"
+        },
+        {
+            "key":"UIGameKey18",
+            "value":"Zaubertrank Geschwindigkeit"
+        },
+        {
+            "key":"UIGameKey19",
+            "value":"Trank Hunger"
+        },
+        {
+            "key":"UIGameKey20",
+            "value":"Zwiebel"
+        },
+
+
+
+        {
+            "key":"UIGameKey21",
+            "value":"Rabe"
+        },
+        {
+            "key":"UIGameKey22",
+            "value":"Der Kolkrabe ist einer der klügsten Vögel"
+        },
+        {
+            "key":"UIGameKey23",
+            "value":"Fliegender Käfer"
+        },
+        {
+            "key":"UIGameKey24",
+            "value":"Wenn es viele von ihnen gibt, werden sie gefährlich."
+        },
+        {
+            "key":"UIGameKey25",
+            "value":"Grizzly"
+        },
+        {
+            "key":"UIGameKey26",
+            "value":"Der Grizzly ist ein wilder und gefährlicher Bär, nimm dich vor ihm in Acht"
+        },
+        {
+            "key":"UIGameKey27",
+            "value":"Zombie"
+        },
+        {
+            "key":"UIGameKey28",
+            "value":"Zombie-Apokalypse?"
+        },
+        {
+            "key":"UIGameKey29",
+            "value":"Mudturtle"
+        },
+        {
+            "key":"UIGameKey30",
+            "value":"Stark, aber nutzlos"
+        },
+        {
+            "key":"UIGameKey31",
+            "value":"Kojote"
+        },
+        {
+            "key":"UIGameKey32",
+            "value":"Dünner Kojote, nichts Besonderes"
+        },
+        {
+            "key":"UIGameKey33",
+            "value":"Skelett"
+        },
+        {
+            "key":"UIGameKey34",
+            "value":"Knochenskelett"
+        },
+        {
+            "key":"UIGameKey35",
+            "value":"Urayuli"
+        },
+        {
+            "key":"UIGameKey36",
+            "value":"???"
+        },
+        {
+            "key":"UIGameKey37",
+            "value":"ThickBot"
+        },
+        {
+            "key":"UIGameKey38",
+            "value":"Roboter in Stahlpanzerung"
+        },
+        {
+            "key":"UIGameKey39",
+            "value":"Wolfsküken"
+        },
+        {
+            "key":"UIGameKey40",
+            "value":"Winziger Wolfsküken"
+        },
+        {
+            "key":"UIGameKey41",
+            "value":"SteamBot"
+        },
+        {
+            "key":"UIGameKey42",
+            "value":"SteamBot, eine starke und leistungsfähige Maschine, die keine Hindernisse in ihrem Weg sieht"
+        },
+        {
+            "key":"UIGameKey43",
+            "value":"Wolf"
+        },
+        {
+            "key":"UIGameKey44",
+            "value":"Wilder grauer Wolf"
+        },
+        {
+            "key":"UIGameKey45",
+            "value":"Opossum"
+        },
+        {
+            "key":"UIGameKey46",
+            "value":"Dummes Opossum"
+        },
+        {
+            "key":"UIGameKey47",
+            "value":"Elch"
+        },
+        {
+            "key":"UIGameKey48",
+            "value":"Erwachsene Hirsche"
+        },
+        {
+            "key":"UIGameKey49",
+            "value":"Krake"
+        },
+        {
+            "key":"UIGameKey50",
+            "value":"Winziger liebenswerter Krake"
+        },
+        {
+            "key":"UIGameKey51",
+            "value":"Wolverin"
+        },
+        {
+            "key":"UIGameKey52",
+            "value":"Der wilde Wolverine, aber wie wild ist er?"
+        },
+        {
+            "key":"UIGameKey53",
+            "value":"InsectoBot"
+        },
+        {
+            "key":"UIGameKey54",
+            "value":"InsectorBot - ein kleiner fliegender Roboter, der die Welt des Spiels überwacht"
+        },
+        {
+            "key":"UIGameKey55",
+            "value":"Ochsenfrosch"
+        },
+        {
+            "key":"UIGameKey56",
+            "value":"Der Ochsenfrosch ist ein großer Frosch mit scharfen Zähnen und einem kräftigen Sprung, bereit, seine Feinde niederzuschlagen"
+        },
+        {
+            "key":"UIGameKey57",
+            "value":"AutoMaton"
+        },
+        {
+            "key":"UIGameKey58",
+            "value":"Einst gab es eine große Armee dieser Roboter, aber jetzt ist es nur noch eine Karte"
+        },
+        {
+            "key":"UIGameKey59",
+            "value":"MineCart"
+        },
+        {
+            "key":"UIGameKey60",
+            "value":"Es war einmal ein Bergmann, der aus eigener Kraft aus einem tiefen Bergwerk herauskam, und die Götter verewigten ihn als Held auf einer Karte"
+        },
+        {
+            "key":"UIGameKey61",
+            "value":"Türmchen"
+        },
+        {
+            "key":"UIGameKey62",
+            "value":"Ein einfacher Geschützturm, der sich selbst schützt"
+        },
+        {
+            "key":"UIGameKey63",
+            "value":"BoltJagdhund"
+        },
+        {
+            "key":"UIGameKey64",
+            "value":"BoltJagdhund, einer der von der Kartenbastlerin geschaffenen Hunde. Seine Zähne sind aus Stahlplatten gefertigt"
+        },
+        {
+            "key":"UIGameKey65",
+            "value":"Elchküken"
+        },
+        {
+            "key":"UIGameKey66",
+            "value":"Einfacher Elch, aber fähig"
+        },
+        {
+            "key":"UIGameKey67",
+            "value":"Banshee"
+        },
+        {
+            "key":"UIGameKey68",
+            "value":"Banshees - griffen früher in Banden Menschen an, deshalb wurden sie in die Postkartensammlung aufgenommen"
+        },
+        {
+            "key":"UIGameKey69",
+            "value":"Hawk"
+        },
+        {
+            "key":"UIGameKey70",
+            "value":"Hawk mag nicht jeden"
+        },
+        {
+            "key":"UIGameKey71",
+            "value":"Verrückte Familie"
+        },
+        {
+            "key":"UIGameKey72",
+            "value":"Nun, hier gibt es keine Fragen"
+        },
+        {
+            "key":"UIGameKey73",
+            "value":"Salmon"
+        },
+        {
+            "key":"UIGameKey74",
+            "value":"Elastischer Lachs ist wirklich elastisch"
+        },
+        {
+            "key":"UIGameKey75",
+            "value":"BoneJagdhund"
+        },
+        {
+            "key":"UIGameKey76",
+            "value":"BoneJagdhund wurde ebenfalls von der Kartenbastlerin"
+        },
+        {
+            "key":"UIGameKey77",
+            "value":"Franknstein"
+        },
+        {
+            "key":"UIGameKey78",
+            "value":"Frankn-stein Selbst die Götter hatten Angst vor diesen gruseligen Typen"
+        },
+        {
+            "key":"UIGameKey79",
+            "value":"Musclemage"
+        },
+        {
+            "key":"UIGameKey80",
+            "value":"Seine Stärke übersteigt die zulässige"
+        },
+        {
+            "key":"UIGameKey81",
+            "value":"Hermelin"
+        },
+        {
+            "key":"UIGameKey82",
+            "value":"Hermelin is agile, cunning, and smart"
+        },
+        {
+            "key":"UIGameKey83",
+            "value":"Jagdhund"
+        },
+        {
+            "key":"UIGameKey84",
+            "value":"Der gewöhnliche Hund ist auch eine Kreation des Kartenbastlers"
+        },
+        {
+            "key":"UIGameKey85",
+            "value":"Wassermonster"
+        },
+        {
+            "key":"UIGameKey86",
+            "value":"Wassermonster mit einem Schild, der es erlaubt, einen Treffer zu ignorieren"
+        },
+        {
+            "key":"UIGameKey87",
+            "value":"RubyGolem"
+        },
+        {
+            "key":"UIGameKey88",
+            "value":"Rubygolem hat einen Schild, der es erlaubt, einen Treffer zu ignorieren"
+        },
+        {
+            "key":"UIGameKey89",
+            "value":"Direwolf"
+        },
+        {
+            "key":"UIGameKey90",
+            "value":"Kann zweimal einen Gegenangriff starten"
+        },
+        {
+            "key":"UIGameKey91",
+            "value":"Direwolfcub"
+        },
+        {
+            "key":"UIGameKey92",
+            "value":"Viper"
+        },
+        {
+            "key":"UIGameKey93",
+            "value":"Skelettmagier"
+        },
+        {
+            "key":"UIGameKey94",
+            "value":"Die Legende besagt, dass dieser Magier einst die mächtigste Karte im Spiel war. Kann zweimal kontern"
+        },
+        {
+            "key":"UIGameKey95",
+            "value":"MantisGod"
+        },
+        {
+            "key":"UIGameKey96",
+            "value":"Kann zweimal angreifen"
+        },
+        {
+            "key":"UIGameKey97",
+            "value":"Doppeltürmchen"
+        },
+        {
+            "key":"UIGameKey98",
+            "value":"GunnerBot"
+        },
+        {
+            "key":"UIGameKey99",
+            "value":"StimMage"
+        },
+        {
+            "key":"UIGameKey100",
+            "value":"Kann sofort nach Erscheinen auf dem Schlachtfeld angreifen"
+        },
+        {
+            "key":"UIGameKey101",
+            "value":"Todesfälle mit der Sense"
+        },
+        {
+            "key":"UIGameKey102",
+            "value":"Zauberlehrerin"
+        },
+        {
+            "key":"UIGameKey103",
+            "value":"Drownedsoul"
+        },
+        {
+            "key":"UIGameKey104",
+            "value":"Eichhörnchen"
+        },
+        {
+            "key":"UIGameKey105",
+            "value":"Ein einfaches Eichhörnchen kann anstelle von anderen einen Treffer landen"
+        },
+        {
+            "key":"UIGameKey106",
+            "value":"SpringenderBot"
+        },
+        {
+            "key":"UIGameKey107",
+            "value":"Kann anstelle von anderen einen Treffer landen"
+        },
+        {
+            "key":"UIGameKey108",
+            "value":"Maulwurf"
+        },
+        {
+            "key":"UIGameKey109",
+            "value":"Maulwurf"
+        },
+        {
+            "key":"UIGameKey110",
+            "value":"Robo-Frosch"
+        },
+        {
+            "key":"UIGameKey111",
+            "value":"Der einäugige Gollum"
+        },
+        {
+            "key":"UIGameKey112",
+            "value":"Man sagt, dieser einäugige Gollum hat einen bodenlosen Magen. Mit jeder Runde erhöht sich seine Gesundheit um 1"
+        },
+        {
+            "key":"UIGameKey113",
+            "value":"Seltsame Raupe"
+        },
+        {
+            "key":"UIGameKey114",
+            "value":"Mit jeder Runde erhöht sich seine Gesundheit um 1"
+        },
+        {
+            "key":"UIGameKey115",
+            "value":"Orange Mage"
+        },
+        {
+            "key":"UIGameKey116",
+            "value":"Heilt den Helden um 2 Lebenspunkte"
+        },
+        {
+            "key":"UIGameKey117",
+            "value":"Heilende Zauberei"
+        },
+        {
+            "key":"UIGameKey118",
+            "value":"Heilt die gewählte Karte um 2 Lebenspunkte"
+        },
+        {
+            "key":"UIGameKey119",
+            "value":"Fluch der Schwächung"
+        },
+        {
+            "key":"UIGameKey120",
+            "value":"Verringert den Schaden an der gewählten Karte um zwei"
+        },
+        {
+            "key":"UIGameKey121",
+            "value":"Blue Mage"
+        },
+        {
+            "key":"UIGameKey122",
+            "value":"Heilt zwei Lebenspunkte für alle Karten auf dem Schlachtfeld"
+        },
+        {
+            "key":"UIGameKey123",
+            "value":"Roter Magier"
+        },
+        {
+            "key":"UIGameKey124",
+            "value":"Fügt allen Karten auf dem Schlachtfeld zwei Schadenspunkte zu"
+        },
+        {
+            "key":"UIGameKey125",
+            "value":"Schadensverstärker"
+        },
+        {
+            "key":"UIGameKey126",
+            "value":"Erhöht den Schaden der gewählten Karte um zwei"
+        },
+        {
+            "key":"UIGameKey127",
+            "value":"Tentakel-Herausforderung"
+        },
+        {
+            "key":"UIGameKey128",
+            "value":"Wendet den Spott-Effekt auf die ausgewählte Karte an"
+        },
+        {
+            "key":"UIGameKey129",
+            "value":"Verfluchter Magier"
+        },
+        {
+            "key":"UIGameKey130",
+            "value":"Fügt den gewählten Karten des Gegners zwei Schadenspunkte zu"
+        },
+        {
+            "key":"UIGameKey131",
+            "value":"Okto-Ward"
+        },
+        {
+            "key":"UIGameKey132",
+            "value":"Wendet einen Schutzschild auf die ausgewählte Karte an"
+        },
+        {
+            "key":"UIGameKey133",
+            "value":"Magische Verwüstung"
+        },
+        {
+            "key":"UIGameKey134",
+            "value":"Fügt dem gegnerischen Helden zwei Schadenspunkte zu"
+        },
+
+
+
+
+        {
+            "key":"UIGameKey135",
+            "value":"Quests"
+        },
+        {
+            "key":"UIGameKey136",
+            "value":"Betreten Sie die arme Stadt"
+        },
+        {
+            "key":"UIGameKey137",
+            "value":"Finde Nicholas im Wohnwagenpark in der armen Stadt und erhalte Informationen über den Aufenthaltsort des Bürgermeisters"
+        },
+        {
+            "key":"UIGameKey138",
+            "value":"Geh zum Bauernhof in der Nähe der wohlhabenden Stadt; sie warten dort auf mich"
+        },
+        {
+            "key":"UIGameKey139",
+            "value":"Jemanden zu finden, der etwas über den Schlüssel der dritten Ebene weiß und die Situation in der Stadt zu klären"
+        },
+        {
+            "key":"UIGameKey140",
+            "value":"Ich muss in die Winterstadt fahren"
+        },
+        {
+            "key":"UIGameKey141",
+            "value":"Besiege Brittany in Kartenkämpfen und finde den Ort, der in der Notiz beschrieben ist, die ich als Belohnung von Brittany erhalten werde"
+        },
+        {
+            "key":"UIGameKey142",
+            "value":"Um 1000 Münzen zu finden oder zu verdienen und den Zug in der Nähe des Winterquartiers zu nehmen"
+        },
+        {
+            "key":"UIGameKey143",
+            "value":"Besiegen Sie 5 Wachen und erreichen Sie Malachai"
+        },
+        {
+            "key":"UIGameKey144",
+            "value":"Besiegt Malachai und nehmt den Schlüssel der vierten Ebene an euch, dann erfahrt ihr sofort, wo sich die letzten Tore der vierten Ebene befinden!"
+        },
+        {
+            "key":"UIGameKey145",
+            "value":"Gehe durch die Tore und erfülle die Prophezeiung des Abenteurers"
+        },
+
+
+
+
+        {
+            "key":"UIGameKey146",
+            "value":"Jakob"
+        },
+        {
+            "key":"UIGameKey147",
+            "value":"Dies ist ein kurzer Leitfaden für das Kartenspiel. Blaue Kristalle        stehen für dein Mana. Mit jeder Runde erhöht sich Ihr Mana um 1. Wenn Sie in der nächsten Runde Ihr gesamtes Mana verbrauchen, wird es wiederhergestellt. Um Ihren Zug zu beenden, drücken Sie auf das Glockensymbol, und Ihr Zug ist beendet. Das rote Herz        symbolisiert deine Gesundheit. Fällt es unter Null, haben Sie verloren. Jede Karte hat ihre eigenen Kosten, Gesundheit und Schaden. Es gibt auch Zauberkarten, und einige Karten haben Fähigkeiten, die du im Karten-Bestiarium nachlesen kannst. Außerdem gibt es ein Spielfeld, auf dem du deine Karten platzierst, um den Gegner oder seine Karten anzugreifen. Um anzugreifen, drückst du auf deine Karte und ziehst sie dorthin, wo du sie haben möchtest. Das sollte für den Anfang ausreichen. Viel Glück!"
+        },
+        {
+            "key":"UIGameKey148",
+            "value":"Neustart"
+        },
+        {
+            "key":"UIGameKey149",
+            "value":"Ausfahrt"
+        },
+        {
+            "key":"UIGameKey150",
+            "value": ["GEWINNEN", "Besiegen -1 Energie"]
+        },
+
+        
+        {
+            "key":"UIGameKey151",
+            "value": ["Banshee", "Jagdhund", "Kojote", "Ochsenfrosch", "Wolf", "Wolfsküken", "Zombie", "Wolverine", 
+                     "Urayuli", "Hermelin", "Opossum", "Türmchen", "Thickbot", "Steambot", "Skelett", "Salmon", 
+                     "MuscleMage", "Mudturtle", "Krake", "Insectobot", "Hawk", "Grizzly", "Fliegender Käfer", "Verrückte Familie"
+                     , "Elchküken", "Elch", "BoneJagdhund", "BoltJagdhund", "Automaton", "Rabe", "Minecart", "Franknstein"
+                     , "Maulwurf", "Eichhörnchen", "Maulwurf", "SpringenderBot", "Robo-Frosch", "Seltsame Raupe"
+                     , "Mantisgod", "Todesfälle mit der Sense", "Wassermonster", "Direwolf", "Direwolfcub", "Doppeltürmchen"
+                     , "Stimmage", "One-eyed Gollum", "SkeletonMage", "Rubygolem", "Gunnerbot", "Drownedsoul"
+                     , "Viper", "Zauberlehrerin", "Blue Mage", "Roter Magier", "Orange Mage", "Magische Verwüstung"
+                     , "Heilende Zauberei", "Verfluchter Magier", "Okto-Ward", "Tentakel-Herausforderung", "Schadensverstärker", "Fluch der Schwächung"]
+        }   
+    ]
+}
