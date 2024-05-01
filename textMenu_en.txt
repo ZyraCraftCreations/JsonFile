@@ -1,0 +1,937 @@
+{
+    "items" :[
+        {
+            "key":"MenuKey1",
+            "value":"New Game"
+        },
+        {
+            "key":"MenuKey2",
+            "value":"Continue"
+        },
+        {
+            "key":"MenuKey3",
+            "value":"Exit"
+        },
+        {
+            "key":"MenuKey4",
+            "value":"Yes"
+        },
+        {
+            "key":"MenuKey5",
+            "value":"No"
+        },
+        {
+            "key":"MenuKey6",
+            "value":"Start a new game?"
+        },
+        {
+            "key":"MenuKey7",
+            "value":"Exit the game?"
+        },
+        {
+            "key":"MenuKey8",
+            "value":"Settings"
+        },
+        {
+            "key":"MenuKey9",
+            "value":"Sound"
+        },
+        {
+            "key":"MenuKey10",
+            "value":"Music"
+        },
+        {
+            "key":"MenuKey11",
+            "value":"Language"
+        },
+       
+                {
+                    "key":"UIGameKey1",
+                    "value":"Go to the menu?"
+                },
+                {
+                    "key":"UIGameKey2",
+                    "value":"Yes"
+                },
+                {
+                    "key":"UIGameKey3",
+                    "value":"No"
+                },
+                {
+                    "key":"UIGameKey4",
+                    "value":"Your energy. Without energy, it's impossible to play card battles"
+                },
+                {
+                    "key":"UIGameKey5",
+                    "value":"Enter the train"
+                },
+        
+        
+        
+                {
+                    "key":"UIGameKey6",
+                    "value":"Poor City"
+                },
+                {
+                    "key":"UIGameKey7",
+                    "value":"Rich City"
+                },
+                {
+                    "key":"UIGameKey8",
+                    "value":"Winter Location"
+                },
+                {
+                    "key":"UIGameKey9",
+                    "value":"Forgotten Valley"
+                },
+                {
+                    "key":"RichCity",
+                    "value":"Rich City"
+                },
+                {
+                    "key":"PoorCity",
+                    "value":"Poor City"
+                },
+                {
+                    "key":"WinterValley",
+                    "value":"The Winter Valley"
+                },
+        
+        
+        
+                {
+                    "key":"UIGameKey11",
+                    "value":"Beer"
+                },
+                {
+                    "key":"UIGameKey12",
+                    "value":"Stellar Sip"
+                },
+                {
+                    "key":"UIGameKey13",
+                    "value":"Carrot"
+                },
+                {
+                    "key":"UIGameKey14",
+                    "value":"Starshine Spirit"
+                },
+                {
+                    "key":"UIGameKey15",
+                    "value":"Berry"
+                },
+                {
+                    "key":"UIGameKey16",
+                    "value":"Cabbage"
+                },
+                {
+                    "key":"UIGameKey17",
+                    "value":"Potion Energy"
+                },
+                {
+                    "key":"UIGameKey18",
+                    "value":"Potion Speed"
+                },
+                {
+                    "key":"UIGameKey19",
+                    "value":"Potion Hunger"
+                },
+                {
+                    "key":"UIGameKey20",
+                    "value":"Onion"
+                },
+        
+        
+        
+                {
+                    "key":"UIGameKey21",
+                    "value":"Raven"
+                },
+                {
+                    "key":"UIGameKey22",
+                    "value":"The wild raven is one of the smarter birds"
+                },
+                {
+                    "key":"UIGameKey23",
+                    "value":"Flying Beetle"
+                },
+                {
+                    "key":"UIGameKey24",
+                    "value":"If there are many of them, they become dangerous"
+                },
+                {
+                    "key":"UIGameKey25",
+                    "value":"Grizzly"
+                },
+                {
+                    "key":"UIGameKey26",
+                    "value":"The grizzly is a fierce and dangerous bear, beware of it"
+                },
+                {
+                    "key":"UIGameKey27",
+                    "value":"Zombie"
+                },
+                {
+                    "key":"UIGameKey28",
+                    "value":"Zombie apocalypse?"
+                },
+                {
+                    "key":"UIGameKey29",
+                    "value":"Mudturtle"
+                },
+                {
+                    "key":"UIGameKey30",
+                    "value":"Strong but useless"
+                },
+                {
+                    "key":"UIGameKey31",
+                    "value":"Coyote"
+                },
+                {
+                    "key":"UIGameKey32",
+                    "value":"Thin coyote, nothing special"
+                },
+                {
+                    "key":"UIGameKey33",
+                    "value":"Skeleton"
+                },
+                {
+                    "key":"UIGameKey34",
+                    "value":"Bony skeleton"
+                },
+                {
+                    "key":"UIGameKey35",
+                    "value":"Urayuli"
+                },
+                {
+                    "key":"UIGameKey36",
+                    "value":"???"
+                },
+                {
+                    "key":"UIGameKey37",
+                    "value":"ThickBot"
+                },
+                {
+                    "key":"UIGameKey38",
+                    "value":"Robot in steel armor"
+                },
+                {
+                    "key":"UIGameKey39",
+                    "value":"Wolfcub"
+                },
+                {
+                    "key":"UIGameKey40",
+                    "value":"Tiny wolfcub"
+                },
+                {
+                    "key":"UIGameKey41",
+                    "value":"SteamBot"
+                },
+                {
+                    "key":"UIGameKey42",
+                    "value":"SteamBot, a strong and powerful machine that doesn't see obstacles in its path"
+                },
+                {
+                    "key":"UIGameKey43",
+                    "value":"Wolf"
+                },
+                {
+                    "key":"UIGameKey44",
+                    "value":"Wild gray wolf"
+                },
+                {
+                    "key":"UIGameKey45",
+                    "value":"Opossum"
+                },
+                {
+                    "key":"UIGameKey46",
+                    "value":"Silly opossum"
+                },
+                {
+                    "key":"UIGameKey47",
+                    "value":"Elk"
+                },
+                {
+                    "key":"UIGameKey48",
+                    "value":"Adult deer"
+                },
+                {
+                    "key":"UIGameKey49",
+                    "value":"Kraken"
+                },
+                {
+                    "key":"UIGameKey50",
+                    "value":"Tiny adorable kraken"
+                },
+                {
+                    "key":"UIGameKey51",
+                    "value":"Wolverine"
+                },
+                {
+                    "key":"UIGameKey52",
+                    "value":"Fierce Wolverine, but how fierce?"
+                },
+                {
+                    "key":"UIGameKey53",
+                    "value":"InsectoBot"
+                },
+                {
+                    "key":"UIGameKey54",
+                    "value":"InsectoBot - a small flying robot that monitors the world of the game"
+                },
+                {
+                    "key":"UIGameKey55",
+                    "value":"Bullfrog"
+                },
+                {
+                    "key":"UIGameKey56",
+                    "value":"BullFrog is a large frog with sharp teeth and a powerful jump, ready to strike down its enemies"
+                },
+                {
+                    "key":"UIGameKey57",
+                    "value":"AutoMaton"
+                },
+                {
+                    "key":"UIGameKey58",
+                    "value":"Once there was a large army of these robots, but now it's just a map"
+                },
+                {
+                    "key":"UIGameKey59",
+                    "value":"MineCart"
+                },
+                {
+                    "key":"UIGameKey60",
+                    "value":"There was once a miner who got out of a deep mine on his own, and the gods immortalized him as a hero in a map "
+                },
+                {
+                    "key":"UIGameKey61",
+                    "value":"Turret"
+                },
+                {
+                    "key":"UIGameKey62",
+                    "value":"A simple turret that protects itself"
+                },
+                {
+                    "key":"UIGameKey63",
+                    "value":"BoltHound"
+                },
+                {
+                    "key":"UIGameKey64",
+                    "value":"BoltHound, one of the hounds created by the card crafter. Its teeth are made of steel plates"
+                },
+                {
+                    "key":"UIGameKey65",
+                    "value":"Elkcub"
+                },
+                {
+                    "key":"UIGameKey66",
+                    "value":"Simple Elkcup but capable"
+                },
+                {
+                    "key":"UIGameKey67",
+                    "value":"Banshee"
+                },
+                {
+                    "key":"UIGameKey68",
+                    "value":"Banshees - used to attack people in gangs, so they got into the postcard collection"
+                },
+                {
+                    "key":"UIGameKey69",
+                    "value":"Hawk"
+                },
+                {
+                    "key":"UIGameKey70",
+                    "value":"Hawk dislikes everyone"
+                },
+                {
+                    "key":"UIGameKey71",
+                    "value":"Crazy Family"
+                },
+                {
+                    "key":"UIGameKey72",
+                    "value":"Well, no questions here"
+                },
+                {
+                    "key":"UIGameKey73",
+                    "value":"Salmon"
+                },
+                {
+                    "key":"UIGameKey74",
+                    "value":"Elastic salmon is truly elastic"
+                },
+                {
+                    "key":"UIGameKey75",
+                    "value":"BoneHound"
+                },
+                {
+                    "key":"UIGameKey76",
+                    "value":"Bonehound was also created by the card crafter"
+                },
+                {
+                    "key":"UIGameKey77",
+                    "value":"Franknstein"
+                },
+                {
+                    "key":"UIGameKey78",
+                    "value":"Frankn-stein Even the gods were afraid of these creepy guys"
+                },
+                {
+                    "key":"UIGameKey79",
+                    "value":"Musclemage"
+                },
+                {
+                    "key":"UIGameKey80",
+                    "value":"His strength exceeds the permissible"
+                },
+                {
+                    "key":"UIGameKey81",
+                    "value":"Stoat"
+                },
+                {
+                    "key":"UIGameKey82",
+                    "value":"Soat is agile, cunning, and smart"
+                },
+                {
+                    "key":"UIGameKey83",
+                    "value":"Hound"
+                },
+                {
+                    "key":"UIGameKey84",
+                    "value":"The ordinary hound is also a creation of the card crafter"
+                },
+                {
+                    "key":"UIGameKey85",
+                    "value":"Water Monster"
+                },
+                {
+                    "key":"UIGameKey86",
+                    "value":"Water monster with a shield that allows ignoring one hit"
+                },
+                {
+                    "key":"UIGameKey87",
+                    "value":"RubyGolem"
+                },
+                {
+                    "key":"UIGameKey88",
+                    "value":"Rubygolem has a shield that allows ignoring one hit"
+                },
+                {
+                    "key":"UIGameKey89",
+                    "value":"Direwolf"
+                },
+                {
+                    "key":"UIGameKey90",
+                    "value":"Can counterattack twice"
+                },
+                {
+                    "key":"UIGameKey91",
+                    "value":"Direwolfcub"
+                },
+                {
+                    "key":"UIGameKey92",
+                    "value":"Viper"
+                },
+                {
+                    "key":"UIGameKey93",
+                    "value":"SkeletonMage"
+                },
+                {
+                    "key":"UIGameKey94",
+                    "value":"Legends say that this mage was once the most powerful card in the game. Can counterattack twice"
+                },
+                {
+                    "key":"UIGameKey95",
+                    "value":"MantisGod"
+                },
+                {
+                    "key":"UIGameKey96",
+                    "value":"Can attack twice"
+                },
+                {
+                    "key":"UIGameKey97",
+                    "value":"Double Turret"
+                },
+                {
+                    "key":"UIGameKey98",
+                    "value":"GunnerBot"
+                },
+                {
+                    "key":"UIGameKey99",
+                    "value":"StimMage"
+                },
+                {
+                    "key":"UIGameKey100",
+                    "value":"Can attack immediately upon appearing on the battlefield"
+                },
+                {
+                    "key":"UIGameKey101",
+                    "value":"Deaths with the scythe"
+                },
+                {
+                    "key":"UIGameKey102",
+                    "value":"Magic Teacher"
+                },
+                {
+                    "key":"UIGameKey103",
+                    "value":"Drownedsoul"
+                },
+                {
+                    "key":"UIGameKey104",
+                    "value":"Squirrel"
+                },
+                {
+                    "key":"UIGameKey105",
+                    "value":"Simple squirrel can take a hit instead of others"
+                },
+                {
+                    "key":"UIGameKey106",
+                    "value":"LeapingBot"
+                },
+                {
+                    "key":"UIGameKey107",
+                    "value":"Can take a hit instead of others"
+                },
+                {
+                    "key":"UIGameKey108",
+                    "value":"Moleman"
+                },
+                {
+                    "key":"UIGameKey109",
+                    "value":"Mole"
+                },
+                {
+                    "key":"UIGameKey110",
+                    "value":"Robo Frog"
+                },
+                {
+                    "key":"UIGameKey111",
+                    "value":"One-Eyed Gollum"
+                },
+                {
+                    "key":"UIGameKey112",
+                    "value":"They say this one-eyed gollum has a bottomless stomach. With each turn, its health increases by 1"
+                },
+                {
+                    "key":"UIGameKey113",
+                    "value":"Strange Caterpillar"
+                },
+                {
+                    "key":"UIGameKey114",
+                    "value":"With each turn, its health increases by 1"
+                },
+                {
+                    "key":"UIGameKey115",
+                    "value":"Orange Mage"
+                },
+                {
+                    "key":"UIGameKey116",
+                    "value":"Heals the hero for 2 health"
+                },
+                {
+                    "key":"UIGameKey117",
+                    "value":"Healing Sorcery"
+                },
+                {
+                    "key":"UIGameKey118",
+                    "value":"Heals the selected card for 2 health"
+                },
+                {
+                    "key":"UIGameKey119",
+                    "value":"Weakening Curse"
+                },
+                {
+                    "key":"UIGameKey120",
+                    "value":"Reduces the damage to the selected card by two"
+                },
+                {
+                    "key":"UIGameKey121",
+                    "value":"Blue Mage"
+                },
+                {
+                    "key":"UIGameKey122",
+                    "value":"Heals two health to all cards on the battlefield"
+                },
+                {
+                    "key":"UIGameKey123",
+                    "value":"Red Mage"
+                },
+                {
+                    "key":"UIGameKey124",
+                    "value":"Deals two damage to all cards on the battlefield"
+                },
+                {
+                    "key":"UIGameKey125",
+                    "value":"Damage Amplifier"
+                },
+                {
+                    "key":"UIGameKey126",
+                    "value":"Increases the damage of the selected card by two"
+                },
+                {
+                    "key":"UIGameKey127",
+                    "value":"Tentacle Challenge"
+                },
+                {
+                    "key":"UIGameKey128",
+                    "value":"Applies the taunt effect to the selected card"
+                },
+                {
+                    "key":"UIGameKey129",
+                    "value":"Cursed Mage"
+                },
+                {
+                    "key":"UIGameKey130",
+                    "value":"Deals two damage to the selected cards of the opponent"
+                },
+                {
+                    "key":"UIGameKey131",
+                    "value":"Octo-Ward"
+                },
+                {
+                    "key":"UIGameKey132",
+                    "value":"Applies a shield to the selected card"
+                },
+                {
+                    "key":"UIGameKey133",
+                    "value":"Magical Havoc"
+                },
+                {
+                    "key":"UIGameKey134",
+                    "value":"Deals two damage to the enemy hero"
+                },
+        
+        
+        
+        
+                {
+                    "key":"UIGameKey135",
+                    "value":"Quests"
+                },
+                {
+                    "key":"UIGameKey136",
+                    "value":"Enter the poor town"
+                },
+                {
+                    "key":"UIGameKey137",
+                    "value":"Find Nicholas in the trailer park in the poor city and obtain information about the mayor's whereabouts"
+                },
+                {
+                    "key":"UIGameKey138",
+                    "value":"Go to the farm near the wealthy city; they are waiting for me there"
+                },
+                {
+                    "key":"UIGameKey139",
+                    "value":"To find someone who knows anything about the third-level key and clarify the situation in the city"
+                },
+                {
+                    "key":"UIGameKey140",
+                    "value":"I need to head to the winter city"
+                },
+                {
+                    "key":"UIGameKey141",
+                    "value":"Defeat Brittany in card battles and find the place described in the note that I'll receive as a reward from Brittany"
+                },
+                {
+                    "key":"UIGameKey142",
+                    "value":"To find or earn 1000 coins and take the train near the winter location"
+                },
+                {
+                    "key":"UIGameKey143",
+                    "value":"Defeat 5 guards and reach Malachai"
+                },
+                {
+                    "key":"UIGameKey144",
+                    "value":"Defeat Malachai and take the fourth-level key, then immediately learn the location of the final gates of the fourth level!"
+                },
+                {
+                    "key":"UIGameKey145",
+                    "value":"Pass through the gates and fulfill the prophecy of the adventurer"
+                },
+                {
+                    "key":"UIDopQuest1",
+                    "value":"Find the city hall in a poor city and try to find the mayor"
+                },
+                {
+                    "key":"UIDopQuest2",
+                    "value":"Talk to the mayor of a poor city and go to a rich city"
+                },
+                
+        
+        
+        
+        
+                {
+                    "key":"UIGameKey146",
+                    "value":"Jacob"
+                },
+                {
+                    "key":"UIGameKey147",
+                    "value":"This is a short guide to the card game. Blue crystals represent your mana. With each turn, your mana increases by 1. If you use all your mana in the next turn, it will be restored. To end your turn, press the bell icon, and your turn will be concluded. The red heart symbolizes your health. If it falls below zero, you lose. Each card has its own cost, health, and damage. There are also spell cards, and some cards have abilities, which you can read about in the card bestiary. Additionally, there is a playing field where you place your cards to attack the enemy or their cards. To attack, press and drag your card to where you need it to go. This should be enough to get you started. Good luck!"
+                },
+                {
+                    "key":"UIGameKey148",
+                    "value":"Restart"
+                },
+                {
+                    "key":"UIGameKey149",
+                    "value":"Exit"
+                },
+                {
+                    "key":"WIN",
+                    "value":"WIN"
+                },
+                {
+                    "key":"Defeat",
+                    "value":"Defeat -1 Energy"
+                },
+                
+        
+                {
+                    "key":"Banshee",
+                    "value":"Banshee"
+                },
+                {
+                    "key":"Hound",
+                    "value":"Hound"
+                },
+                {
+                    "key":"Coyote",
+                    "value":"Coyote"
+                },
+                {
+                    "key":"Bullfrog",
+                    "value":"Bullfrog"
+                },
+                {
+                    "key":"Wolf",
+                    "value":"Wolf"
+                },
+                {
+                    "key":"Wolfcub",
+                    "value":"Wolfcub"
+                },
+                {
+                    "key":"Zombie",
+                    "value":"Zombie"
+                },
+                {
+                    "key":"Wolverine",
+                    "value":"Wolverine"
+                },
+                {
+                    "key":"Urayuli",
+                    "value":"Urayuli"
+                },
+                {
+                    "key":"Stoat",
+                    "value":"Stoat"
+                },
+                {
+                    "key":"Opossum",
+                    "value":"Opossum"
+                },
+                {
+                    "key":"Turret",
+                    "value":"Turret"
+                },
+                {
+                    "key":"Thickbot",
+                    "value":"Thickbot"
+                },
+                {
+                    "key":"Steambot",
+                    "value":"Steambot"
+                },
+                {
+                    "key":"Skeleton",
+                    "value":"Skeleton"
+                },
+                {
+                    "key":"Salmon",
+                    "value":"Salmon"
+                },
+                {
+                    "key":"MuscleMage",
+                    "value":"MuscleMage"
+                },
+                {
+                    "key":"Mudturtle",
+                    "value":"Mudturtle"
+                },
+                {
+                    "key":"Kraken",
+                    "value":"Kraken"
+                },
+                {
+                    "key":"InsectoBot",
+                    "value":"InsectoBot"
+                },
+                {
+                    "key":"Hawk",
+                    "value":"Hawk"
+                },
+                {
+                    "key":"Grizzly",
+                    "value":"Grizzly"
+                },
+                {
+                    "key":"Flying beetle",
+                    "value":"Flying beetle"
+                },
+                {
+                    "key":"Crazy family",
+                    "value":"Crazy family"
+                },
+                {
+                    "key":"Elkcub",
+                    "value":"Elkcub"
+                },
+                {
+                    "key":"Elk",
+                    "value":"Elk"
+                },
+                {
+                    "key":"Bonehound",
+                    "value":"Bonehound"
+                },
+                {
+                    "key":"Bolthound",
+                    "value":"Bolthound"
+                },
+                {
+                    "key":"Automaton",
+                    "value":"Automaton"
+                },
+                {
+                    "key":"Raven",
+                    "value":"Raven"
+                },
+                {
+                    "key":"Minecart",
+                    "value":"Minecart"
+                },
+                {
+                    "key":"Franknstein",
+                    "value":"Franknstein"
+                },
+                {
+                    "key":"Moleman",
+                    "value":"Moleman"
+                },
+                {
+                    "key":"Squirrel",
+                    "value":"Squirrel"
+                },
+                {
+                    "key":"Mole",
+                    "value":"Mole"
+                },
+                {
+                    "key":"LeapingBot",
+                    "value":"LeapingBot"
+                },
+                {
+                    "key":"Robo Frog",
+                    "value":"Robo Frog"
+                },
+                {
+                    "key":"Strange Caterpillar",
+                    "value":"Strange Caterpillar"
+                },
+                {
+                    "key":"Mantisgod",
+                    "value":"Mantisgod"
+                },
+                {
+                    "key":"Deaths with the Scythe",
+                    "value":"Deaths with the Scythe"
+                },
+                {
+                    "key":"Water monster",
+                    "value":"Water monster"
+                },
+                {
+                    "key":"Direwolf",
+                    "value":"Direwolf"
+                },
+                {
+                    "key":"Direwolfcub",
+                    "value":"Direwolfcub"
+                },
+                {
+                    "key":"Double turret",
+                    "value":"Double turret"
+                },
+                {
+                    "key":"StimMage",
+                    "value":"StimMage"
+                },
+                {
+                    "key":"One-eyed Gollum",
+                    "value":"One-eyed Gollum"
+                },
+                {
+                    "key":"SkeletonMage",
+                    "value":"SkeletonMage"
+                },
+                {
+                    "key":"Rubygolem",
+                    "value":"Rubygolem"
+                },
+                {
+                    "key":"Gunnerbot",
+                    "value":"Gunnerbot"
+                },
+                {
+                    "key":"Drownedsoul",
+                    "value":"Drownedsoul"
+                },
+                {
+                    "key":"Viper",
+                    "value":"Viper"
+                },
+                {
+                    "key":"Magic Teacher",
+                    "value":"Magic Teacher"
+                },
+                {
+                    "key":"Blue Mage",
+                    "value":"Blue Mage"
+                },
+                {
+                    "key":"Red Mage",
+                    "value":"Red Mage"
+                },
+                {
+                    "key":"Orange Mage",
+                    "value":"Orange Mage"
+                },
+                {
+                    "key":"Magical Havoc",
+                    "value":"Magical Havoc"
+                },
+                {
+                    "key":"Healing Sorcery",
+                    "value":"Healing Sorcery"
+                },
+                {
+                    "key":"Cursed Mage",
+                    "value":"Cursed Mage"
+                },
+                {
+                    "key":"Octo-Ward",
+                    "value":"Octo-Ward"
+                },
+                {
+                    "key":"Tentacle Challenge",
+                    "value":"Tentacle Challenge"
+                },
+                {
+                    "key":"Damage Amplifier",
+                    "value":"Damage Amplifier"
+                },
+                {
+                    "key":"Weakening Curse",
+                    "value":"Weakening Curse"
+                }
+    ]
+}

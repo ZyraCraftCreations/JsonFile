@@ -1,0 +1,937 @@
+{
+    "items" :[
+        {
+            "key":"MenuKey1",
+            "value":"Nuovo gioco"
+        },
+        {
+            "key":"MenuKey2",
+            "value":"Continua"
+        },
+        {
+            "key":"MenuKey3",
+            "value":"Uscita"
+        },
+        {
+            "key":"MenuKey4",
+            "value":"Sì"
+        },
+        {
+            "key":"MenuKey5",
+            "value":"No"
+        },
+        {
+            "key":"MenuKey6",
+            "value":"Iniziare una nuova partita?"
+        },
+        {
+            "key":"MenuKey7",
+            "value":"Uscire dal gioco?"
+        },
+        {
+            "key":"MenuKey8",
+            "value":"Impostazioni"
+        },
+        {
+            "key":"MenuKey9",
+            "value":"Suono"
+        },
+        {
+            "key":"MenuKey10",
+            "value":"Musica"
+        },
+        {
+            "key":"MenuKey11",
+            "value":"Lingua"
+        },
+
+        {
+            "key":"UIGameKey1",
+            "value":"Andare al menu?"
+        },
+        {
+            "key":"UIGameKey2",
+            "value":"Sì"
+        },
+        {
+            "key":"UIGameKey3",
+            "value":"No"
+        },
+        {
+            "key":"UIGameKey4",
+            "value":"L'energia. Senza energia, è impossibile giocare le battaglie di carte"
+        },
+        {
+            "key":"UIGameKey5",
+            "value":"Entrare nel treno"
+        },
+
+
+
+        {
+            "key":"UIGameKey6",
+            "value":"Città povera"
+        },
+        {
+            "key":"UIGameKey7",
+            "value":"Città ricca"
+        },
+        {
+            "key":"UIGameKey8",
+            "value":"Posizione invernale"
+        },
+        {
+            "key":"UIGameKey9",
+            "value":"Valle dimenticata"
+        },
+        {
+            "key":"RichCity",
+            "value":"Città ricca"
+        },
+        {
+            "key":"PoorCity",
+            "value":"Città povera"
+        },
+        {
+            "key":"WinterValley",
+            "value":"La valle d'inverno"
+        },
+
+        
+
+
+        {
+            "key":"UIGameKey11",
+            "value":"Birra"
+        },
+        {
+            "key":"UIGameKey12",
+            "value":"Sorso stellare"
+        },
+        {
+            "key":"UIGameKey13",
+            "value":"Carota"
+        },
+        {
+            "key":"UIGameKey14",
+            "value":"Spirito di Stella"
+        },
+        {
+            "key":"UIGameKey15",
+            "value":"Bacca"
+        },
+        {
+            "key":"UIGameKey16",
+            "value":"Cavolo"
+        },
+        {
+            "key":"UIGameKey17",
+            "value":"Pozione Energia"
+        },
+        {
+            "key":"UIGameKey18",
+            "value":"Velocità della pozione"
+        },
+        {
+            "key":"UIGameKey19",
+            "value":"Pozione Fame"
+        },
+        {
+            "key":"UIGameKey20",
+            "value":"Cipolla"
+        },
+
+
+
+        {
+            "key":"UIGameKey21",
+            "value":"Corvo"
+        },
+        {
+            "key":"UIGameKey22",
+            "value":"Il corvo selvatico è uno degli uccelli più intelligenti"
+        },
+        {
+            "key":"UIGameKey23",
+            "value":"Scarabeo volante"
+        },
+        {
+            "key":"UIGameKey24",
+            "value":"Se sono molti, diventano pericolosi"
+        },
+        {
+            "key":"UIGameKey25",
+            "value":"Grizzly"
+        },
+        {
+            "key":"UIGameKey26",
+            "value":"Il grizzly è un orso feroce e pericoloso, fate attenzione a lui"
+        },
+        {
+            "key":"UIGameKey27",
+            "value":"Zombie"
+        },
+        {
+            "key":"UIGameKey28",
+            "value":"Apocalisse zombie?"
+        },
+        {
+            "key":"UIGameKey29",
+            "value":"Tartaruga di fango"
+        },
+        {
+            "key":"UIGameKey30",
+            "value":"Forte ma inutile"
+        },
+        {
+            "key":"UIGameKey31",
+            "value":"Coyote"
+        },
+        {
+            "key":"UIGameKey32",
+            "value":"Coyote sottile, niente di speciale"
+        },
+        {
+            "key":"UIGameKey33",
+            "value":"Scheletro"
+        },
+        {
+            "key":"UIGameKey34",
+            "value":"Scheletro osseo"
+        },
+        {
+            "key":"UIGameKey35",
+            "value":"Urayuli"
+        },
+        {
+            "key":"UIGameKey36",
+            "value":"???"
+        },
+        {
+            "key":"UIGameKey37",
+            "value":"SpessoRobot"
+        },
+        {
+            "key":"UIGameKey38",
+            "value":"Robot in armatura d'acciaio"
+        },
+        {
+            "key":"UIGameKey39",
+            "value":"Cucciolo di lupo"
+        },
+        {
+            "key":"UIGameKey40",
+            "value":"Piccolo cucciolo di lupo"
+        },
+        {
+            "key":"UIGameKey41",
+            "value":"Bot a vapore"
+        },
+        {
+            "key":"UIGameKey42",
+            "value":"Bot a vapore, una macchina forte e potente che non vede ostacoli sul suo cammino"
+        },
+        {
+            "key":"UIGameKey43",
+            "value":"Lupo"
+        },
+        {
+            "key":"UIGameKey44",
+            "value":"Lupo grigio selvatico"
+        },
+        {
+            "key":"UIGameKey45",
+            "value":"Opossum"
+        },
+        {
+            "key":"UIGameKey46",
+            "value":"Sciocco opossum"
+        },
+        {
+            "key":"UIGameKey47",
+            "value":"Alce"
+        },
+        {
+            "key":"UIGameKey48",
+            "value":"Cervo adulto"
+        },
+        {
+            "key":"UIGameKey49",
+            "value":"Kraken"
+        },
+        {
+            "key":"UIGameKey50",
+            "value":"Piccolo e adorabile kraken"
+        },
+        {
+            "key":"UIGameKey51",
+            "value":"Ghiottone"
+        },
+        {
+            "key":"UIGameKey52",
+            "value":"Ghiottone feroce, ma quanto feroce?"
+        },
+        {
+            "key":"UIGameKey53",
+            "value":"InsectoBot"
+        },
+        {
+            "key":"UIGameKey54",
+            "value":"InsectoBot - un piccolo robot volante che monitora il mondo del gioco"
+        },
+        {
+            "key":"UIGameKey55",
+            "value":"Rana toro"
+        },
+        {
+            "key":"UIGameKey56",
+            "value":"La rana toro è una rana di grandi dimensioni con denti affilati e un salto potente, pronta a colpire i suoi nemici"
+        },
+        {
+            "key":"UIGameKey57",
+            "value":"AutoMatone"
+        },
+        {
+            "key":"UIGameKey58",
+            "value":"Una volta c'era un grande esercito di questi robot, ma ora si tratta solo di una mappa"
+        },
+        {
+            "key":"UIGameKey59",
+            "value":"Carrello da miniera"
+        },
+        {
+            "key":"UIGameKey60",
+            "value":"C'era una volta un minatore che uscì da solo da una miniera profonda e gli dei lo immortalarono come un eroe in una mappa"
+        },
+        {
+            "key":"UIGameKey61",
+            "value":"Torretta"
+        },
+        {
+            "key":"UIGameKey62",
+            "value":"Una semplice torretta che si protegge da sola"
+        },
+        {
+            "key":"UIGameKey63",
+            "value":"CaneFulmine"
+        },
+        {
+            "key":"UIGameKey64",
+            "value":"CaneFulmine, uno dei segugi creati dall'artefice della carta. I suoi denti sono fatti di piastre d'acciaio"
+        },
+        {
+            "key":"UIGameKey65",
+            "value":"Cucciolo di alce"
+        },
+        {
+            "key":"UIGameKey66",
+            "value":"Cucciolo di alce semplice ma capace"
+        },
+        {
+            "key":"UIGameKey67",
+            "value":"Banshee"
+        },
+        {
+            "key":"UIGameKey68",
+            "value":"Banshee - attaccavano le persone in gruppo, quindi sono entrati nella collezione di cartoline"
+        },
+        {
+            "key":"UIGameKey69",
+            "value":"Falco"
+        },
+        {
+            "key":"UIGameKey70",
+            "value":"Falco non ama tutti"
+        },
+        {
+            "key":"UIGameKey71",
+            "value":"Famiglia pazza"
+        },
+        {
+            "key":"UIGameKey72",
+            "value":"Beh, qui non ci sono domande"
+        },
+        {
+            "key":"UIGameKey73",
+            "value":"Salmone"
+        },
+        {
+            "key":"UIGameKey74",
+            "value":"Il salmone elastico è veramente elastico"
+        },
+        {
+            "key":"UIGameKey75",
+            "value":"CaneOsso"
+        },
+        {
+            "key":"UIGameKey76",
+            "value":"CaneOsso è stato creato anche dalla card crafter"
+        },
+        {
+            "key":"UIGameKey77",
+            "value":"Franknstein"
+        },
+        {
+            "key":"UIGameKey78",
+            "value":"Frankn-stein Anche gli dei avevano paura di questi tipi inquietanti"
+        },
+        {
+            "key":"UIGameKey79",
+            "value":"MagoMuscolare"
+        },
+        {
+            "key":"UIGameKey80",
+            "value":"La sua forza supera il limite consen"
+        },
+        {
+            "key":"UIGameKey81",
+            "value":"ermellino"
+        },
+        {
+            "key":"UIGameKey82",
+            "value":"ermellino è agile, astuto e intelligente"
+        },
+        {
+            "key":"UIGameKey83",
+            "value":"Segugio"
+        },
+        {
+            "key":"UIGameKey84",
+            "value":"Anche il mastino ordinario è una creazione della card crafter"
+        },
+        {
+            "key":"UIGameKey85",
+            "value":"Mostro d'acqua"
+        },
+        {
+            "key":"UIGameKey86",
+            "value":"Mostro d'acqua con uno scudo che permette di ignorare un colpo."
+        },
+        {
+            "key":"UIGameKey87",
+            "value":"Golem di rubino"
+        },
+        {
+            "key":"UIGameKey88",
+            "value":"Il Golem di Rubino ha uno scudo che permette di ignorare un colpo"
+        },
+        {
+            "key":"UIGameKey89",
+            "value":"Lupo terribile"
+        },
+        {
+            "key":"UIGameKey90",
+            "value":"Può contrattaccare due volte"
+        },
+        {
+            "key":"UIGameKey91",
+            "value":"Cucciolo di lupo selvatico"
+        },
+        {
+            "key":"UIGameKey92",
+            "value":"Vipera"
+        },
+        {
+            "key":"UIGameKey93",
+            "value":"MagoScheletro"
+        },
+        {
+            "key":"UIGameKey94",
+            "value":"Le leggende dicono che un tempo questo mago era la carta più potente del gioco. Può contrattaccare due volte"
+        },
+        {
+            "key":"UIGameKey95",
+            "value":"Dio mantide"
+        },
+        {
+            "key":"UIGameKey96",
+            "value":"Può attaccare due volte"
+        },
+        {
+            "key":"UIGameKey97",
+            "value":"Doppia torretta"
+        },
+        {
+            "key":"UIGameKey98",
+            "value":"Artigliere Bot"
+        },
+        {
+            "key":"UIGameKey99",
+            "value":"MagoStimolo"
+        },
+        {
+            "key":"UIGameKey100",
+            "value":"Può attaccare immediatamente dopo la sua comparsa sul campo di battaglia"
+        },
+        {
+            "key":"UIGameKey101",
+            "value":"Morti con la falce"
+        },
+        {
+            "key":"UIGameKey102",
+            "value":"Insegnante di magia"
+        },
+        {
+            "key":"UIGameKey103",
+            "value":"Anima sommersa"
+        },
+        {
+            "key":"UIGameKey104",
+            "value":"Scoiattolo"
+        },
+        {
+            "key":"UIGameKey105",
+            "value":"Il semplice scoiattolo può prendere un colpo al posto degli altri"
+        },
+        {
+            "key":"UIGameKey106",
+            "value":"Bot saltellante"
+        },
+        {
+            "key":"UIGameKey107",
+            "value":"Può subire un colpo al posto di altri"
+        },
+        {
+            "key":"UIGameKey108",
+            "value":"UomoTalpa"
+        },
+        {
+            "key":"UIGameKey109",
+            "value":"Talpa"
+        },
+        {
+            "key":"UIGameKey110",
+            "value":"Robo Rana"
+        },
+        {
+            "key":"UIGameKey111",
+            "value":"Gollum con un occhio solo"
+        },
+        {
+            "key":"UIGameKey112",
+            "value":"Si dice che questo gollum con un occhio solo abbia uno stomaco senza fondo. A ogni turno, la sua salute aumenta di 1"
+        },
+        {
+            "key":"UIGameKey113",
+            "value":"Strano bruco"
+        },
+        {
+            "key":"UIGameKey114",
+            "value":"Ad ogni turno, la sua salute aumenta di 1"
+        },
+        {
+            "key":"UIGameKey115",
+            "value":"Mago arancione"
+        },
+        {
+            "key":"UIGameKey116",
+            "value":"Cura l'eroe per 2 punti vita"
+        },
+        {
+            "key":"UIGameKey117",
+            "value":"Stregoneria curativa"
+        },
+        {
+            "key":"UIGameKey118",
+            "value":"Cura la carta selezionata per 2 salute"
+        },
+        {
+            "key":"UIGameKey119",
+            "value":"Maledizione dell'indebolimento"
+        },
+        {
+            "key":"UIGameKey120",
+            "value":"Riduce di due punti il danno della carta selezionata"
+        },
+        {
+            "key":"UIGameKey121",
+            "value":"Mago blu"
+        },
+        {
+            "key":"UIGameKey122",
+            "value":"Guarisce di due punti vita tutte le carte sul campo di battaglia"
+        },
+        {
+            "key":"UIGameKey123",
+            "value":"Mago rosso"
+        },
+        {
+            "key":"UIGameKey124",
+            "value":"Infligge due danni a tutte le carte sul campo di battaglia"
+        },
+        {
+            "key":"UIGameKey125",
+            "value":"Amplificatore di danni"
+        },
+        {
+            "key":"UIGameKey126",
+            "value":"Aumenta di due punti il danno della carta selezionata"
+        },
+        {
+            "key":"UIGameKey127",
+            "value":"Sfida con i tentacoli"
+        },
+        {
+            "key":"UIGameKey128",
+            "value":"Applica l'effetto taunt alla carta selezionata"
+        },
+        {
+            "key":"UIGameKey129",
+            "value":"Mago maledetto"
+        },
+        {
+            "key":"UIGameKey130",
+            "value":"Infligge due danni alle carte selezionate dell'avversario"
+        },
+        {
+            "key":"UIGameKey131",
+            "value":"GuardianoOcto"
+        },
+        {
+            "key":"UIGameKey132",
+            "value":"Applica uno scudo alla carta selezionata"
+        },
+        {
+            "key":"UIGameKey133",
+            "value":"Scempio magico"
+        },
+        {
+            "key":"UIGameKey134",
+            "value":"Infligge due danni all'eroe nemico"
+        },
+
+
+
+
+        {
+            "key":"UIGameKey135",
+            "value":"Missioni"
+        },
+        {
+            "key":"UIGameKey136",
+            "value":"Entrare nella città povera"
+        },
+        {
+            "key":"UIGameKey137",
+            "value":"Trovate Nicholas nel parcheggio delle roulotte della città povera e ottenete informazioni sulla posizione del sindaco"
+        },
+        {
+            "key":"UIGameKey138",
+            "value":"Vai alla fattoria vicino alla città ricca; lì mi aspettano"
+        },
+        {
+            "key":"UIGameKey139",
+            "value":"Trovare qualcuno che sappia qualcosa sulla chiave di terzo livello e chiarire la situazione in città"
+        },
+        {
+            "key":"UIGameKey140",
+            "value":"Devo andare nella città invernale"
+        },
+        {
+            "key":"UIGameKey141",
+            "value":"Sconfiggi Brittany nelle battaglie con le carte e trova il luogo descritto nella nota che riceverò come ricompensa da Brittany"
+        },
+        {
+            "key":"UIGameKey142",
+            "value":"Per trovare o guadagnare 1000 monete e prendere il treno vicino alla località invernale"
+        },
+        {
+            "key":"UIGameKey143",
+            "value":"Sconfiggi 5 guardie e raggiungi Malachai"
+        },
+        {
+            "key":"UIGameKey144",
+            "value":"Sconfiggete Malachai e prendete la chiave del quarto livello, quindi imparate immediatamente la posizione delle porte finali del quarto livello!"
+        },
+        {
+            "key":"UIGameKey145",
+            "value":"Attraversare i cancelli e realizzare la profezia dell'avventuriero"
+        },
+        {
+            "key":"UIDopQuest1",
+            "value":"Trouvez l'hôtel de ville d'une ville pauvre et essayez de trouver le maire"
+        },
+        {
+            "key":"UIDopQuest2",
+            "value":"Parler au maire d'une ville pauvre et se rendre dans une ville riche"
+        },
+
+
+
+
+        {
+            "key":"UIGameKey146",
+            "value":"Giacobbe"
+        },
+        {
+            "key":"UIGameKey147",
+            "value":"Questa è una breve guida al gioco di carte. I cristalli blu rappresentano il mana. A ogni turno, il mana aumenta di 1. Se si utilizza tutto il mana nel turno successivo, questo viene ripristinato. Per terminare il turno, premere l'icona della campana e il turno sarà concluso. Il cuore rosso simboleggia la salute. Se scende sotto lo zero, si perde. Ogni carta ha il suo costo, la sua salute e i suoi danni. Ci sono anche carte incantesimo e alcune carte hanno delle abilità, che si possono leggere nel bestiario delle carte. Inoltre, c'è un campo da gioco dove si posizionano le carte per attaccare il nemico o le sue carte. Per attaccare, basta premere e trascinare la carta nel punto desiderato. Questo dovrebbe essere sufficiente per iniziare. Buona fortuna!"
+        },
+        {
+            "key":"UIGameKey148",
+            "value":"Riavvio"
+        },
+        {
+            "key":"UIGameKey149",
+            "value":"Uscita"
+        },
+        {
+            "key":"WIN",
+            "value":"VINCERE"
+        },
+        {
+            "key":"Defeat",
+            "value":"Sconfitta -1 Energia"
+        },
+        
+
+        {
+            "key":"Banshee",
+            "value":"Banshee"
+        },
+        {
+            "key":"Hound",
+            "value":"Segugio"
+        },
+        {
+            "key":"Coyote",
+            "value":"Coyote"
+        },
+        {
+            "key":"Bullfrog",
+            "value":"Rana toro"
+        },
+        {
+            "key":"Wolf",
+            "value":"Lupo"
+        },
+        {
+            "key":"Wolfcub",
+            "value":"Cucciolo di lupo"
+        },
+        {
+            "key":"Zombie",
+            "value":"Zombie"
+        },
+        {
+            "key":"Wolverine",
+            "value":"Ghiottone"
+        },
+        {
+            "key":"Urayuli",
+            "value":"Urayuli"
+        },
+        {
+            "key":"Stoat",
+            "value":"ermellino"
+        },
+        {
+            "key":"Opossum",
+            "value":"Opossum"
+        },
+        {
+            "key":"Turret",
+            "value":"Torretta"
+        },
+        {
+            "key":"Thickbot",
+            "value":"SpessoRobot"
+        },
+        {
+            "key":"Steambot",
+            "value":"Bot a vapore"
+        },
+        {
+            "key":"Skeleton",
+            "value":"Scheletro"
+        },
+        {
+            "key":"Salmon",
+            "value":"Salmone"
+        },
+        {
+            "key":"MuscleMage",
+            "value":"MagoMuscolare"
+        },
+        {
+            "key":"Mudturtle",
+            "value":"Tartaruga di fango"
+        },
+        {
+            "key":"Kraken",
+            "value":"Kraken"
+        },
+        {
+            "key":"InsectoBot",
+            "value":"InsectoBot"
+        },
+        {
+            "key":"Hawk",
+            "value":"Falco"
+        },
+        {
+            "key":"Grizzly",
+            "value":"Grizzly"
+        },
+        {
+            "key":"Flying beetle",
+            "value":"Scarabeo volante"
+        },
+        {
+            "key":"Crazy family",
+            "value":"Famiglia pazza"
+        },
+        {
+            "key":"Elkcub",
+            "value":"Cucciolo di alce"
+        },
+        {
+            "key":"Elk",
+            "value":"Alce"
+        },
+        {
+            "key":"Bonehound",
+            "value":"CaneOsso"
+        },
+        {
+            "key":"Bolthound",
+            "value":"CaneFulmine"
+        },
+        {
+            "key":"Automaton",
+            "value":"AutoMatone"
+        },
+        {
+            "key":"Raven",
+            "value":"Corvo"
+        },
+        {
+            "key":"Minecart",
+            "value":"Carrello da miniera"
+        },
+        {
+            "key":"Franknstein",
+            "value":"Franknstein"
+        },
+        {
+            "key":"Moleman",
+            "value":"UomoTalpa"
+        },
+        {
+            "key":"Squirrel",
+            "value":"Scoiattolo"
+        },
+        {
+            "key":"Mole",
+            "value":"Talpa"
+        },
+        {
+            "key":"LeapingBot",
+            "value":"Bot saltellante"
+        },
+        {
+            "key":"Robo Frog",
+            "value":"Robo Rana"
+        },
+        {
+            "key":"Strange Caterpillar",
+            "value":"Strano bruco"
+        },
+        {
+            "key":"Mantisgod",
+            "value":"Dio mantide"
+        },
+        {
+            "key":"Deaths with the Scythe",
+            "value":"Morti con la falce"
+        },
+        {
+            "key":"Water monster",
+            "value":"Mostro d'acqua"
+        },
+        {
+            "key":"Direwolf",
+            "value":"Lupo terribile"
+        },
+        {
+            "key":"Direwolfcub",
+            "value":"Cucciolo di lupo selvatico"
+        },
+        {
+            "key":"Double turret",
+            "value":"Doppia torretta"
+        },
+        {
+            "key":"StimMage",
+            "value":"MagoStimolo"
+        },
+        {
+            "key":"One-eyed Gollum",
+            "value":"Gollum con un occhio solo"
+        },
+        {
+            "key":"SkeletonMage",
+            "value":"MagoScheletro"
+        },
+        {
+            "key":"Rubygolem",
+            "value":"Golem di rubino"
+        },
+        {
+            "key":"Gunnerbot",
+            "value":"Artigliere Bot"
+        },
+        {
+            "key":"Drownedsoul",
+            "value":"Anima sommersa"
+        },
+        {
+            "key":"Viper",
+            "value":"Vipera"
+        },
+        {
+            "key":"Magic Teacher",
+            "value":"Insegnante di magia"
+        },
+        {
+            "key":"Blue Mage",
+            "value":"Mago blu"
+        },
+        {
+            "key":"Red Mage",
+            "value":"Mago rosso"
+        },
+        {
+            "key":"Orange Mage",
+            "value":"Mago arancione"
+        },
+        {
+            "key":"Magical Havoc",
+            "value":"Scempio magico"
+        },
+        {
+            "key":"Healing Sorcery",
+            "value":"Stregoneria curativa"
+        },
+        {
+            "key":"Cursed Mage",
+            "value":"Mago maledetto"
+        },
+        {
+            "key":"Octo-Ward",
+            "value":"GuardianoOcto"
+        },
+        {
+            "key":"Tentacle Challenge",
+            "value":"Sfida con i tentacoli"
+        },
+        {
+            "key":"Damage Amplifier",
+            "value":"Amplificatore di danni"
+        },
+        {
+            "key":"Weakening Curse",
+            "value":"Maledizione dell'indebolimento"
+        }
+    ]
+}
