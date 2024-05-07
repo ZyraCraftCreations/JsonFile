@@ -1,0 +1,1429 @@
+{
+    "items" :[
+        {
+            "key":"MenuKey1",
+            "value":"New Game"
+        },
+        {
+            "key":"MenuKey2",
+            "value":"Continue"
+        },
+        {
+            "key":"MenuKey3",
+            "value":"Exit"
+        },
+        {
+            "key":"MenuKey4",
+            "value":"Yes"
+        },
+        {
+            "key":"MenuKey5",
+            "value":"No"
+        },
+        {
+            "key":"MenuKey6",
+            "value":"Start a new game?"
+        },
+        {
+            "key":"MenuKey7",
+            "value":"Exit the game?"
+        },
+        {
+            "key":"MenuKey8",
+            "value":"Settings"
+        },
+        {
+            "key":"MenuKey9",
+            "value":"Sound"
+        },
+        {
+            "key":"MenuKey10",
+            "value":"Music"
+        },
+        {
+            "key":"MenuKey11",
+            "value":"Language"
+        },
+       
+                {
+                    "key":"UIGameKey1",
+                    "value":"Go to the menu?"
+                },
+                {
+                    "key":"UIGameKey2",
+                    "value":"Yes"
+                },
+                {
+                    "key":"UIGameKey3",
+                    "value":"No"
+                },
+                {
+                    "key":"UIGameKey4",
+                    "value":"Your energy. Without energy, it's impossible to play card battles"
+                },
+                {
+                    "key":"UIGameKey5",
+                    "value":"Enter the train"
+                },
+        
+        
+        
+                {
+                    "key":"UIGameKey6",
+                    "value":"Poor City"
+                },
+                {
+                    "key":"UIGameKey7",
+                    "value":"Rich City"
+                },
+                {
+                    "key":"UIGameKey8",
+                    "value":"Winter Location"
+                },
+                {
+                    "key":"UIGameKey9",
+                    "value":"Forgotten Valley"
+                },
+                {
+                    "key":"RichCity",
+                    "value":"Rich City"
+                },
+                {
+                    "key":"PoorCity",
+                    "value":"Poor City"
+                },
+                {
+                    "key":"WinterValley",
+                    "value":"The Winter Valley"
+                },
+        
+        
+        
+                {
+                    "key":"UIGameKey11",
+                    "value":"Beer"
+                },
+                {
+                    "key":"UIGameKey12",
+                    "value":"Stellar Sip"
+                },
+                {
+                    "key":"UIGameKey13",
+                    "value":"Carrot"
+                },
+                {
+                    "key":"UIGameKey14",
+                    "value":"Starshine Spirit"
+                },
+                {
+                    "key":"UIGameKey15",
+                    "value":"Berry"
+                },
+                {
+                    "key":"UIGameKey16",
+                    "value":"Cabbage"
+                },
+                {
+                    "key":"UIGameKey17",
+                    "value":"Potion Energy"
+                },
+                {
+                    "key":"UIGameKey18",
+                    "value":"Potion Speed"
+                },
+                {
+                    "key":"UIGameKey19",
+                    "value":"Potion Hunger"
+                },
+                {
+                    "key":"UIGameKey20",
+                    "value":"Onion"
+                },
+        
+        
+        
+                {
+                    "key":"UIGameKey21",
+                    "value":"Raven"
+                },
+                {
+                    "key":"UIGameKey22",
+                    "value":"The wild raven is one of the smarter birds"
+                },
+                {
+                    "key":"UIGameKey23",
+                    "value":"Flying Beetle"
+                },
+                {
+                    "key":"UIGameKey24",
+                    "value":"If there are many of them, they become dangerous"
+                },
+                {
+                    "key":"UIGameKey25",
+                    "value":"Grizzly"
+                },
+                {
+                    "key":"UIGameKey26",
+                    "value":"The grizzly is a fierce and dangerous bear, beware of it"
+                },
+                {
+                    "key":"UIGameKey27",
+                    "value":"Zombie"
+                },
+                {
+                    "key":"UIGameKey28",
+                    "value":"Zombie apocalypse?"
+                },
+                {
+                    "key":"UIGameKey29",
+                    "value":"Mudturtle"
+                },
+                {
+                    "key":"UIGameKey30",
+                    "value":"Strong but useless"
+                },
+                {
+                    "key":"UIGameKey31",
+                    "value":"Coyote"
+                },
+                {
+                    "key":"UIGameKey32",
+                    "value":"Thin coyote, nothing special"
+                },
+                {
+                    "key":"UIGameKey33",
+                    "value":"Skeleton"
+                },
+                {
+                    "key":"UIGameKey34",
+                    "value":"Bony skeleton"
+                },
+                {
+                    "key":"UIGameKey35",
+                    "value":"Urayuli"
+                },
+                {
+                    "key":"UIGameKey36",
+                    "value":"???"
+                },
+                {
+                    "key":"UIGameKey37",
+                    "value":"ThickBot"
+                },
+                {
+                    "key":"UIGameKey38",
+                    "value":"Robot in steel armor"
+                },
+                {
+                    "key":"UIGameKey39",
+                    "value":"Wolfcub"
+                },
+                {
+                    "key":"UIGameKey40",
+                    "value":"Tiny wolfcub"
+                },
+                {
+                    "key":"UIGameKey41",
+                    "value":"SteamBot"
+                },
+                {
+                    "key":"UIGameKey42",
+                    "value":"SteamBot, a strong and powerful machine that doesn't see obstacles in its path"
+                },
+                {
+                    "key":"UIGameKey43",
+                    "value":"Wolf"
+                },
+                {
+                    "key":"UIGameKey44",
+                    "value":"Wild gray wolf"
+                },
+                {
+                    "key":"UIGameKey45",
+                    "value":"Opossum"
+                },
+                {
+                    "key":"UIGameKey46",
+                    "value":"Silly opossum"
+                },
+                {
+                    "key":"UIGameKey47",
+                    "value":"Elk"
+                },
+                {
+                    "key":"UIGameKey48",
+                    "value":"Adult deer"
+                },
+                {
+                    "key":"UIGameKey49",
+                    "value":"Kraken"
+                },
+                {
+                    "key":"UIGameKey50",
+                    "value":"Tiny adorable kraken"
+                },
+                {
+                    "key":"UIGameKey51",
+                    "value":"Wolverine"
+                },
+                {
+                    "key":"UIGameKey52",
+                    "value":"Fierce Wolverine, but how fierce?"
+                },
+                {
+                    "key":"UIGameKey53",
+                    "value":"InsectoBot"
+                },
+                {
+                    "key":"UIGameKey54",
+                    "value":"InsectoBot - a small flying robot that monitors the world of the game"
+                },
+                {
+                    "key":"UIGameKey55",
+                    "value":"Bullfrog"
+                },
+                {
+                    "key":"UIGameKey56",
+                    "value":"BullFrog is a large frog with sharp teeth and a powerful jump, ready to strike down its enemies"
+                },
+                {
+                    "key":"UIGameKey57",
+                    "value":"AutoMaton"
+                },
+                {
+                    "key":"UIGameKey58",
+                    "value":"Once there was a large army of these robots, but now it's just a map"
+                },
+                {
+                    "key":"UIGameKey59",
+                    "value":"MineCart"
+                },
+                {
+                    "key":"UIGameKey60",
+                    "value":"There was once a miner who got out of a deep mine on his own, and the gods immortalized him as a hero in a map "
+                },
+                {
+                    "key":"UIGameKey61",
+                    "value":"Turret"
+                },
+                {
+                    "key":"UIGameKey62",
+                    "value":"A simple turret that protects itself"
+                },
+                {
+                    "key":"UIGameKey63",
+                    "value":"BoltHound"
+                },
+                {
+                    "key":"UIGameKey64",
+                    "value":"BoltHound, one of the hounds created by the card crafter. Its teeth are made of steel plates"
+                },
+                {
+                    "key":"UIGameKey65",
+                    "value":"Elkcub"
+                },
+                {
+                    "key":"UIGameKey66",
+                    "value":"Simple Elkcup but capable"
+                },
+                {
+                    "key":"UIGameKey67",
+                    "value":"Banshee"
+                },
+                {
+                    "key":"UIGameKey68",
+                    "value":"Banshees - used to attack people in gangs, so they got into the postcard collection"
+                },
+                {
+                    "key":"UIGameKey69",
+                    "value":"Hawk"
+                },
+                {
+                    "key":"UIGameKey70",
+                    "value":"Hawk dislikes everyone"
+                },
+                {
+                    "key":"UIGameKey71",
+                    "value":"Crazy Family"
+                },
+                {
+                    "key":"UIGameKey72",
+                    "value":"Well, no questions here"
+                },
+                {
+                    "key":"UIGameKey73",
+                    "value":"Salmon"
+                },
+                {
+                    "key":"UIGameKey74",
+                    "value":"Elastic salmon is truly elastic"
+                },
+                {
+                    "key":"UIGameKey75",
+                    "value":"BoneHound"
+                },
+                {
+                    "key":"UIGameKey76",
+                    "value":"Bonehound was also created by the card crafter"
+                },
+                {
+                    "key":"UIGameKey77",
+                    "value":"Franknstein"
+                },
+                {
+                    "key":"UIGameKey78",
+                    "value":"Frankn-stein Even the gods were afraid of these creepy guys"
+                },
+                {
+                    "key":"UIGameKey79",
+                    "value":"Musclemage"
+                },
+                {
+                    "key":"UIGameKey80",
+                    "value":"His strength exceeds the permissible"
+                },
+                {
+                    "key":"UIGameKey81",
+                    "value":"Stoat"
+                },
+                {
+                    "key":"UIGameKey82",
+                    "value":"Soat is agile, cunning, and smart"
+                },
+                {
+                    "key":"UIGameKey83",
+                    "value":"Hound"
+                },
+                {
+                    "key":"UIGameKey84",
+                    "value":"The ordinary hound is also a creation of the card crafter"
+                },
+                {
+                    "key":"UIGameKey85",
+                    "value":"Water Monster"
+                },
+                {
+                    "key":"UIGameKey86",
+                    "value":"Water monster with a shield that allows ignoring one hit"
+                },
+                {
+                    "key":"UIGameKey87",
+                    "value":"RubyGolem"
+                },
+                {
+                    "key":"UIGameKey88",
+                    "value":"Rubygolem has a shield that allows ignoring one hit"
+                },
+                {
+                    "key":"UIGameKey89",
+                    "value":"Direwolf"
+                },
+                {
+                    "key":"UIGameKey90",
+                    "value":"Can counterattack twice"
+                },
+                {
+                    "key":"UIGameKey91",
+                    "value":"Direwolfcub"
+                },
+                {
+                    "key":"UIGameKey92",
+                    "value":"Viper"
+                },
+                {
+                    "key":"UIGameKey93",
+                    "value":"SkeletonMage"
+                },
+                {
+                    "key":"UIGameKey94",
+                    "value":"Legends say that this mage was once the most powerful card in the game. Can counterattack twice"
+                },
+                {
+                    "key":"UIGameKey95",
+                    "value":"MantisGod"
+                },
+                {
+                    "key":"UIGameKey96",
+                    "value":"Can attack twice"
+                },
+                {
+                    "key":"UIGameKey97",
+                    "value":"Double Turret"
+                },
+                {
+                    "key":"UIGameKey98",
+                    "value":"GunnerBot"
+                },
+                {
+                    "key":"UIGameKey99",
+                    "value":"StimMage"
+                },
+                {
+                    "key":"UIGameKey100",
+                    "value":"Can attack immediately upon appearing on the battlefield"
+                },
+                {
+                    "key":"UIGameKey101",
+                    "value":"Deaths with the scythe"
+                },
+                {
+                    "key":"UIGameKey102",
+                    "value":"Magic Teacher"
+                },
+                {
+                    "key":"UIGameKey103",
+                    "value":"Drownedsoul"
+                },
+                {
+                    "key":"UIGameKey104",
+                    "value":"Squirrel"
+                },
+                {
+                    "key":"UIGameKey105",
+                    "value":"Simple squirrel can take a hit instead of others"
+                },
+                {
+                    "key":"UIGameKey106",
+                    "value":"LeapingBot"
+                },
+                {
+                    "key":"UIGameKey107",
+                    "value":"Can take a hit instead of others"
+                },
+                {
+                    "key":"UIGameKey108",
+                    "value":"Moleman"
+                },
+                {
+                    "key":"UIGameKey109",
+                    "value":"Mole"
+                },
+                {
+                    "key":"UIGameKey110",
+                    "value":"Robo Frog"
+                },
+                {
+                    "key":"UIGameKey111",
+                    "value":"One-Eyed Gollum"
+                },
+                {
+                    "key":"UIGameKey112",
+                    "value":"They say this one-eyed gollum has a bottomless stomach. With each turn, its health increases by 1"
+                },
+                {
+                    "key":"UIGameKey113",
+                    "value":"Strange Caterpillar"
+                },
+                {
+                    "key":"UIGameKey114",
+                    "value":"With each turn, its health increases by 1"
+                },
+                {
+                    "key":"UIGameKey115",
+                    "value":"Orange Mage"
+                },
+                {
+                    "key":"UIGameKey116",
+                    "value":"Heals the hero for 2 health"
+                },
+                {
+                    "key":"UIGameKey117",
+                    "value":"Healing Sorcery"
+                },
+                {
+                    "key":"UIGameKey118",
+                    "value":"Heals the selected card for 2 health"
+                },
+                {
+                    "key":"UIGameKey119",
+                    "value":"Weakening Curse"
+                },
+                {
+                    "key":"UIGameKey120",
+                    "value":"Reduces the damage to the selected card by two"
+                },
+                {
+                    "key":"UIGameKey121",
+                    "value":"Blue Mage"
+                },
+                {
+                    "key":"UIGameKey122",
+                    "value":"Heals two health to all cards on the battlefield"
+                },
+                {
+                    "key":"UIGameKey123",
+                    "value":"Red Mage"
+                },
+                {
+                    "key":"UIGameKey124",
+                    "value":"Deals two damage to all cards on the battlefield"
+                },
+                {
+                    "key":"UIGameKey125",
+                    "value":"Damage Amplifier"
+                },
+                {
+                    "key":"UIGameKey126",
+                    "value":"Increases the damage of the selected card by two"
+                },
+                {
+                    "key":"UIGameKey127",
+                    "value":"Tentacle Challenge"
+                },
+                {
+                    "key":"UIGameKey128",
+                    "value":"Applies the taunt effect to the selected card"
+                },
+                {
+                    "key":"UIGameKey129",
+                    "value":"Cursed Mage"
+                },
+                {
+                    "key":"UIGameKey130",
+                    "value":"Deals two damage to the selected cards of the opponent"
+                },
+                {
+                    "key":"UIGameKey131",
+                    "value":"Octo-Ward"
+                },
+                {
+                    "key":"UIGameKey132",
+                    "value":"Applies a shield to the selected card"
+                },
+                {
+                    "key":"UIGameKey133",
+                    "value":"Magical Havoc"
+                },
+                {
+                    "key":"UIGameKey134",
+                    "value":"Deals two damage to the enemy hero"
+                },
+        
+        
+        
+        
+                {
+                    "key":"UIGameKey135",
+                    "value":"Quests"
+                },
+                {
+                    "key":"UIGameKey136",
+                    "value":"Enter the poor town"
+                },
+                {
+                    "key":"UIGameKey137",
+                    "value":"Find Nicholas in the trailer park in the poor city and obtain information about the mayor's whereabouts"
+                },
+                {
+                    "key":"UIGameKey138",
+                    "value":"Go to the farm near the wealthy city; they are waiting for me there"
+                },
+                {
+                    "key":"UIGameKey139",
+                    "value":"To find someone who knows anything about the third-level key and clarify the situation in the city"
+                },
+                {
+                    "key":"UIGameKey140",
+                    "value":"I need to head to the winter city"
+                },
+                {
+                    "key":"UIGameKey141",
+                    "value":"Defeat Brittany in card battles and find the place described in the note that I'll receive as a reward from Brittany"
+                },
+                {
+                    "key":"UIGameKey142",
+                    "value":"To find or earn 1000 coins and take the train near the winter location"
+                },
+                {
+                    "key":"UIGameKey143",
+                    "value":"Defeat 5 guards and reach Malachai"
+                },
+                {
+                    "key":"UIGameKey144",
+                    "value":"Defeat Malachai and take the fourth-level key, then immediately learn the location of the final gates of the fourth level!"
+                },
+                {
+                    "key":"UIGameKey145",
+                    "value":"Pass through the gates and fulfill the prophecy of the adventurer"
+                },
+                {
+                    "key":"UIDopQuest1",
+                    "value":"Find the city hall in a poor city and try to find the mayor"
+                },
+                {
+                    "key":"UIDopQuest2",
+                    "value":"Talk to the mayor of a poor city and go to a rich city"
+                },
+                
+        
+        
+        
+        
+                {
+                    "key":"UIGameKey146",
+                    "value":"Jacob"
+                },
+                {
+                    "key":"UIGameKey147",
+                    "value":"This is a short guide to the card game. Blue crystals represent your mana. With each turn, your mana increases by 1. If you use all your mana in the next turn, it will be restored. To end your turn, press the bell icon, and your turn will be concluded. The red heart symbolizes your health. If it falls below zero, you lose. Each card has its own cost, health, and damage. There are also spell cards, and some cards have abilities, which you can read about in the card bestiary. Additionally, there is a playing field where you place your cards to attack the enemy or their cards. To attack, press and drag your card to where you need it to go. This should be enough to get you started. Good luck!"
+                },
+                {
+                    "key":"UIGameKey148",
+                    "value":"Restart"
+                },
+                {
+                    "key":"UIGameKey149",
+                    "value":"Exit"
+                },
+                {
+                    "key":"WIN",
+                    "value":"WIN"
+                },
+                {
+                    "key":"Defeat",
+                    "value":"Defeat -1 Energy"
+                },
+                
+        
+                {
+                    "key":"Banshee",
+                    "value":"Banshee"
+                },
+                {
+                    "key":"Hound",
+                    "value":"Hound"
+                },
+                {
+                    "key":"Coyote",
+                    "value":"Coyote"
+                },
+                {
+                    "key":"Bullfrog",
+                    "value":"Bullfrog"
+                },
+                {
+                    "key":"Wolf",
+                    "value":"Wolf"
+                },
+                {
+                    "key":"Wolfcub",
+                    "value":"Wolfcub"
+                },
+                {
+                    "key":"Zombie",
+                    "value":"Zombie"
+                },
+                {
+                    "key":"Wolverine",
+                    "value":"Wolverine"
+                },
+                {
+                    "key":"Urayuli",
+                    "value":"Urayuli"
+                },
+                {
+                    "key":"Stoat",
+                    "value":"Stoat"
+                },
+                {
+                    "key":"Opossum",
+                    "value":"Opossum"
+                },
+                {
+                    "key":"Turret",
+                    "value":"Turret"
+                },
+                {
+                    "key":"Thickbot",
+                    "value":"Thickbot"
+                },
+                {
+                    "key":"Steambot",
+                    "value":"Steambot"
+                },
+                {
+                    "key":"Skeleton",
+                    "value":"Skeleton"
+                },
+                {
+                    "key":"Salmon",
+                    "value":"Salmon"
+                },
+                {
+                    "key":"MuscleMage",
+                    "value":"MuscleMage"
+                },
+                {
+                    "key":"Mudturtle",
+                    "value":"Mudturtle"
+                },
+                {
+                    "key":"Kraken",
+                    "value":"Kraken"
+                },
+                {
+                    "key":"InsectoBot",
+                    "value":"InsectoBot"
+                },
+                {
+                    "key":"Hawk",
+                    "value":"Hawk"
+                },
+                {
+                    "key":"Grizzly",
+                    "value":"Grizzly"
+                },
+                {
+                    "key":"Flying beetle",
+                    "value":"Flying beetle"
+                },
+                {
+                    "key":"Crazy family",
+                    "value":"Crazy family"
+                },
+                {
+                    "key":"Elkcub",
+                    "value":"Elkcub"
+                },
+                {
+                    "key":"Elk",
+                    "value":"Elk"
+                },
+                {
+                    "key":"Bonehound",
+                    "value":"Bonehound"
+                },
+                {
+                    "key":"Bolthound",
+                    "value":"Bolthound"
+                },
+                {
+                    "key":"Automaton",
+                    "value":"Automaton"
+                },
+                {
+                    "key":"Raven",
+                    "value":"Raven"
+                },
+                {
+                    "key":"Minecart",
+                    "value":"Minecart"
+                },
+                {
+                    "key":"Franknstein",
+                    "value":"Franknstein"
+                },
+                {
+                    "key":"Moleman",
+                    "value":"Moleman"
+                },
+                {
+                    "key":"Squirrel",
+                    "value":"Squirrel"
+                },
+                {
+                    "key":"Mole",
+                    "value":"Mole"
+                },
+                {
+                    "key":"LeapingBot",
+                    "value":"LeapingBot"
+                },
+                {
+                    "key":"Robo Frog",
+                    "value":"Robo Frog"
+                },
+                {
+                    "key":"Strange Caterpillar",
+                    "value":"Strange Caterpillar"
+                },
+                {
+                    "key":"Mantisgod",
+                    "value":"Mantisgod"
+                },
+                {
+                    "key":"Deaths with the Scythe",
+                    "value":"Deaths with the Scythe"
+                },
+                {
+                    "key":"Water monster",
+                    "value":"Water monster"
+                },
+                {
+                    "key":"Direwolf",
+                    "value":"Direwolf"
+                },
+                {
+                    "key":"Direwolfcub",
+                    "value":"Direwolfcub"
+                },
+                {
+                    "key":"Double turret",
+                    "value":"Double turret"
+                },
+                {
+                    "key":"StimMage",
+                    "value":"StimMage"
+                },
+                {
+                    "key":"One-eyed Gollum",
+                    "value":"One-eyed Gollum"
+                },
+                {
+                    "key":"SkeletonMage",
+                    "value":"SkeletonMage"
+                },
+                {
+                    "key":"Rubygolem",
+                    "value":"Rubygolem"
+                },
+                {
+                    "key":"Gunnerbot",
+                    "value":"Gunnerbot"
+                },
+                {
+                    "key":"Drownedsoul",
+                    "value":"Drownedsoul"
+                },
+                {
+                    "key":"Viper",
+                    "value":"Viper"
+                },
+                {
+                    "key":"Magic Teacher",
+                    "value":"Magic Teacher"
+                },
+                {
+                    "key":"Blue Mage",
+                    "value":"Blue Mage"
+                },
+                {
+                    "key":"Red Mage",
+                    "value":"Red Mage"
+                },
+                {
+                    "key":"Orange Mage",
+                    "value":"Orange Mage"
+                },
+                {
+                    "key":"Magical Havoc",
+                    "value":"Magical Havoc"
+                },
+                {
+                    "key":"Healing Sorcery",
+                    "value":"Healing Sorcery"
+                },
+                {
+                    "key":"Cursed Mage",
+                    "value":"Cursed Mage"
+                },
+                {
+                    "key":"Octo-Ward",
+                    "value":"Octo-Ward"
+                },
+                {
+                    "key":"Tentacle Challenge",
+                    "value":"Tentacle Challenge"
+                },
+                {
+                    "key":"Damage Amplifier",
+                    "value":"Damage Amplifier"
+                },
+                {
+                    "key":"Weakening Curse",
+                    "value":"Weakening Curse"
+                },
+
+   
+                {
+                    "key":"Emptiness",
+                    "value":""
+                },
+                {
+                    "key":"Use",
+                    "value":"Use"
+                },
+                {
+                    "key":"Read",
+                    "value":"Read"
+                },
+                {
+                    "key":"Drop",
+                    "value":"Drop"
+                },
+                {
+                    "key":"Note 001",
+                    "value":"Note 001"
+                },
+                {
+                    "key":"InventoryKey36",
+                    "value":"Note from Adrian, number 001"
+                },
+                {
+                    "key":"Note 002",
+                    "value":"Note 002"
+                },
+                {
+                    "key":"InventoryKey37",
+                    "value":"Note from Adrian, number 002"
+                },
+                {
+                    "key":"Note 003",
+                    "value":"Note 003"
+                },
+                {
+                    "key":"InventoryKey38",
+                    "value":"Note from Adrian, number 003"
+                },
+                {
+                    "key":"Note 004",
+                    "value":"Note 004"
+                },
+                {
+                    "key":"InventoryKey39",
+                    "value":"Note from Adrian, number 004"
+                },
+                {
+                    "key":"Note 005",
+                    "value":"Note 005"
+                },
+                {
+                    "key":"InventoryKey40",
+                    "value":"Note from Adrian, number 005"
+                },
+                {
+                    "key":"Note 006",
+                    "value":"Note 006"
+                },
+                {
+                    "key":"InventoryKey41",
+                    "value":"Note from Adrian, number 006"
+                },
+                {
+                    "key":"Note 007",
+                    "value":"Note 007"
+                },
+                {
+                    "key":"InventoryKey42",
+                    "value":"Note from Adrian, number 007"
+                },
+                {
+                    "key":"Note 008",
+                    "value":"Note 008"
+                },
+                {
+                    "key":"InventoryKey43",
+                    "value":"Note from Adrian, number 008"
+                },
+                {
+                    "key":"Note 009",
+                    "value":"Note 009"
+                },
+                {
+                    "key":"InventoryKey44",
+                    "value":"Note from Adrian, number 009"
+                },
+                {
+                    "key":"Note 010",
+                    "value":"Note 010"
+                },
+                {
+                    "key":"InventoryKey45",
+                    "value":"Note from Adrian, number 010"
+                },
+                {
+                    "key":"Note 011",
+                    "value":"Note 011"
+                },
+                {
+                    "key":"InventoryKey46",
+                    "value":"Note from Adrian, number 011"
+                },
+                {
+                    "key":"Note 012",
+                    "value":"Note 012"
+                },
+                {
+                    "key":"InventoryKey47",
+                    "value":"Note from Adrian, number 012"
+                },
+                {
+                    "key":"Note 013",
+                    "value":"Note 013"
+                },
+                {
+                    "key":"InventoryKey48",
+                    "value":"Note from Adrian, number 013"
+                },
+                {
+                    "key":"Note 014",
+                    "value":"Note 014"
+                },
+                {
+                    "key":"InventoryKey49",
+                    "value":"Note from Adrian, number 014"
+                },
+                {
+                    "key":"Note 015",
+                    "value":"Note 015"
+                },
+                {
+                    "key":"InventoryKey50",
+                    "value":"Note from Adrian, number 015"
+                },
+                {
+                    "key":"Note 016",
+                    "value":"Note 016"
+                },
+                {
+                    "key":"InventoryKey51",
+                    "value":"Note from Adrian, number 016"
+                },
+                {
+                    "key":"Note 017",
+                    "value":"Note 017"
+                },
+                {
+                    "key":"InventoryKey52",
+                    "value":"Note from Adrian, number 017"
+                },
+                {
+                    "key":"Note 018",
+                    "value":"Note 018"
+                },
+                {
+                    "key":"InventoryKey53",
+                    "value":"Note from Adrian, number 018"
+                },
+                {
+                    "key":"Note 019",
+                    "value":"Note 019"
+                },
+                {
+                    "key":"InventoryKey54",
+                    "value":"Note from Adrian, number 019"
+                },
+                {
+                    "key":"Note 020",
+                    "value":"Note 020"
+                },
+                {
+                    "key":"InventoryKey55",
+                    "value":"Note from Adrian, number 020"
+                },
+                {
+                    "key":"My Diary",
+                    "value":"My Diary"
+                },
+                {
+                    "key":"InventoryKey56",
+                    "value":"Seller's vocabulary"
+                },
+                {
+                    "key":"Note for the guards",
+                    "value":"Note for the guards"
+                },
+                {
+                    "key":"InventoryKey57",
+                    "value":"A note from Malachai"
+                },
+                {
+                    "key":"Note from the mayor",
+                    "value":"Note from the mayor"
+                },
+                {
+                    "key":"InventoryKey58",
+                    "value":"Note with instructions from the mayor"
+                },
+                {
+                    "key":"Note Joker",
+                    "value":"Note Joker"
+                },
+                {
+                    "key":"InventoryKey59",
+                    "value":"A joker?"
+                },
+                {
+                    "key":"Order",
+                    "value":"Order"
+                },
+                {
+                    "key":"InventoryKey60",
+                    "value":"A murder contract"
+                },
+                {
+                    "key":"Record of the Situation in the Settlement",
+                    "value":"Record of the Situation in the Settlement"
+                },
+                {
+                    "key":"InventoryKey61",
+                    "value":"Dictionary of the head of the village"
+                },
+                {
+                    "key":"Records of the situation in the wealthy city",
+                    "value":"Records of the situation in the wealthy city"
+                },
+                {
+                    "key":"InventoryKey62",
+                    "value":"Investigator's dictionary"
+                },
+                {
+                    "key":"The Beginning. Tom One",
+                    "value":"The Beginning. Tom One"
+                },     {
+                    "key":"InventoryKey63",
+                    "value":"An era of peace and goodness"
+                },
+                {
+                    "key":"The Period of Mist. Tom Two",
+                    "value":"The Period of Mist. Tom Two"
+                },
+                {
+                    "key":"InventoryKey64",
+                    "value":"The Age of Doubt and Betrayal"
+                },
+                {
+                    "key":"The Era of Turmoil and Chaos. Tom Three",
+                    "value":"The Era of Turmoil and Chaos. Tom Three"
+                },
+                {
+                    "key":"InventoryKey65",
+                    "value":"The era of chaos and wars"
+                },
+                {
+                    "key":"Beer",
+                    "value":"Beer"
+                },
+                {
+                    "key":"InventoryKey66",
+                    "value":"Delicious beer"
+                },
+                {
+                    "key":"Berry",
+                    "value":"Berry"
+                },
+                {
+                    "key":"InventoryKey67",
+                    "value":"Berry restores 5 hunger points"
+                },
+                {
+                    "key":"Cabbage",
+                    "value":"Cabbage"
+                },
+                {
+                    "key":"InventoryKey68",
+                    "value":"Cabbage restores 20 units of hunger"
+                },
+                {
+                    "key":"Carrot",
+                    "value":"Carrot"
+                },
+                {
+                    "key":"InventoryKey69",
+                    "value":"Carrot restores 10 hunger points"
+                },
+                {
+                    "key":"Corn",
+                    "value":"Corn"
+                },
+                {
+                    "key":"InventoryKey70",
+                    "value":"Restores 15 hunger points"
+                },
+                {
+                    "key":"Magical Might",
+                    "value":"Magical Might"
+                },
+                {
+                    "key":"InventoryKey71",
+                    "value":"Magical Might is the elixir of the gods. It's rare, and they say that if you drink it, there's a chance of briefly entering the mysterious world"
+                },
+                {
+                    "key":"Onion",
+                    "value":"Onion"
+                },
+                {
+                    "key":"InventoryKey72",
+                    "value":"Restores 5 hunger points"
+                },
+                {
+                    "key":"Starshine Spirit",
+                    "value":"Starshine Spirit"
+                },
+                {
+                    "key":"InventoryKey73",
+                    "value":"Starshine Spirit was crafted by bartenders and mixologists"
+                },
+                {
+                    "key":"Stellar Sip",
+                    "value":"Stellar Sip"
+                },
+                {
+                    "key":"InventoryKey74",
+                    "value":"Stellar Sip is a wonderful drink for relaxation and more"
+                },
+                {
+                    "key":"Potion Energy",
+                    "value":"Potion Energy"
+                },
+                {
+                    "key":"InventoryKey75",
+                    "value":"Restores one unit of Energy"
+                },
+                {
+                    "key":"Potion Hunger",
+                    "value":"Potion Hunger"
+                },
+                {
+                    "key":"InventoryKey76",
+                    "value":"This potion was made by ancient monks; it restores 30 hunger points"
+                },
+                {
+                    "key":"Potion Speed",
+                    "value":"Potion Speed"
+                },
+                {
+                    "key":"InventoryKey77",
+                    "value":"Boosts player speed for 5 minutes"
+                },
+                {
+                    "key":"InventoryKey1",
+                    "value":"Upon arrival, I was greeted by Jacob, who said that I must save the world and head to the poor city. I entered an empty building perhaps Jacob lives here. In any case, I'll set out for the poor city. Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey2",
+                    "value":"I arrived in this beautiful city and went to a bar. The locals told me what to do here. I think I will go to the town hall, maybe they will tell me more information. Signed: Adrian"
+                },
+                {
+                    "key":"InventoryKey3",
+                    "value":"I have already settled in; I like this place. But a resident complains that the wealthy city accuses them with untrue facts. I need to do something; I need to find the mayor of the poor city. Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey4",
+                    "value":"What a magnificent temple. When you enter it, you immediately feel the time when people still lived with the gods. But I need to move on; I will dig deeper to uncover the truth. Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey5",
+                    "value":"I came to this house and the old man who lives here told me a sad story that revealed some of the problems of this world. i must act immediately.  Signed Adrian"
+                },
+                {
+                    "key":"InventoryKey6",
+                    "value":"The farmer allowed me to enter his house, he is a kind man. He said that there were trailers nearby, and there I could find the mayor of a poor town and a second level key. Signature: Adrian"
+                },
+                  {
+                    "key":"InventoryKey7",
+                    "value":"So, I have the key now. I need to learn more about the wealthy city. So, I'm heading to the rich city. Also, I noticed that it seems someone is following me. Probably just my imagination. Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey8",
+                    "value":"The rich city greeted me very sadly. It's neutral now, and the two factions are fighting each other. One guy told me that if I found a way out of SpellBound, chaos would break out. I don't believe him. Signed: Adrian"
+                },
+                {
+                    "key":"InventoryKey9",
+                    "value":"The blue faction is quite hostile. Their goals are rather unclear – whether they want to take control of everything or just end the feud with the red faction is unclear. Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey10",
+                    "value":"The red faction is more defensive during attacks by the blue one, but they are not saints either. Both factions want to break the neutrality and likely take control of the streets of the wealthy city. There's probably some plan in both factions, but what exactly is it? Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey11",
+                    "value":"The tavern in the wealthy city is quite pleasant, and there are significantly more people here. Some guy told me that they are waiting for me at the farm, which is under the control of the wealthy city. Nonsense. I'd better head to the mayor's office. Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey12",
+                    "value":"Simply incredible library! So many books and information. In one of the books, I found information about the Winter City. They say you can learn more there. Still, this farm near the wealthy city... well, never mind. I'd better head to the Winter City. Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey13",
+                    "value":"It seems like I'm being followed, and there's this strange farm near the wealthy city that one guy told me about. I know one thing – I need to escape from this city as quickly as possible. Heading to the Winter City as soon as I can! Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey14",
+                    "value":"So, I've just arrived in the Winter City. I need to head to the tavern on the outskirts of the city; they might know something. Well, the town seems not bad either. Signature: Adrian"
+                },     
+                {
+                    "key":"InventoryKey15",
+                    "value":"Yes! Yes! My information! The key is located near the Winter City, in the corner of the large walls. There will be a cave, and inside it is the key. I need to act quickly; I'm being followed! Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey16",
+                    "value":"Yes, I'm already near the cave, just need to find the entrance. There it is. Stop, who's there behind the tree... 'Indistinctly written'... Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey17",
+                    "value":"They took me somewhere, in some unclear place. Seems like someone here is in charge. Oh no, they are coming... Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey18",
+                    "value":"While the guards are resting, I'll leave a note here. I want to pass on the link to future adventurers. Be careful if you come here; it's very dangerous.  Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey19",
+                    "value":"I've been locked in this house; I don't know what awaits me next – death or life. But I know one thing: the key to the exit is with this old man. However, defeating him and the guards seems impossible. I'll wait and see what happens next.  Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey20",
+                    "value":"Oh no, it seems my end has come. They are coming. My last words to those who will read this – adventurers, try to gather more information before coming here. Farewell, life... Signature: Adrian"
+                },  {
+                    "key":"InventoryKey21",
+                    "value":"Give this letter to my deputy. I'm going to a trailer park outside the city, if anyone needs me, go there."
+                },
+                {
+                    "key":"InventoryKey22",
+                    "value":"Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker"
+                },
+                {
+                    "key":"InventoryKey23",
+                    "value":"Eliminate an old man who lives in the abandoned houses near the wall, collapse is inevitable. Decree from Malachai"
+                },
+                {
+                    "key":"InventoryKey24",
+                    "value":"My guards, I left you a few coins. Buy yourselves food and whatever else you need, and I have arranged with Brittany that no one will touch you in the city. From Malachai"
+                },
+                {
+                    "key":"InventoryKey25",
+                    "value":"Day one: Today I opened my store and started selling unique items Day two: Nothing much has happened. Sales are going well and profits are growing Day three: Some men came and said they were from a certain Malachi and demanded that I pay them tribute. I told them to go away. Day four: Today it was calm without these guards, I feel it will not last long and soon my business will be closed"
+                },
+                {
+                    "key":"InventoryKey26",
+                    "value":"Day Five: Today I sold a large shipment and made a lot of money, I feel like I'll open a business in a rich or poor city and get the hell out of here Day Six: The guards came again, they don't let me rest and follow me outside. They are outside and I have closed the shop, but soon they will find a way to get in. This could mean the end of my business, and for me..."
+                },
+                {
+                    "key":"InventoryKey27",
+                    "value":"The situation in the village is stable, people are working, and the winter town buys up the harvest. Everyone wins, and we have enough to live on. Today I finally arranged for the garbage to be taken away. Finally, we will be a little cleaner. It's a beautiful summer, the crops are blooming this year, we'll make another delivery. I wouldn't say that this conflict between the groups is beneficial for us, but the deliveries have become more frequent, so it's beneficial for us to hide behind the walls and remain neutral"
+                },
+                {
+                    "key":"InventoryKey28",
+                    "value":"It's the middle of summer and I rarely fill out a report, but today the Mayor of Rich City came to see me and wanted to agree on a project with me. We don't know what it will be yet, but let's hope it's something useful for humanity"
+                },
+                {
+                    "key":"InventoryKey29",
+                    "value":"Day one. I am a detective and have arrived in this city to find out what is happening here and to identify the culprit behind the escalating conflict. The situation in the city is tense Day two. I found information that will end the conflict between the factions. Now I just need to deliver it where it's needed Day three. I feel like I'm being followed. I need to leave immediately. Hopefully, I still have time to sneak past them."
+                },
+                {
+                    "key":"InventoryKey30",
+                    "value":"Fabian and Mara, the gods of SpellBound, welcomed refugees fleeing from unknown calamities. The faithful faithfully served them by building walls, digging wells, and making statues. Over time, this duty became a symbol of the era of Peace and Goodness. In SpellBound, each city adds its own thread to this unique story, where every moment adds a new shade to our life together"
+                },
+                {
+                    "key":"InventoryKey31",
+                    "value":"For example, once upon a time there was not a poor city, not many, they were called differently in the era of the gods, the poor city was called Card Harmony, this name symbolized the harmony between card players, everyone played cards for something or other, no one could have thought that they would to fight to the death, but the Rich City symbolized prestige and statues were made there, and there were many poems in books, so it was called the Prestigious Land, but the Winter City was called the same way, even the Gods themselves did not know why it snowed there, so they called it that"
+                },
+                {
+                    "key":"InventoryKey32",
+                    "value":"After the era of Peace and Goodness, doubts arose. People were curious about what was behind the walls, but the gods did not allow anyone to leave. Escapes and guards appeared. Later, the gods created a door that could only be opened with their unique key. Thus began the era of Doubt and Betrayal. Rebellious groups appeared, some were destroyed, others were created, and even bandits appeared to rob people, of course, they had almost nowhere to hide, so they hid in caves that are still in SpellBound. In certain situations, disagreements arose between the gods."
+                },
+                {
+                    "key":"InventoryKey33",
+                    "value":"The situation in SpellBound was tense, everything could have collapsed, but the gods managed to compromise and postpone the terrible days for a while"
+                },  
+                {
+                    "key":"InventoryKey34",
+                    "value":"When those terrible days came, which the gods wanted to avoid, chaos reigned, and people sought refuge in temples, hoping for divine protection, and it happened. Those who went missing suffered or died. After the goddess Mara sacrificed herself to protect the Poor City from the god Fabian, silence fell for a short time. The gods disappeared, only statues remained,"
+                },
+                {
+                    "key":"InventoryKey35",
+                    "value":"and it also affected the Card Shuffler and the Titan Warrior. People were divided into factions, inciting conflicts, the most global conflict began after people united in the blue group and took control of the Winter City."
+                }
+    ]
+}
