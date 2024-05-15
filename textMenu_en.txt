@@ -1,0 +1,3460 @@
+{
+    "items" :[
+        {
+            "key":"MenuKey1",
+            "value":"New Game"
+        },
+        {
+            "key":"MenuKey2",
+            "value":"Continue"
+        },
+        {
+            "key":"MenuKey3",
+            "value":"Exit"
+        },
+        {
+            "key":"MenuKey4",
+            "value":"Yes"
+        },
+        {
+            "key":"MenuKey5",
+            "value":"No"
+        },
+        {
+            "key":"MenuKey6",
+            "value":"Start a new game?"
+        },
+        {
+            "key":"MenuKey7",
+            "value":"Exit the game?"
+        },
+        {
+            "key":"MenuKey8",
+            "value":"Settings"
+        },
+        {
+            "key":"MenuKey9",
+            "value":"Sound"
+        },
+        {
+            "key":"MenuKey10",
+            "value":"Music"
+        },
+        {
+            "key":"MenuKey11",
+            "value":"Language"
+        },
+       
+                {
+                    "key":"UIGameKey1",
+                    "value":"Go to the menu?"
+                },
+                {
+                    "key":"UIGameKey2",
+                    "value":"Yes"
+                },
+                {
+                    "key":"UIGameKey3",
+                    "value":"No"
+                },
+                {
+                    "key":"UIGameKey4",
+                    "value":"Your energy. Without energy, it's impossible to play card battles"
+                },
+                {
+                    "key":"UIGameKey5",
+                    "value":"Enter the train"
+                },
+        
+        
+        
+                {
+                    "key":"UIGameKey6",
+                    "value":"Poor City"
+                },
+                {
+                    "key":"UIGameKey7",
+                    "value":"Rich City"
+                },
+                {
+                    "key":"UIGameKey8",
+                    "value":"Winter Location"
+                },
+                {
+                    "key":"UIGameKey9",
+                    "value":"Forgotten Valley"
+                },
+                {
+                    "key":"RichCity",
+                    "value":"Rich City"
+                },
+                {
+                    "key":"PoorCity",
+                    "value":"Poor City"
+                },
+                {
+                    "key":"WinterValley",
+                    "value":"The Winter Valley"
+                },
+        
+        
+        
+                {
+                    "key":"UIGameKey11",
+                    "value":"Beer"
+                },
+                {
+                    "key":"UIGameKey12",
+                    "value":"Stellar Sip"
+                },
+                {
+                    "key":"UIGameKey13",
+                    "value":"Carrot"
+                },
+                {
+                    "key":"UIGameKey14",
+                    "value":"Starshine Spirit"
+                },
+                {
+                    "key":"UIGameKey15",
+                    "value":"Berry"
+                },
+                {
+                    "key":"UIGameKey16",
+                    "value":"Cabbage"
+                },
+                {
+                    "key":"UIGameKey17",
+                    "value":"Potion Energy"
+                },
+                {
+                    "key":"UIGameKey18",
+                    "value":"Potion Speed"
+                },
+                {
+                    "key":"UIGameKey19",
+                    "value":"Potion Hunger"
+                },
+                {
+                    "key":"UIGameKey20",
+                    "value":"Onion"
+                },
+        
+        
+        
+                {
+                    "key":"UIGameKey21",
+                    "value":"Raven"
+                },
+                {
+                    "key":"UIGameKey22",
+                    "value":"The wild raven is one of the smarter birds"
+                },
+                {
+                    "key":"UIGameKey23",
+                    "value":"Flying Beetle"
+                },
+                {
+                    "key":"UIGameKey24",
+                    "value":"If there are many of them, they become dangerous"
+                },
+                {
+                    "key":"UIGameKey25",
+                    "value":"Grizzly"
+                },
+                {
+                    "key":"UIGameKey26",
+                    "value":"The grizzly is a fierce and dangerous bear, beware of it"
+                },
+                {
+                    "key":"UIGameKey27",
+                    "value":"Zombie"
+                },
+                {
+                    "key":"UIGameKey28",
+                    "value":"Zombie apocalypse?"
+                },
+                {
+                    "key":"UIGameKey29",
+                    "value":"Mudturtle"
+                },
+                {
+                    "key":"UIGameKey30",
+                    "value":"Strong but useless"
+                },
+                {
+                    "key":"UIGameKey31",
+                    "value":"Coyote"
+                },
+                {
+                    "key":"UIGameKey32",
+                    "value":"Thin coyote, nothing special"
+                },
+                {
+                    "key":"UIGameKey33",
+                    "value":"Skeleton"
+                },
+                {
+                    "key":"UIGameKey34",
+                    "value":"Bony skeleton"
+                },
+                {
+                    "key":"UIGameKey35",
+                    "value":"Urayuli"
+                },
+                {
+                    "key":"UIGameKey36",
+                    "value":"???"
+                },
+                {
+                    "key":"UIGameKey37",
+                    "value":"ThickBot"
+                },
+                {
+                    "key":"UIGameKey38",
+                    "value":"Robot in steel armor"
+                },
+                {
+                    "key":"UIGameKey39",
+                    "value":"Wolfcub"
+                },
+                {
+                    "key":"UIGameKey40",
+                    "value":"Tiny wolfcub"
+                },
+                {
+                    "key":"UIGameKey41",
+                    "value":"SteamBot"
+                },
+                {
+                    "key":"UIGameKey42",
+                    "value":"SteamBot, a strong and powerful machine that doesn't see obstacles in its path"
+                },
+                {
+                    "key":"UIGameKey43",
+                    "value":"Wolf"
+                },
+                {
+                    "key":"UIGameKey44",
+                    "value":"Wild gray wolf"
+                },
+                {
+                    "key":"UIGameKey45",
+                    "value":"Opossum"
+                },
+                {
+                    "key":"UIGameKey46",
+                    "value":"Silly opossum"
+                },
+                {
+                    "key":"UIGameKey47",
+                    "value":"Elk"
+                },
+                {
+                    "key":"UIGameKey48",
+                    "value":"Adult deer"
+                },
+                {
+                    "key":"UIGameKey49",
+                    "value":"Kraken"
+                },
+                {
+                    "key":"UIGameKey50",
+                    "value":"Tiny adorable kraken"
+                },
+                {
+                    "key":"UIGameKey51",
+                    "value":"Wolverine"
+                },
+                {
+                    "key":"UIGameKey52",
+                    "value":"Fierce Wolverine, but how fierce?"
+                },
+                {
+                    "key":"UIGameKey53",
+                    "value":"InsectoBot"
+                },
+                {
+                    "key":"UIGameKey54",
+                    "value":"InsectoBot - a small flying robot that monitors the world of the game"
+                },
+                {
+                    "key":"UIGameKey55",
+                    "value":"Bullfrog"
+                },
+                {
+                    "key":"UIGameKey56",
+                    "value":"BullFrog is a large frog with sharp teeth and a powerful jump, ready to strike down its enemies"
+                },
+                {
+                    "key":"UIGameKey57",
+                    "value":"AutoMaton"
+                },
+                {
+                    "key":"UIGameKey58",
+                    "value":"Once there was a large army of these robots, but now it's just a map"
+                },
+                {
+                    "key":"UIGameKey59",
+                    "value":"MineCart"
+                },
+                {
+                    "key":"UIGameKey60",
+                    "value":"There was once a miner who got out of a deep mine on his own, and the gods immortalized him as a hero in a map "
+                },
+                {
+                    "key":"UIGameKey61",
+                    "value":"Turret"
+                },
+                {
+                    "key":"UIGameKey62",
+                    "value":"A simple turret that protects itself"
+                },
+                {
+                    "key":"UIGameKey63",
+                    "value":"BoltHound"
+                },
+                {
+                    "key":"UIGameKey64",
+                    "value":"BoltHound, one of the hounds created by the card crafter. Its teeth are made of steel plates"
+                },
+                {
+                    "key":"UIGameKey65",
+                    "value":"Elkcub"
+                },
+                {
+                    "key":"UIGameKey66",
+                    "value":"Simple Elkcup but capable"
+                },
+                {
+                    "key":"UIGameKey67",
+                    "value":"Banshee"
+                },
+                {
+                    "key":"UIGameKey68",
+                    "value":"Banshees - used to attack people in gangs, so they got into the postcard collection"
+                },
+                {
+                    "key":"UIGameKey69",
+                    "value":"Hawk"
+                },
+                {
+                    "key":"UIGameKey70",
+                    "value":"Hawk dislikes everyone"
+                },
+                {
+                    "key":"UIGameKey71",
+                    "value":"Crazy Family"
+                },
+                {
+                    "key":"UIGameKey72",
+                    "value":"Well, no questions here"
+                },
+                {
+                    "key":"UIGameKey73",
+                    "value":"Salmon"
+                },
+                {
+                    "key":"UIGameKey74",
+                    "value":"Elastic salmon is truly elastic"
+                },
+                {
+                    "key":"UIGameKey75",
+                    "value":"BoneHound"
+                },
+                {
+                    "key":"UIGameKey76",
+                    "value":"Bonehound was also created by the card crafter"
+                },
+                {
+                    "key":"UIGameKey77",
+                    "value":"Franknstein"
+                },
+                {
+                    "key":"UIGameKey78",
+                    "value":"Frankn-stein Even the gods were afraid of these creepy guys"
+                },
+                {
+                    "key":"UIGameKey79",
+                    "value":"Musclemage"
+                },
+                {
+                    "key":"UIGameKey80",
+                    "value":"His strength exceeds the permissible"
+                },
+                {
+                    "key":"UIGameKey81",
+                    "value":"Stoat"
+                },
+                {
+                    "key":"UIGameKey82",
+                    "value":"Soat is agile, cunning, and smart"
+                },
+                {
+                    "key":"UIGameKey83",
+                    "value":"Hound"
+                },
+                {
+                    "key":"UIGameKey84",
+                    "value":"The ordinary hound is also a creation of the card crafter"
+                },
+                {
+                    "key":"UIGameKey85",
+                    "value":"Water Monster"
+                },
+                {
+                    "key":"UIGameKey86",
+                    "value":"Water monster with a shield that allows ignoring one hit"
+                },
+                {
+                    "key":"UIGameKey87",
+                    "value":"RubyGolem"
+                },
+                {
+                    "key":"UIGameKey88",
+                    "value":"Rubygolem has a shield that allows ignoring one hit"
+                },
+                {
+                    "key":"UIGameKey89",
+                    "value":"Direwolf"
+                },
+                {
+                    "key":"UIGameKey90",
+                    "value":"Can counterattack twice"
+                },
+                {
+                    "key":"UIGameKey91",
+                    "value":"Direwolfcub"
+                },
+                {
+                    "key":"UIGameKey92",
+                    "value":"Viper"
+                },
+                {
+                    "key":"UIGameKey93",
+                    "value":"SkeletonMage"
+                },
+                {
+                    "key":"UIGameKey94",
+                    "value":"Legends say that this mage was once the most powerful card in the game. Can counterattack twice"
+                },
+                {
+                    "key":"UIGameKey95",
+                    "value":"MantisGod"
+                },
+                {
+                    "key":"UIGameKey96",
+                    "value":"Can attack twice"
+                },
+                {
+                    "key":"UIGameKey97",
+                    "value":"Double Turret"
+                },
+                {
+                    "key":"UIGameKey98",
+                    "value":"GunnerBot"
+                },
+                {
+                    "key":"UIGameKey99",
+                    "value":"StimMage"
+                },
+                {
+                    "key":"UIGameKey100",
+                    "value":"Can attack immediately upon appearing on the battlefield"
+                },
+                {
+                    "key":"UIGameKey101",
+                    "value":"Deaths with the scythe"
+                },
+                {
+                    "key":"UIGameKey102",
+                    "value":"Magic Teacher"
+                },
+                {
+                    "key":"UIGameKey103",
+                    "value":"Drownedsoul"
+                },
+                {
+                    "key":"UIGameKey104",
+                    "value":"Squirrel"
+                },
+                {
+                    "key":"UIGameKey105",
+                    "value":"Simple squirrel can take a hit instead of others"
+                },
+                {
+                    "key":"UIGameKey106",
+                    "value":"LeapingBot"
+                },
+                {
+                    "key":"UIGameKey107",
+                    "value":"Can take a hit instead of others"
+                },
+                {
+                    "key":"UIGameKey108",
+                    "value":"Moleman"
+                },
+                {
+                    "key":"UIGameKey109",
+                    "value":"Mole"
+                },
+                {
+                    "key":"UIGameKey110",
+                    "value":"Robo Frog"
+                },
+                {
+                    "key":"UIGameKey111",
+                    "value":"One-Eyed Gollum"
+                },
+                {
+                    "key":"UIGameKey112",
+                    "value":"They say this one-eyed gollum has a bottomless stomach. With each turn, its health increases by 1"
+                },
+                {
+                    "key":"UIGameKey113",
+                    "value":"Strange Caterpillar"
+                },
+                {
+                    "key":"UIGameKey114",
+                    "value":"With each turn, its health increases by 1"
+                },
+                {
+                    "key":"UIGameKey115",
+                    "value":"Orange Mage"
+                },
+                {
+                    "key":"UIGameKey116",
+                    "value":"Heals the hero for 2 health"
+                },
+                {
+                    "key":"UIGameKey117",
+                    "value":"Healing Sorcery"
+                },
+                {
+                    "key":"UIGameKey118",
+                    "value":"Heals the selected card for 2 health"
+                },
+                {
+                    "key":"UIGameKey119",
+                    "value":"Weakening Curse"
+                },
+                {
+                    "key":"UIGameKey120",
+                    "value":"Reduces the damage to the selected card by two"
+                },
+                {
+                    "key":"UIGameKey121",
+                    "value":"Blue Mage"
+                },
+                {
+                    "key":"UIGameKey122",
+                    "value":"Heals two health to all cards on the battlefield"
+                },
+                {
+                    "key":"UIGameKey123",
+                    "value":"Red Mage"
+                },
+                {
+                    "key":"UIGameKey124",
+                    "value":"Deals two damage to all cards on the battlefield"
+                },
+                {
+                    "key":"UIGameKey125",
+                    "value":"Damage Amplifier"
+                },
+                {
+                    "key":"UIGameKey126",
+                    "value":"Increases the damage of the selected card by two"
+                },
+                {
+                    "key":"UIGameKey127",
+                    "value":"Tentacle Challenge"
+                },
+                {
+                    "key":"UIGameKey128",
+                    "value":"Applies the taunt effect to the selected card"
+                },
+                {
+                    "key":"UIGameKey129",
+                    "value":"Cursed Mage"
+                },
+                {
+                    "key":"UIGameKey130",
+                    "value":"Deals two damage to the selected cards of the opponent"
+                },
+                {
+                    "key":"UIGameKey131",
+                    "value":"Octo-Ward"
+                },
+                {
+                    "key":"UIGameKey132",
+                    "value":"Applies a shield to the selected card"
+                },
+                {
+                    "key":"UIGameKey133",
+                    "value":"Magical Havoc"
+                },
+                {
+                    "key":"UIGameKey134",
+                    "value":"Deals two damage to the enemy hero"
+                },
+        
+        
+        
+        
+                {
+                    "key":"UIGameKey135",
+                    "value":"Quests"
+                },
+                {
+                    "key":"UIGameKey136",
+                    "value":"Enter the poor town"
+                },
+                {
+                    "key":"UIGameKey137",
+                    "value":"Find Nicholas in the trailer park in the poor city and obtain information about the mayor's whereabouts"
+                },
+                {
+                    "key":"UIGameKey138",
+                    "value":"Go to the farm near the wealthy city; they are waiting for me there"
+                },
+                {
+                    "key":"UIGameKey139",
+                    "value":"To find someone who knows anything about the third-level key and clarify the situation in the city"
+                },
+                {
+                    "key":"UIGameKey140",
+                    "value":"I need to head to the winter city"
+                },
+                {
+                    "key":"UIGameKey141",
+                    "value":"Defeat Brittany in card battles and find the place described in the note that I'll receive as a reward from Brittany"
+                },
+                {
+                    "key":"UIGameKey142",
+                    "value":"To find or earn 1000 coins and take the train near the winter location"
+                },
+                {
+                    "key":"UIGameKey143",
+                    "value":"Defeat 5 guards and reach Malachai"
+                },
+                {
+                    "key":"UIGameKey144",
+                    "value":"Defeat Malachai and take the fourth-level key, then immediately learn the location of the final gates of the fourth level!"
+                },
+                {
+                    "key":"UIGameKey145",
+                    "value":"Pass through the gates and fulfill the prophecy of the adventurer"
+                },
+                {
+                    "key":"UIDopQuest1",
+                    "value":"Find the city hall in a poor city and try to find the mayor"
+                },
+                {
+                    "key":"UIDopQuest2",
+                    "value":"Talk to the mayor of a poor city and go to a rich city"
+                },
+                
+        
+        
+        
+        
+                {
+                    "key":"UIGameKey146",
+                    "value":"Jacob"
+                },
+                {
+                    "key":"UIGameKey147",
+                    "value":"This is a short guide to the card game. Blue crystals represent your mana. With each turn, your mana increases by 1. If you use all your mana in the next turn, it will be restored. To end your turn, press the bell icon, and your turn will be concluded. The red heart symbolizes your health. If it falls below zero, you lose. Each card has its own cost, health, and damage. There are also spell cards, and some cards have abilities, which you can read about in the card bestiary. Additionally, there is a playing field where you place your cards to attack the enemy or their cards. To attack, press and drag your card to where you need it to go. This should be enough to get you started. Good luck!"
+                },
+                {
+                    "key":"UIGameKey148",
+                    "value":"Restart"
+                },
+                {
+                    "key":"UIGameKey149",
+                    "value":"Exit"
+                },
+                {
+                    "key":"WIN",
+                    "value":"WIN"
+                },
+                {
+                    "key":"Defeat",
+                    "value":"Defeat -1 Energy"
+                },
+                
+        
+                {
+                    "key":"Banshee",
+                    "value":"Banshee"
+                },
+                {
+                    "key":"Hound",
+                    "value":"Hound"
+                },
+                {
+                    "key":"Coyote",
+                    "value":"Coyote"
+                },
+                {
+                    "key":"Bullfrog",
+                    "value":"Bullfrog"
+                },
+                {
+                    "key":"Wolf",
+                    "value":"Wolf"
+                },
+                {
+                    "key":"Wolfcub",
+                    "value":"Wolfcub"
+                },
+                {
+                    "key":"Zombie",
+                    "value":"Zombie"
+                },
+                {
+                    "key":"Wolverine",
+                    "value":"Wolverine"
+                },
+                {
+                    "key":"Urayuli",
+                    "value":"Urayuli"
+                },
+                {
+                    "key":"Stoat",
+                    "value":"Stoat"
+                },
+                {
+                    "key":"Opossum",
+                    "value":"Opossum"
+                },
+                {
+                    "key":"Turret",
+                    "value":"Turret"
+                },
+                {
+                    "key":"Thickbot",
+                    "value":"Thickbot"
+                },
+                {
+                    "key":"Steambot",
+                    "value":"Steambot"
+                },
+                {
+                    "key":"Skeleton",
+                    "value":"Skeleton"
+                },
+                {
+                    "key":"Salmon",
+                    "value":"Salmon"
+                },
+                {
+                    "key":"MuscleMage",
+                    "value":"MuscleMage"
+                },
+                {
+                    "key":"Mudturtle",
+                    "value":"Mudturtle"
+                },
+                {
+                    "key":"Kraken",
+                    "value":"Kraken"
+                },
+                {
+                    "key":"InsectoBot",
+                    "value":"InsectoBot"
+                },
+                {
+                    "key":"Hawk",
+                    "value":"Hawk"
+                },
+                {
+                    "key":"Grizzly",
+                    "value":"Grizzly"
+                },
+                {
+                    "key":"Flying beetle",
+                    "value":"Flying beetle"
+                },
+                {
+                    "key":"Crazy family",
+                    "value":"Crazy family"
+                },
+                {
+                    "key":"Elkcub",
+                    "value":"Elkcub"
+                },
+                {
+                    "key":"Elk",
+                    "value":"Elk"
+                },
+                {
+                    "key":"Bonehound",
+                    "value":"Bonehound"
+                },
+                {
+                    "key":"Bolthound",
+                    "value":"Bolthound"
+                },
+                {
+                    "key":"Automaton",
+                    "value":"Automaton"
+                },
+                {
+                    "key":"Raven",
+                    "value":"Raven"
+                },
+                {
+                    "key":"Minecart",
+                    "value":"Minecart"
+                },
+                {
+                    "key":"Franknstein",
+                    "value":"Franknstein"
+                },
+                {
+                    "key":"Moleman",
+                    "value":"Moleman"
+                },
+                {
+                    "key":"Squirrel",
+                    "value":"Squirrel"
+                },
+                {
+                    "key":"Mole",
+                    "value":"Mole"
+                },
+                {
+                    "key":"LeapingBot",
+                    "value":"LeapingBot"
+                },
+                {
+                    "key":"Robo Frog",
+                    "value":"Robo Frog"
+                },
+                {
+                    "key":"Strange Caterpillar",
+                    "value":"Strange Caterpillar"
+                },
+                {
+                    "key":"Mantisgod",
+                    "value":"Mantisgod"
+                },
+                {
+                    "key":"Deaths with the Scythe",
+                    "value":"Deaths with the Scythe"
+                },
+                {
+                    "key":"Water monster",
+                    "value":"Water monster"
+                },
+                {
+                    "key":"Direwolf",
+                    "value":"Direwolf"
+                },
+                {
+                    "key":"Direwolfcub",
+                    "value":"Direwolfcub"
+                },
+                {
+                    "key":"Double turret",
+                    "value":"Double turret"
+                },
+                {
+                    "key":"StimMage",
+                    "value":"StimMage"
+                },
+                {
+                    "key":"One-eyed Gollum",
+                    "value":"One-eyed Gollum"
+                },
+                {
+                    "key":"SkeletonMage",
+                    "value":"SkeletonMage"
+                },
+                {
+                    "key":"Rubygolem",
+                    "value":"Rubygolem"
+                },
+                {
+                    "key":"Gunnerbot",
+                    "value":"Gunnerbot"
+                },
+                {
+                    "key":"Drownedsoul",
+                    "value":"Drownedsoul"
+                },
+                {
+                    "key":"Viper",
+                    "value":"Viper"
+                },
+                {
+                    "key":"Magic Teacher",
+                    "value":"Magic Teacher"
+                },
+                {
+                    "key":"Blue Mage",
+                    "value":"Blue Mage"
+                },
+                {
+                    "key":"Red Mage",
+                    "value":"Red Mage"
+                },
+                {
+                    "key":"Orange Mage",
+                    "value":"Orange Mage"
+                },
+                {
+                    "key":"Magical Havoc",
+                    "value":"Magical Havoc"
+                },
+                {
+                    "key":"Healing Sorcery",
+                    "value":"Healing Sorcery"
+                },
+                {
+                    "key":"Cursed Mage",
+                    "value":"Cursed Mage"
+                },
+                {
+                    "key":"Octo-Ward",
+                    "value":"Octo-Ward"
+                },
+                {
+                    "key":"Tentacle Challenge",
+                    "value":"Tentacle Challenge"
+                },
+                {
+                    "key":"Damage Amplifier",
+                    "value":"Damage Amplifier"
+                },
+                {
+                    "key":"Weakening Curse",
+                    "value":"Weakening Curse"
+                },
+
+   
+                {
+                    "key":"Emptiness",
+                    "value":""
+                },
+                {
+                    "key":"Use",
+                    "value":"Use"
+                },
+                {
+                    "key":"Read",
+                    "value":"Read"
+                },
+                {
+                    "key":"Drop",
+                    "value":"Drop"
+                },
+                {
+                    "key":"Note 001",
+                    "value":"Note 001"
+                },
+                {
+                    "key":"InventoryKey36",
+                    "value":"Note from Adrian, number 001"
+                },
+                {
+                    "key":"Note 002",
+                    "value":"Note 002"
+                },
+                {
+                    "key":"InventoryKey37",
+                    "value":"Note from Adrian, number 002"
+                },
+                {
+                    "key":"Note 003",
+                    "value":"Note 003"
+                },
+                {
+                    "key":"InventoryKey38",
+                    "value":"Note from Adrian, number 003"
+                },
+                {
+                    "key":"Note 004",
+                    "value":"Note 004"
+                },
+                {
+                    "key":"InventoryKey39",
+                    "value":"Note from Adrian, number 004"
+                },
+                {
+                    "key":"Note 005",
+                    "value":"Note 005"
+                },
+                {
+                    "key":"InventoryKey40",
+                    "value":"Note from Adrian, number 005"
+                },
+                {
+                    "key":"Note 006",
+                    "value":"Note 006"
+                },
+                {
+                    "key":"InventoryKey41",
+                    "value":"Note from Adrian, number 006"
+                },
+                {
+                    "key":"Note 007",
+                    "value":"Note 007"
+                },
+                {
+                    "key":"InventoryKey42",
+                    "value":"Note from Adrian, number 007"
+                },
+                {
+                    "key":"Note 008",
+                    "value":"Note 008"
+                },
+                {
+                    "key":"InventoryKey43",
+                    "value":"Note from Adrian, number 008"
+                },
+                {
+                    "key":"Note 009",
+                    "value":"Note 009"
+                },
+                {
+                    "key":"InventoryKey44",
+                    "value":"Note from Adrian, number 009"
+                },
+                {
+                    "key":"Note 010",
+                    "value":"Note 010"
+                },
+                {
+                    "key":"InventoryKey45",
+                    "value":"Note from Adrian, number 010"
+                },
+                {
+                    "key":"Note 011",
+                    "value":"Note 011"
+                },
+                {
+                    "key":"InventoryKey46",
+                    "value":"Note from Adrian, number 011"
+                },
+                {
+                    "key":"Note 012",
+                    "value":"Note 012"
+                },
+                {
+                    "key":"InventoryKey47",
+                    "value":"Note from Adrian, number 012"
+                },
+                {
+                    "key":"Note 013",
+                    "value":"Note 013"
+                },
+                {
+                    "key":"InventoryKey48",
+                    "value":"Note from Adrian, number 013"
+                },
+                {
+                    "key":"Note 014",
+                    "value":"Note 014"
+                },
+                {
+                    "key":"InventoryKey49",
+                    "value":"Note from Adrian, number 014"
+                },
+                {
+                    "key":"Note 015",
+                    "value":"Note 015"
+                },
+                {
+                    "key":"InventoryKey50",
+                    "value":"Note from Adrian, number 015"
+                },
+                {
+                    "key":"Note 016",
+                    "value":"Note 016"
+                },
+                {
+                    "key":"InventoryKey51",
+                    "value":"Note from Adrian, number 016"
+                },
+                {
+                    "key":"Note 017",
+                    "value":"Note 017"
+                },
+                {
+                    "key":"InventoryKey52",
+                    "value":"Note from Adrian, number 017"
+                },
+                {
+                    "key":"Note 018",
+                    "value":"Note 018"
+                },
+                {
+                    "key":"InventoryKey53",
+                    "value":"Note from Adrian, number 018"
+                },
+                {
+                    "key":"Note 019",
+                    "value":"Note 019"
+                },
+                {
+                    "key":"InventoryKey54",
+                    "value":"Note from Adrian, number 019"
+                },
+                {
+                    "key":"Note 020",
+                    "value":"Note 020"
+                },
+                {
+                    "key":"InventoryKey55",
+                    "value":"Note from Adrian, number 020"
+                },
+                {
+                    "key":"My Diary",
+                    "value":"My Diary"
+                },
+                {
+                    "key":"InventoryKey56",
+                    "value":"Seller's vocabulary"
+                },
+                {
+                    "key":"Note for the guards",
+                    "value":"Note for the guards"
+                },
+                {
+                    "key":"InventoryKey57",
+                    "value":"A note from Malachai"
+                },
+                {
+                    "key":"Note from the mayor",
+                    "value":"Note from the mayor"
+                },
+                {
+                    "key":"InventoryKey58",
+                    "value":"Note with instructions from the mayor"
+                },
+                {
+                    "key":"Note Joker",
+                    "value":"Note Joker"
+                },
+                {
+                    "key":"InventoryKey59",
+                    "value":"A joker?"
+                },
+                {
+                    "key":"Order",
+                    "value":"Order"
+                },
+                {
+                    "key":"InventoryKey60",
+                    "value":"A murder contract"
+                },
+                {
+                    "key":"Record of the Situation in the Settlement",
+                    "value":"Record of the Situation in the Settlement"
+                },
+                {
+                    "key":"InventoryKey61",
+                    "value":"Dictionary of the head of the village"
+                },
+                {
+                    "key":"Records of the situation in the wealthy city",
+                    "value":"Records of the situation in the wealthy city"
+                },
+                {
+                    "key":"InventoryKey62",
+                    "value":"Investigator's dictionary"
+                },
+                {
+                    "key":"The Beginning. Tom One",
+                    "value":"The Beginning. Tom One"
+                },     {
+                    "key":"InventoryKey63",
+                    "value":"An era of peace and goodness"
+                },
+                {
+                    "key":"The Period of Mist. Tom Two",
+                    "value":"The Period of Mist. Tom Two"
+                },
+                {
+                    "key":"InventoryKey64",
+                    "value":"The Age of Doubt and Betrayal"
+                },
+                {
+                    "key":"The Era of Turmoil and Chaos. Tom Three",
+                    "value":"The Era of Turmoil and Chaos. Tom Three"
+                },
+                {
+                    "key":"InventoryKey65",
+                    "value":"The era of chaos and wars"
+                },
+                {
+                    "key":"Beer",
+                    "value":"Beer"
+                },
+                {
+                    "key":"InventoryKey66",
+                    "value":"Delicious beer"
+                },
+                {
+                    "key":"Berry",
+                    "value":"Berry"
+                },
+                {
+                    "key":"InventoryKey67",
+                    "value":"Berry restores 5 hunger points"
+                },
+                {
+                    "key":"Cabbage",
+                    "value":"Cabbage"
+                },
+                {
+                    "key":"InventoryKey68",
+                    "value":"Cabbage restores 20 units of hunger"
+                },
+                {
+                    "key":"Carrot",
+                    "value":"Carrot"
+                },
+                {
+                    "key":"InventoryKey69",
+                    "value":"Carrot restores 10 hunger points"
+                },
+                {
+                    "key":"Corn",
+                    "value":"Corn"
+                },
+                {
+                    "key":"InventoryKey70",
+                    "value":"Restores 15 hunger points"
+                },
+                {
+                    "key":"Magical Might",
+                    "value":"Magical Might"
+                },
+                {
+                    "key":"InventoryKey71",
+                    "value":"Magical Might is the elixir of the gods. It's rare, and they say that if you drink it, there's a chance of briefly entering the mysterious world"
+                },
+                {
+                    "key":"Onion",
+                    "value":"Onion"
+                },
+                {
+                    "key":"InventoryKey72",
+                    "value":"Restores 5 hunger points"
+                },
+                {
+                    "key":"Starshine Spirit",
+                    "value":"Starshine Spirit"
+                },
+                {
+                    "key":"InventoryKey73",
+                    "value":"Starshine Spirit was crafted by bartenders and mixologists"
+                },
+                {
+                    "key":"Stellar Sip",
+                    "value":"Stellar Sip"
+                },
+                {
+                    "key":"InventoryKey74",
+                    "value":"Stellar Sip is a wonderful drink for relaxation and more"
+                },
+                {
+                    "key":"Potion Energy",
+                    "value":"Potion Energy"
+                },
+                {
+                    "key":"InventoryKey75",
+                    "value":"Restores one unit of Energy"
+                },
+                {
+                    "key":"Potion Hunger",
+                    "value":"Potion Hunger"
+                },
+                {
+                    "key":"InventoryKey76",
+                    "value":"This potion was made by ancient monks; it restores 30 hunger points"
+                },
+                {
+                    "key":"Potion Speed",
+                    "value":"Potion Speed"
+                },
+                {
+                    "key":"InventoryKey77",
+                    "value":"Boosts player speed for 5 minutes"
+                },
+                {
+                    "key":"InventoryKey1",
+                    "value":"Upon arrival, I was greeted by Jacob, who said that I must save the world and head to the poor city. I entered an empty building perhaps Jacob lives here. In any case, I'll set out for the poor city. Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey2",
+                    "value":"I arrived in this beautiful city and went to a bar. The locals told me what to do here. I think I will go to the town hall, maybe they will tell me more information. Signed: Adrian"
+                },
+                {
+                    "key":"InventoryKey3",
+                    "value":"I have already settled in; I like this place. But a resident complains that the wealthy city accuses them with untrue facts. I need to do something; I need to find the mayor of the poor city. Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey4",
+                    "value":"What a magnificent temple. When you enter it, you immediately feel the time when people still lived with the gods. But I need to move on; I will dig deeper to uncover the truth. Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey5",
+                    "value":"I came to this house and the old man who lives here told me a sad story that revealed some of the problems of this world. i must act immediately.  Signed Adrian"
+                },
+                {
+                    "key":"InventoryKey6",
+                    "value":"The farmer allowed me to enter his house, he is a kind man. He said that there were trailers nearby, and there I could find the mayor of a poor town and a second level key. Signature: Adrian"
+                },
+                  {
+                    "key":"InventoryKey7",
+                    "value":"So, I have the key now. I need to learn more about the wealthy city. So, I'm heading to the rich city. Also, I noticed that it seems someone is following me. Probably just my imagination. Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey8",
+                    "value":"The rich city greeted me very sadly. It's neutral now, and the two factions are fighting each other. One guy told me that if I found a way out of SpellBound, chaos would break out. I don't believe him. Signed: Adrian"
+                },
+                {
+                    "key":"InventoryKey9",
+                    "value":"The blue faction is quite hostile. Their goals are rather unclear – whether they want to take control of everything or just end the feud with the red faction is unclear. Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey10",
+                    "value":"The red faction is more defensive during attacks by the blue one, but they are not saints either. Both factions want to break the neutrality and likely take control of the streets of the wealthy city. There's probably some plan in both factions, but what exactly is it? Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey11",
+                    "value":"The tavern in the wealthy city is quite pleasant, and there are significantly more people here. Some guy told me that they are waiting for me at the farm, which is under the control of the wealthy city. Nonsense. I'd better head to the mayor's office. Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey12",
+                    "value":"Simply incredible library! So many books and information. In one of the books, I found information about the Winter City. They say you can learn more there. Still, this farm near the wealthy city... well, never mind. I'd better head to the Winter City. Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey13",
+                    "value":"It seems like I'm being followed, and there's this strange farm near the wealthy city that one guy told me about. I know one thing – I need to escape from this city as quickly as possible. Heading to the Winter City as soon as I can! Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey14",
+                    "value":"So, I've just arrived in the Winter City. I need to head to the tavern on the outskirts of the city; they might know something. Well, the town seems not bad either. Signature: Adrian"
+                },     
+                {
+                    "key":"InventoryKey15",
+                    "value":"Yes! Yes! My information! The key is located near the Winter City, in the corner of the large walls. There will be a cave, and inside it is the key. I need to act quickly; I'm being followed! Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey16",
+                    "value":"Yes, I'm already near the cave, just need to find the entrance. There it is. Stop, who's there behind the tree... 'Indistinctly written'... Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey17",
+                    "value":"They took me somewhere, in some unclear place. Seems like someone here is in charge. Oh no, they are coming... Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey18",
+                    "value":"While the guards are resting, I'll leave a note here. I want to pass on the link to future adventurers. Be careful if you come here; it's very dangerous.  Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey19",
+                    "value":"I've been locked in this house; I don't know what awaits me next – death or life. But I know one thing: the key to the exit is with this old man. However, defeating him and the guards seems impossible. I'll wait and see what happens next.  Signature: Adrian"
+                },
+                {
+                    "key":"InventoryKey20",
+                    "value":"Oh no, it seems my end has come. They are coming. My last words to those who will read this – adventurers, try to gather more information before coming here. Farewell, life... Signature: Adrian"
+                },  {
+                    "key":"InventoryKey21",
+                    "value":"Give this letter to my deputy. I'm going to a trailer park outside the city, if anyone needs me, go there."
+                },
+                {
+                    "key":"InventoryKey22",
+                    "value":"Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker"
+                },
+                {
+                    "key":"InventoryKey23",
+                    "value":"Eliminate an old man who lives in the abandoned houses near the wall, collapse is inevitable. Decree from Malachai"
+                },
+                {
+                    "key":"InventoryKey24",
+                    "value":"My guards, I left you a few coins. Buy yourselves food and whatever else you need, and I have arranged with Brittany that no one will touch you in the city. From Malachai"
+                },
+                {
+                    "key":"InventoryKey25",
+                    "value":"Day one: Today I opened my store and started selling unique items Day two: Nothing much has happened. Sales are going well and profits are growing Day three: Some men came and said they were from a certain Malachi and demanded that I pay them tribute. I told them to go away. Day four: Today it was calm without these guards, I feel it will not last long and soon my business will be closed"
+                },
+                {
+                    "key":"InventoryKey26",
+                    "value":"Day Five: Today I sold a large shipment and made a lot of money, I feel like I'll open a business in a rich or poor city and get the hell out of here Day Six: The guards came again, they don't let me rest and follow me outside. They are outside and I have closed the shop, but soon they will find a way to get in. This could mean the end of my business, and for me..."
+                },
+                {
+                    "key":"InventoryKey27",
+                    "value":"The situation in the village is stable, people are working, and the winter town buys up the harvest. Everyone wins, and we have enough to live on. Today I finally arranged for the garbage to be taken away. Finally, we will be a little cleaner. It's a beautiful summer, the crops are blooming this year, we'll make another delivery. I wouldn't say that this conflict between the groups is beneficial for us, but the deliveries have become more frequent, so it's beneficial for us to hide behind the walls and remain neutral"
+                },
+                {
+                    "key":"InventoryKey28",
+                    "value":"It's the middle of summer and I rarely fill out a report, but today the Mayor of Rich City came to see me and wanted to agree on a project with me. We don't know what it will be yet, but let's hope it's something useful for humanity"
+                },
+                {
+                    "key":"InventoryKey29",
+                    "value":"Day one. I am a detective and have arrived in this city to find out what is happening here and to identify the culprit behind the escalating conflict. The situation in the city is tense Day two. I found information that will end the conflict between the factions. Now I just need to deliver it where it's needed Day three. I feel like I'm being followed. I need to leave immediately. Hopefully, I still have time to sneak past them."
+                },
+                {
+                    "key":"InventoryKey30",
+                    "value":"Fabian and Mara, the gods of SpellBound, welcomed refugees fleeing from unknown calamities. The faithful faithfully served them by building walls, digging wells, and making statues. Over time, this duty became a symbol of the era of Peace and Goodness. In SpellBound, each city adds its own thread to this unique story, where every moment adds a new shade to our life together"
+                },
+                {
+                    "key":"InventoryKey31",
+                    "value":"For example, once upon a time there was not a poor city, not many, they were called differently in the era of the gods, the poor city was called Card Harmony, this name symbolized the harmony between card players, everyone played cards for something or other, no one could have thought that they would to fight to the death, but the Rich City symbolized prestige and statues were made there, and there were many poems in books, so it was called the Prestigious Land, but the Winter City was called the same way, even the Gods themselves did not know why it snowed there, so they called it that"
+                },
+                {
+                    "key":"InventoryKey32",
+                    "value":"After the era of Peace and Goodness, doubts arose. People were curious about what was behind the walls, but the gods did not allow anyone to leave. Escapes and guards appeared. Later, the gods created a door that could only be opened with their unique key. Thus began the era of Doubt and Betrayal. Rebellious groups appeared, some were destroyed, others were created, and even bandits appeared to rob people, of course, they had almost nowhere to hide, so they hid in caves that are still in SpellBound. In certain situations, disagreements arose between the gods."
+                },
+                {
+                    "key":"InventoryKey33",
+                    "value":"The situation in SpellBound was tense, everything could have collapsed, but the gods managed to compromise and postpone the terrible days for a while"
+                },  
+                {
+                    "key":"InventoryKey34",
+                    "value":"When those terrible days came, which the gods wanted to avoid, chaos reigned, and people sought refuge in temples, hoping for divine protection, and it happened. Those who went missing suffered or died. After the goddess Mara sacrificed herself to protect the Poor City from the god Fabian, silence fell for a short time. The gods disappeared, only statues remained,"
+                },
+                {
+                    "key":"InventoryKey35",
+                    "value":"and it also affected the Card Shuffler and the Titan Warrior. People were divided into factions, inciting conflicts, the most global conflict began after people united in the blue group and took control of the Winter City."
+                },
+
+
+
+                {
+                    "key":"DialougeKey",
+                    "value":"Next dialouge"
+                },
+                {
+                    "key":"Jacob",
+                    "value":"Jacob"
+                },
+                {
+                    "key":"Hello, new seeker! Welcome to SpellBound.",
+                    "value":"Hello, new seeker! Welcome to SpellBound"
+                },
+                {
+                    "key":"First you need to defeat me in a card battle and then head to the poor city",
+                    "value":"First you need to defeat me in a card battle and then head to the poor city"
+                },
+                {
+                    "key":"You also have energy if it reaches 0, you can't battle in cards. So, keep an eye on your energy.",
+                    "value":"You also have energy if it reaches 0, you can't battle in cards. So, keep an eye on your energy"
+                },
+                {
+                    "key":"Now, let's battle in cards",
+                    "value":"Now, let's battle in cards"
+                },
+                {
+                    "key":"Nolan",
+                    "value":"Nolan"
+                },
+                {
+                    "key":"Oh, hello! Welcome to our poor but cozy town.",
+                    "value":"Oh, hello! Welcome to our poor but cozy town"
+                },
+                {
+                    "key":"Oh, I haven't seen you here before, you're a new seeker?",
+                    "value":"Oh, I haven't seen you here before, you're a new seeker?"
+                },
+                {
+                    "key":"I think you still have a lot to learn. Talk to the locals, they know a lot, and may even tell you how to get to the rich city. Good luck",
+                    "value":"I think you still have a lot to learn. Talk to the locals, they know a lot, and may even tell you how to get to the rich city. Good luck"
+                },
+                {
+                    "key":"Stephanie",
+                    "value":"Stephanie"
+                },
+                {
+                    "key":"Did you also come to pray to the great Goddess Mari?",
+                    "value":"Did you also come to pray to the great Goddess Mari?"
+                },
+                {
+                    "key":"She created most of the cards and bestowed abilities upon some.",
+                    "value":"She created most of the cards and bestowed abilities upon some"
+                },
+                {
+                    "key":"If you want to learn more about her, head to the temple. They will tell you more about Mari and the other god.",
+                    "value":"If you want to learn more about her, head to the temple. They will tell you more about Mari and the other god"
+                },
+                {
+                    "key":"Adam",
+                    "value":"Adam"
+                },
+                {
+                    "key":"I really don't like all these fabricated accusations from a rich city.",
+                    "value":"I really don't like all these fabricated accusations from a rich city"
+                },
+                {
+                    "key":"If it weren't for the goddess Mara, everything would fall apart because of this pseudo-god Fabian.",
+                    "value":"If it weren't for the goddess Mara, everything would fall apart because of this pseudo-god Fabian"
+                },
+                {
+                    "key":"If it were up to me, I would end the conflict between the cities by force, not diplomacy.",
+                    "value":"If it were up to me, I would end the conflict between the cities by force, not diplomacy"
+                },
+                {
+                    "key":"Sofia",
+                    "value":"Sofia"
+                },
+                {
+                    "key":"Did you also come to sway on the swings today? It's such a wonderful day for a stroll.",
+                    "value":"Did you also come to sway on the swings today? It's such a wonderful day for a stroll"
+                },
+                {
+                    "key":"My grandfather always said that a day would come that would change everything in this world.",
+                    "value":"My grandfather always said that a day would come that would change everything in this world"
+                },
+                {
+                    "key":"Jimmy",
+                    "value":"Jimmy"
+                },
+                {
+                    "key":"Hmm, you seem like an adult, but you came to a children's playground",
+                    "value":"Hmm, you seem like an adult, but you came to a children's playground"
+                },
+                {
+                    "key":"I'm Jimmy, and my older sister is Stephanie. Look, she's standing by the statue of Mary, the Guardian of our poor town",
+                    "value":"I'm Jimmy, and my older sister is Stephanie. Look, she's standing by the statue of Mary, the Guardian of our poor town"
+                },
+                {
+                    "key":"It's boring here, but when I grow up, I want to get into the rich city.",
+                    "value":"It's boring here, but when I grow up, I want to get into the rich city"
+                },
+                {
+                    "key":"Ivy",
+                    "value":"Ivy"
+                },
+                {
+                    "key":"If you're heading to Lady Willow, go inside.",
+                    "value":"If you're heading to Lady Willow, go inside"
+                },
+                {
+                    "key":"Connor",
+                    "value":"Connor"
+                },
+                {
+                    "key":"As my father used to tell me, Learn so that people work for you. Oh, it seems I got carried away.",
+                    "value":"As my father used to tell me, Learn so that people work for you. Oh, it seems I got carried away"
+                },
+                {
+                    "key":"I'm Conor. My father died during the attack of the God Fabian, so I live here in the trailer park.",
+                    "value":"I'm Conor. My father died during the attack of the God Fabian, so I live here in the trailer park"
+                },
+                {
+                    "key":"Nicholas",
+                    "value":"Nicholas"
+                },
+                {
+                    "key":"Oh, another seeker... I guess you want to know where the mayor is, huh?",
+                    "value":"Oh, another seeker... I guess you want to know where the mayor is, huh?"
+                },
+                {
+                    "key":"Haha! Alright, I'll tell you, but let's play a card game. Win, and you'll get the information I gave the previous seeker. Lose, and you won't get anything.",
+                    "value":"Haha! Alright, I'll tell you, but let's play a card game. Win, and you'll get the information I gave the previous seeker. Lose, and you won't get anything"
+                },
+                {
+                    "key":"Leonard",
+                    "value":"Leonard"
+                },
+                {
+                    "key":"No one has been here for a long time. Welcome to the Dense Forest Farm. This farm is controlled by a poor city, I grow food for a poor city, and you don't look like a local.",
+                    "value":"No one has been here for a long time. Welcome to the Dense Forest Farm. This farm is controlled by a poor city, I grow food for a poor city, and you don't look like a local"
+                },
+                {
+                    "key":"The work is tough, but I manage. If you're looking for the mayor, I heard he's not far from the farm.",
+                    "value":"The work is tough, but I manage. If you're looking for the mayor, I heard he's not far from the farm"
+                },
+                {
+                    "key":"Theodore",
+                    "value":"Theodore"
+                },
+                {
+                    "key":"Hello, my name is Theodore, I'm Leonard's brother and I work at the Dense Forest Farm for the benefit of the poor town.",
+                    "value":"Hello, my name is Theodore, I'm Leonard's brother and I work at the Dense Forest Farm for the benefit of the poor town"
+                },
+                {
+                    "key":"Once. I heard great wisdom that everything comes with time.",
+                    "value":"Once. I heard great wisdom that everything comes with time"
+                },
+                {
+                    "key":"There is no end or beginning, only the path. That's the wisdom I carry with me for a lifetime",
+                    "value":"There is no end or beginning, only the path. That's the wisdom I carry with me for a lifetime"
+                },
+                {
+                    "key":"Emilya",
+                    "value":"Emilya"
+                },
+                {
+                    "key":"Finally, someone found me. I'm the mayor of the poor town. You probably want to know what's going on between the rich city and the poor.",
+                    "value":"Finally, someone found me. I'm the mayor of the poor town. You probably want to know what's going on between the rich city and the poor"
+                },
+                {
+                    "key":"Well, listen. I used to maintain a connection with the rich city, but they went mad with their god Fabian.",
+                    "value":"Well, listen. I used to maintain a connection with the rich city, but they went mad with their god Fabian"
+                },
+                {
+                    "key":"They started accusing us of making up claims, possibly related to the last searcher who wandered here before you, but I'm not sure.",
+                    "value":"They started accusing us of making up claims, possibly related to the last searcher who wandered here before you, but I'm not sure"
+                },
+                {
+                    "key":"Anyway, you're the new seeker. Let's see if you can change something in this complicated situation.",
+                    "value":"Anyway, you're the new seeker. Let's see if you can change something in this complicated situation"
+                },
+                {
+                    "key":"Now let's play some cards to see what you can do and if you're worthy of the second level key.",
+                    "value":"Now let's play some cards to see what you can do and if you're worthy of the second level key"
+                },
+                {
+                    "key":"Amy",
+                    "value":"Amy"
+                },
+                {
+                    "key":"Go away from me!, or I'll ask my father to kick you out of this town",
+                    "value":"Go away from me!, or I'll ask my father to kick you out of this town"
+                },
+                {
+                    "key":"and you'll go pray to the pitiful Goddess Mara!",
+                    "value":"and you'll go pray to the pitiful Goddess Mara!"
+                },
+                {
+                    "key":"Isaac",
+                    "value":"Isaac"
+                },
+                {
+                    "key":"Ah, how good it is to live in a big city.",
+                    "value":"Ah, how good it is to live in a big city"
+                },
+                {
+                    "key":"Behind the city walls, there is a lot of deceit and injustice.",
+                    "value":"Behind the city walls, there is a lot of deceit and injustice"
+                },
+                {
+                    "key":"It's fortunate that God Fabian watches over us, even when he's no longer with us",
+                    "value":"It's fortunate that God Fabian watches over us, even when he's no longer with us"
+                },
+                {
+                    "key":"Zoe",
+                    "value":"Zoe"
+                },
+                {
+                    "key":"Hello, I haven't seen you here before. You're new, and there's a lot of interesting stuff here. Good luck!",
+                    "value":"Hello, I haven't seen you here before. You're new, and there's a lot of interesting stuff here. Good luck!"
+                },
+                {
+                    "key":"Caleb",
+                    "value":"Caleb"
+                },
+                {
+                    "key":"Hello, my name is Caleb. I pray near the magnificent statue of God Fabian every day.",
+                    "value":"Hello, my name is Caleb. I pray near the magnificent statue of God Fabian every day"
+                },
+                {
+                    "key":"This statue was built after the victory of the god Fabian in the conflict between the gods, although the pseudo-goddess Mara took the god Fabian with her, we believe that he won",
+                    "value":"This statue was built after the victory of the god Fabian in the conflict between the gods, although the pseudo-goddess Mara took the god Fabian with her, we believe that he won"
+                },
+                {
+                    "key":"My parents work in the church, and they always tell me that I should become someone who helps gods in difficult times.",
+                    "value":"My parents work in the church, and they always tell me that I should become someone who helps gods in difficult times"
+                },
+                {
+                    "key":"Jack",
+                    "value":"Jack"
+                },
+                {
+                    "key":"Hey, who are you? I haven't seen you here before.",
+                    "value":"Hey, who are you? I haven't seen you here before"
+                },
+                {
+                    "key":"Are you one of the newcomers? I'm the sheriff of this town, keeping an eye on order and on which god the townsfolk believe in.",
+                    "value":"Are you one of the newcomers? I'm the sheriff of this town, keeping an eye on order and on which god the townsfolk believe in"
+                },
+                {
+                    "key":"Anything else doesn't interest me, so watch yourself here and maintain order!",
+                    "value":"Anything else doesn't interest me, so watch yourself here and maintain order!"
+                },
+                {
+                    "key":"Leo",
+                    "value":"Leo"
+                },
+                {
+                    "key":"If you're not going to the boss, then get out of here",
+                    "value":"If you're not going to the boss, then get out of here"
+                },
+                {
+                    "key":"Molly",
+                    "value":"Molly"
+                },
+                {
+                    "key":"If you're here to see our boss, come on in, otherwise you'd better get out of here",
+                    "value":"If you're here to see our boss, come on in, otherwise you'd better get out of here"
+                },
+                {
+                    "key":"Eva",
+                    "value":"Eva"
+                },
+                {
+                    "key":"Hello, did you come to dispose of trash too?",
+                    "value":"Hello, did you come to dispose of trash too?"
+                },
+                {
+                    "key":"Waste sorting ensures cleanliness in the city and maintains order",
+                    "value":"Waste sorting ensures cleanliness in the city and maintains order"
+                },
+                {
+                    "key":"Charlie",
+                    "value":"Charlie"
+                },
+                {
+                    "key":"I work on the farm, helping my father. I think he wanted to tell you something.",
+                    "value":"I work on the farm, helping my father. I think he wanted to tell you something"
+                },
+                {
+                    "key":"Go have a conversation with him.",
+                    "value":"Go have a conversation with him"
+                },
+                {
+                    "key":"Lewis",
+                    "value":"Lewis"
+                },
+                {
+                    "key":"Oh, you've arrived. They want to see you. Go to the house guarded by sentinels",
+                    "value":"Oh, you've arrived. They want to see you. Go to the house guarded by sentinels"
+                },
+                {
+                    "key":"Ninja",
+                    "value":"Ninja"
+                },
+                {
+                    "key":"Step inside the boss is waiting for you!",
+                    "value":"Step inside the boss is waiting for you!"
+                },
+                {
+                    "key":"Robert",
+                    "value":"Robert"
+                },
+                {
+                    "key":"Oh, it seems someone came to this landfill. The Rich city dumps all its sorted waste here.",
+                    "value":"Oh, it seems someone came to this landfill. The Rich city dumps all its sorted waste here"
+                },
+                {
+                    "key":"I don't even understand why they bother sorting it; it's all scattered here.",
+                    "value":"I don't even understand why they bother sorting it; it's all scattered here"
+                },
+                {
+                    "key":"If you came to rummage, go ahead, just don't throw anything outside the walls. Ha-ha-ha-ha-ha.",
+                    "value":"If you came to rummage, go ahead, just don't throw anything outside the walls. Ha-ha-ha-ha-ha"
+                },
+                {
+                    "key":"Donald",
+                    "value":"Donald"
+                },
+                {
+                    "key":"Welcome to the winter city. It's constantly snowing and cold here, but it doesn't stop people from living. Come in",
+                    "value":"Welcome to the winter city. It's constantly snowing and cold here, but it doesn't stop people from living. Come in"
+                },
+                {
+                    "key":"Fiona",
+                    "value":"Fiona"
+                },
+                {
+                    "key":"Hello, you're new in town. I'm one of the elders of the Blues.",
+                    "value":"Hello, you're new in town. I'm one of the elders of the Blues"
+                },
+                {
+                    "key":"Come inside the house if you want to know more about us",
+                    "value":"Come inside the house if you want to know more about us"
+                },
+                {
+                    "key":"Leah",
+                    "value":"Leah"
+                },
+                {
+                    "key":"Ah... how I love sometimes going outside in such weather.",
+                    "value":"Ah... how I love sometimes going outside in such weather"
+                },
+                {
+                    "key":"It's a wonderful feeling of the cold breeze and tranquility",
+                    "value":"It's a wonderful feeling of the cold breeze and tranquility"
+                },
+                {
+                    "key":"Damon",
+                    "value":"Damon"
+                },
+                {
+                    "key":"Hello, I'm Damon. Would you like to play cards for 150 coins?",
+                    "value":"Hello, I'm Damon. Would you like to play cards for 150 coins?"
+                },
+                {
+                    "key":"Eric",
+                    "value":"Eric"
+                },
+                {
+                    "key":"Hey, don't even think about getting on the train if you don't have a third-level key.",
+                    "value":"Hey, don't even think about getting on the train if you don't have a third-level key"
+                },
+                {
+                    "key":"Without it, there's nothing to do there",
+                    "value":"Without it, there's nothing to do there"
+                },
+                {
+                    "key":"Guard",
+                    "value":"Guard"
+                },
+                {
+                    "key":"Ooooh, you came here and you were not eliminated, which means there is no turning back. Before we get to the battle on the cards,",
+                    "value":"Ooooh, you came here and you were not eliminated, which means there is no turning back. Before we get to the battle on the cards,"
+                },
+                {
+                    "key":"I'll tell you what awaits you next. You need to defeat me and 4 more guards before meeting him.",
+                    "value":"I'll tell you what awaits you next. You need to defeat me and 4 more guards before meeting him"
+                },
+                {
+                    "key":"I won't wish you luck, but he's a powerful card player.",
+                    "value":"I won't wish you luck, but he's a powerful card player"
+                },
+                {
+                    "key":"Even if you get to him, you won't be able to defeat him. Now let's start the fight",
+                    "value":"Even if you get to him, you won't be able to defeat him. Now let's start the fight"
+                },
+                {
+                    "key":"You passed the first guard, congratulations to you.",
+                    "value":"You passed the first guard, congratulations to you"
+                },
+                {
+                    "key":"There was another searcher here before you, but he couldn't even find the third level key, and then - BAM! - he disappeared, haha",
+                    "value":"There was another searcher here before you, but he couldn't even find the third level key, and then - BAM! - he disappeared, haha"
+                },
+                {
+                    "key":"Know that the further you go, the stronger the guards are and the weaker you are ha ha ha",
+                    "value":"Know that the further you go, the stronger the guards are and the weaker you are ha ha ha"
+                },
+                {
+                    "key":"You should turn around and leave while you still have a chance",
+                    "value":"You should turn around and leave while you still have a chance"
+                },
+                {
+                    "key":"There is no turning back. Fight or be disgraced and then destroyed. BOOGA-BOOGA HA-HA",
+                    "value":"There is no turning back. Fight or be disgraced and then destroyed. BOOGA-BOOGA HA-HA"
+                },
+                {
+                    "key":"Before we fight in cards, you're making a big mistake,",
+                    "value":"Before we fight in cards, you're making a big mistake,"
+                },
+                {
+                    "key":"but it's too late to change anything. Let's start the battle",
+                    "value":"but it's too late to change anything. Let's start the battle"
+                },
+                {
+                    "key":"Malachai",
+                    "value":"Malachai"
+                },
+                {
+                    "key":"Well, Well, Well, if you were able to come here, it means that my bodyguards failed me, so you deserve the truth",
+                    "value":"Well, Well, Well, if you were able to come here, it means that my bodyguards failed me, so you deserve the truth"
+                },
+                {
+                    "key":"Listen, I caused a conflict among the gods",
+                    "value":"Listen, I caused a conflict among the gods"
+                },
+                {
+                    "key":"I provoked the god Fabian and framed the Goddess Mara, thereby causing a conflict.",
+                    "value":"I provoked the god Fabian and framed the Goddess Mara, thereby causing a conflict"
+                },
+                {
+                    "key":"I also framed the Titan Warrior and the Card master. When they found out about the conflict",
+                    "value":"I also framed the Titan Warrior and the Card master. When they found out about the conflict"
+                },
+                {
+                    "key":"They wanted to reconcile the gods, so I made them look like they were helping the Goddess Mari.",
+                    "value":"They wanted to reconcile the gods, so I made them look like they were helping the Goddess Mari"
+                },
+                {
+                    "key":"At the same time, I sent a letter to Marie, claiming that they were helping Fabian, and she believed me.",
+                    "value":"At the same time, I sent a letter to Marie, claiming that they were helping Fabian, and she believed me"
+                },
+                {
+                    "key":"The gods disappeared, and I took power into my own hands and decided what would happen next.",
+                    "value":"The gods disappeared, and I took power into my own hands and decided what would happen next"
+                },
+                {
+                    "key":"Things spiraled out of control, conflicts emerged, and various factions appeared—namely,",
+                    "value":"Things spiraled out of control, conflicts emerged, and various factions appeared—namely,"
+                },
+                {
+                    "key":"The Blue, Yellow, Red, and Purple Factions. Another faction, the Green, also emerged.",
+                    "value":"The Blue, Yellow, Red, and Purple Factions. Another faction, the Green, also emerged"
+                },
+                {
+                    "key":"Thanks to my actions, the founders of the Green Faction were liquidated, so almost no one knows about it.",
+                    "value":"Thanks to my actions, the founders of the Green Faction were liquidated, so almost no one knows about it"
+                },
+                {
+                    "key":"This is not all the information, but you already know too much.",
+                    "value":"This is not all the information, but you already know too much"
+                },
+                {
+                    "key":"Even if you manage to leave here alive, it won't be for long. Now let's proceed to the card battle. LET CHAOS REIGN!!!",
+                    "value":"Even if you manage to leave here alive, it won't be for long. Now let's proceed to the card battle. LET CHAOS REIGN!!!"
+                },
+                {
+                    "key":"Old man",
+                    "value":"Old man"
+                },
+                {
+                    "key":"Boo-hahaha! He will come...",
+                    "value":"Boo-hahaha! He will come..."
+                },
+                {
+                    "key":"Someday the time will come when the one who controls every battle and decides its outcome arrives.",
+                    "value":"Someday the time will come when the one who controls every battle and decides its outcome arrives"
+                },
+                {
+                    "key":"The time will come when what the gods created years ago will disappear",
+                    "value":"The time will come when what the gods created years ago will disappear"
+                },
+                {
+                    "key":"Oh great one, come to us as fast as possible, bring order swiftly! Boo-hahaha!",
+                    "value":"Oh great one, come to us as fast as possible, bring order swiftly! Boo-hahaha!"
+                },
+                {
+                    "key":"Alan",
+                    "value":"Alan"
+                },
+                {
+                    "key":"I am one of the workers on the farm.",
+                    "value":"I am one of the workers on the farm"
+                },
+                {
+                    "key":"I work to ensure that the people in our town have something to eat and that there's something to sell to the winter city",
+                    "value":"I work to ensure that the people in our town have something to eat and that there's something to sell to the winter city"
+                },
+                {
+                    "key":"There are other workers, but they have the day off today",
+                    "value":"There are other workers, but they have the day off today"
+                },
+                {
+                    "key":"Jessica",
+                    "value":"Jessica"
+                },
+                {
+                    "key":"Hello, my name is Jessica. I'm here to oversee the farm and manage the sales of products to the winter city.",
+                    "value":"Hello, my name is Jessica. I'm here to oversee the farm and manage the sales of products to the winter city"
+                },
+                {
+                    "key":"We are one of the largest suppliers of products to the Winter city, and they pay well. That's how our system works",
+                    "value":"We are one of the largest suppliers of products to the Winter city, and they pay well. That's how our system works"
+                },
+                {
+                    "key":"Stanley",
+                    "value":"Stanley"
+                },
+                {
+                    "key":"I am a warrior-servant to the great Card Master. For me, it is an honor to serve the Card Master,",
+                    "value":"I am a warrior-servant to the great Card Master. For me, it is an honor to serve the Card Master,"
+                },
+                {
+                    "key":"even after the conflict of the gods. Once, cards had no abilities, but the Card Master granted them abilities and embellished card battles",
+                    "value":"even after the conflict of the gods. Once, cards had no abilities, but the Card Master granted them abilities and embellished card battles"
+                },
+                {
+                    "key":"In his book it is written: There will always be a stronger than the stronger",
+                    "value":"In his book it is written: There will always be a stronger than the stronger"
+                },
+                {
+                    "key":"And silence will come, covering all conflicts, bringing peace",
+                    "value":"And silence will come, covering all conflicts, bringing peace"
+                },
+                {
+                    "key":"William",
+                    "value":"William"
+                },
+                {
+                    "key":"Oh, a newcomer in town. Maintain order.",
+                    "value":"Oh, a newcomer in town. Maintain order"
+                },
+                {
+                    "key":"We, the warrior-servants, are keeping an eye on everything here, although there are not many of us left",
+                    "value":"We, the warrior-servants, are keeping an eye on everything here, although there are not many of us left"
+                },
+                {
+                    "key":"Alice",
+                    "value":"Alice"
+                },
+                {
+                    "key":"I would like to move to a bigger town, but who knows how safe it is there",
+                    "value":"I would like to move to a bigger town, but who knows how safe it is there"
+                },
+                {
+                    "key":"Oscar",
+                    "value":"Oscar"
+                },
+                {
+                    "key":"Wow, adventurer! It's been a while since anyone ventured into our town. If you have a moment",
+                    "value":"Wow, adventurer! It's been a while since anyone ventured into our town. If you have a moment"
+                },
+                {
+                    "key":"I'll tell you about the Titan Warrior. Long ago, in the time of gods, there was a mighty Titan Warrior",
+                    "value":"I'll tell you about the Titan Warrior. Long ago, in the time of gods, there was a mighty Titan Warrior"
+                },
+                {
+                    "key":"He had three dogs to guard him. When the gods called him to them, they allowed him to immortalize his dogs on maps",
+                    "value":"He had three dogs to guard him. When the gods called him to them, they allowed him to immortalize his dogs on maps"
+                },
+                {
+                    "key":"He agreed, and thus the Hound, Robo-Hound, and Skeleton Hound were born. Later, during a conflict among the gods",
+                    "value":"He agreed, and thus the Hound, Robo-Hound, and Skeleton Hound were born. Later, during a conflict among the gods"
+                },
+                {
+                    "key":"our town came under attack. The Titan Warrior sacrificed himself to protect the town",
+                    "value":"our town came under attack. The Titan Warrior sacrificed himself to protect the town"
+                },
+                {
+                    "key":"and since then, we've been worshipping him to this day.",
+                    "value":"and since then, we've been worshipping him to this day"
+                },
+                {
+                    "key":"Austin",
+                    "value":"Austin"
+                },
+                {
+                    "key":"I work at the farm and help out with our camp. And Ryan keeps in touch with the winter camp.",
+                    "value":"I work at the farm and help out with our camp. And Ryan keeps in touch with the winter camp"
+                },
+                {
+                    "key":"We sell them products since they don't have space to grow their own",
+                    "value":"We sell them products since they don't have space to grow their own"
+                },
+                {
+                    "key":"Ryan",
+                    "value":"Ryan"
+                },
+                {
+                    "key":"Hello, my name is Ryan. I'm in charge here, overseeing the farm and everything else.",
+                    "value":"Hello, my name is Ryan. I'm in charge here, overseeing the farm and everything else"
+                },
+                {
+                    "key":"There's not much interesting here, and you're unlikely to find any useful information.",
+                    "value":"There's not much interesting here, and you're unlikely to find any useful information"
+                },
+                {
+                    "key":"However, there are many scattered chests near the city. If you have a level 2 or level 3 key, you can open them",
+                    "value":"However, there are many scattered chests near the city. If you have a level 2 or level 3 key, you can open them"
+                },
+                {
+                    "key":"Carolina",
+                    "value":"Carolina"
+                },
+                {
+                    "key":"Ugh, this conflict has been dragging on for about 10 years, and it just can't seem to end.",
+                    "value":"Ugh, this conflict has been dragging on for about 10 years, and it just can't seem to end"
+                },
+                {
+                    "key":"It's a bit tiring, but it is said that when an adventurer comes, there is a way out of SpellBound",
+                    "value":"It's a bit tiring, but it is said that when an adventurer comes, there is a way out of SpellBound"
+                },
+                {
+                    "key":"However, it's not guaranteed to be a peaceful resolution. So, we'll see what happens",
+                    "value":"However, it's not guaranteed to be a peaceful resolution. So, we'll see what happens"
+                },
+                {
+                    "key":"Victor",
+                    "value":"Victor"
+                },
+                {
+                    "key":"Hello, we're from the Blue faction. We have a camp here, and we control the territory outside the poor city.",
+                    "value":"Hello, we're from the Blue faction. We have a camp here, and we control the territory outside the poor city"
+                },
+                {
+                    "key":"We catch any stragglers from the Red faction",
+                    "value":"We catch any stragglers from the Red faction"
+                },
+                {
+                    "key":"Seth",
+                    "value":"Seth"
+                },
+                {
+                    "key":"Hello! You're a new searcher, we don't have much for you here, but you can look for something in abandoned thrillers",
+                    "value":"Hello! You're a new searcher, we don't have much for you here, but you can look for something in abandoned thrillers"
+                },
+                {
+                    "key":"I'm too scared to go in there; it smells like death. Brrr...",
+                    "value":"I'm too scared to go in there; it smells like death. Brrr..."
+                },
+
+
+
+
+                {
+                    "key":"Hey, you should leave. All the cities except Rich City are closed now, because chaos reigns in Rich City.",
+                    "value":"Hey, you should leave. All the cities except Rich City are closed now, because chaos reigns in Rich City"
+                },
+                {
+                    "key":"All from the blue faction went to battle, and I'm in charge here. Be more careful",
+                    "value":"All from the blue faction went to battle, and I'm in charge here. Be more careful"
+                },
+                {
+                    "key":"Brittany",
+                    "value":"Brittany"
+                },
+                {
+                    "key":"Well, didn't expect to see me here, did you? I bolted as soon as they entered the battle.",
+                    "value":"Well, didn't expect to see me here, did you? I bolted as soon as they entered the battle"
+                },
+                {
+                    "key":"And when all the factions gathered, we had significantly more people",
+                    "value":"And when all the factions gathered, we had significantly more people"
+                },
+                {
+                    "key":"However, the Violet faction decided to support the Reds, and a very large battle ensued",
+                    "value":"However, the Violet faction decided to support the Reds, and a very large battle ensued"
+                },
+                {
+                    "key":"The Yellow group completely disappeared, haha. And now, open the gates!",
+                    "value":"The Yellow group completely disappeared, haha. And now, open the gates!"
+                },
+                {
+                    "key":"Samuel",
+                    "value":"Samuel"
+                },
+                {
+                    "key":"We managed to capture Benjamin, although we lost a few fighters.",
+                    "value":"We managed to capture Benjamin, although we lost a few fighters"
+                },
+                {
+                    "key":"We started the operation right in the midst of the battle between the factions in the wealthy city",
+                    "value":"We started the operation right in the midst of the battle between the factions in the wealthy city"
+                },
+                {
+                    "key":"There is probably chaos there now, and no one is around. And don't blame yourself for what happened.",
+                    "value":"There is probably chaos there now, and no one is around. And don't blame yourself for what happened"
+                },
+                {
+                    "key":"Everything had to happen this way, and there is no other way out. We will leave after you go",
+                    "value":"Everything had to happen this way, and there is no other way out. We will leave after you go"
+                },
+                {
+                    "key":"Benjamin",
+                    "value":"Benjamin"
+                },
+                {
+                    "key":"Through you... Through you, this chaos began. A bit more, and the wealthy city would have been under my control,",
+                    "value":"Through you... Through you, this chaos began. A bit more, and the wealthy city would have been under my control,"
+                },
+                {
+                    "key":"and I would have destroyed these factions. But you started it all. It's your fault",
+                    "value":"and I would have destroyed these factions. But you started it all. It's your fault"
+                },
+                {
+                    "key":"My informants were intercepted, otherwise I would have hid a long time ago and no one would have found me",
+                    "value":"My informants were intercepted, otherwise I would have hid a long time ago and no one would have found me"
+                },
+                {
+                    "key":"But now everything will be in chaos. First, the wealthy city, and then everything else",
+                    "value":"But now everything will be in chaos. First, the wealthy city, and then everything else"
+                },
+                {
+                    "key":"Only refugees and victors will remain in the end",
+                    "value":"Only refugees and victors will remain in the end"
+                },
+                {
+                    "key":"Yes, this is just the beginning... Only the beginning",
+                    "value":"Yes, this is just the beginning... Only the beginning"
+                },
+                {
+                    "key":"Maybe you have questions about how I ended up here. It's very simple.",
+                    "value":"Maybe you have questions about how I ended up here. It's very simple"
+                },
+                {
+                    "key":"I was helped by the one who controls every battle",
+                    "value":"I was helped by the one who controls every battle"
+                },
+                {
+                    "key":"Soon you will learn more about him, and perhaps even meet him",
+                    "value":"Soon you will learn more about him, and perhaps even meet him"
+                },
+                {
+                    "key":"He made it so that you ended up here. All I have left is to deliver this message, namely:",
+                    "value":"He made it so that you ended up here. All I have left is to deliver this message, namely:"
+                },
+                {
+                    "key":"This is just the beginning, adventurer. We will meet soon. Ha-ha-ha. Now go, it's only the beginning.",
+                    "value":"This is just the beginning, adventurer. We will meet soon. Ha-ha-ha. Now go, it's only the beginning"
+                },
+                {
+                    "key":"Further, the poor city.",
+                    "value":"Further, the poor city"
+                },
+                {
+                    "key":"Further, the Rich city.",
+                    "value":"Further, the Rich city"
+                },
+                {
+                    "key":"The great village of the Card Master",
+                    "value":"The great village of the Card Master"
+                },
+                {
+                    "key":"A small village of a titan warrior",
+                    "value":"A small village of a titan warrior"
+                },
+                {
+                    "key":"There is no way back",
+                    "value":"There is no way back"
+                },
+                {
+                    "key":"Don't trust anyone, not even yourself",
+                    "value":"Don't trust anyone, not even yourself"
+                },
+                {
+                    "key":"Victory after victory, and for what purpose?",
+                    "value":"Victory after victory, and for what purpose?"
+                },
+                {
+                    "key":"Why did the conflict between the gods happen after all?",
+                    "value":"Why did the conflict between the gods happen after all?"
+                },
+                {
+                    "key":"Exit",
+                    "value":"Exit"
+                },
+                {
+                    "key":"Exit from the cave",
+                    "value":"Exit from the cave"
+                },
+                {
+                    "key":"Strange woman",
+                    "value":"Strange woman"
+                },
+                {
+                    "key":"If you want me to curse someone, the prices have changed. It's not 2000 coins anymore, but 4000 coins.",
+                    "value":"If you want me to curse someone, the prices have changed. It's not 2000 coins anymore, but 4000 coins"
+                },
+                {
+                    "key":"And one guy came along and said: Curse my sister, I really need this.",
+                    "value":"And one guy came along and said: Curse my sister, I really need this"
+                },
+                {
+                    "key":"I didn't know at the time that he would become even richer when I cursed his sister",
+                    "value":"I didn't know at the time that he would become even richer when I cursed his sister"
+                },
+                {
+                    "key":"I won't make such mistakes again. Now, go away, or I'll cast a curse on you. He-he-he-he-he-he.",
+                    "value":"I won't make such mistakes again. Now, go away, or I'll cast a curse on you. He-he-he-he-he-he"
+                },
+                {
+                    "key":"Janice",
+                    "value":"Janice"
+                },
+                {
+                    "key":"So stop, extraterrestrial. You're on foreign territory, so behave decently and don't do foolish things.",
+                    "value":"So stop, extraterrestrial. You're on foreign territory, so behave decently and don't do foolish things"
+                },
+                {
+                    "key":"The locals don't like outsiders",
+                    "value":"The locals don't like outsiders"
+                },
+                {
+                    "key":"Bryan",
+                    "value":"Bryan"
+                },
+                {
+                    "key":"I am surprised that I look like this. Once, I came here without an arm and wounded",
+                    "value":"I am surprised that I look like this. Once, I came here without an arm and wounded"
+                },
+                {
+                    "key":"I accidentally clashed with a group of blue men and barely escaped with my life",
+                    "value":"I accidentally clashed with a group of blue men and barely escaped with my life"
+                },
+                {
+                    "key":"Here, a mechanic saved me, giving me faith in life. So, I stayed here",
+                    "value":"Here, a mechanic saved me, giving me faith in life. So, I stayed here"
+                },
+                {
+                    "key":"My prosthesis helps me work on the farm with ease, and now there's a small truce between the groups",
+                    "value":"My prosthesis helps me work on the farm with ease, and now there's a small truce between the groups"
+                },
+                {
+                    "key":"Still, be careful with them. Would you like to play cards for 200 coins?",
+                    "value":"Still, be careful with them. Would you like to play cards for 200 coins?"
+                },
+                {
+                    "key":"Liam",
+                    "value":"Liam"
+                },
+                {
+                    "key":"I have been studying farming for over 6 years",
+                    "value":"I have been studying farming for over 6 years"
+                },
+                {
+                    "key":"Thanks to my knowledge, there are harvests in these caves every year",
+                    "value":"Thanks to my knowledge, there are harvests in these caves every year"
+                },
+                {
+                    "key":"The key is to consider the direction of light, humidity, and many other factors",
+                    "value":"The key is to consider the direction of light, humidity, and many other factors"
+                },
+                {
+                    "key":"The probability of a good harvest is estimated to be 99.5%",
+                    "value":"The probability of a good harvest is estimated to be 99.5%"
+                },
+                {
+                    "key":"Ellen",
+                    "value":"Ellen"
+                },
+                {
+                    "key":"Hello, I'm just working on the farm and living here since birth",
+                    "value":"Hello, I'm just working on the farm and living here since birth"
+                },
+                {
+                    "key":"Life here is tough, but it's safe, and there's always enough food",
+                    "value":"Life here is tough, but it's safe, and there's always enough food"
+                },
+                {
+                    "key":"Glenn",
+                    "value":"Glenn"
+                },
+                {
+                    "key":"I am the oldest in this cave. I lost my sight and now live here. I was here when there was just a pile of rocks,",
+                    "value":"I am the oldest in this cave. I lost my sight and now live here. I was here when there was just a pile of rocks,"
+                },
+                {
+                    "key":"and I am one of those who made this place a home because there is light shining through the hole, and everything grows here",
+                    "value":"and I am one of those who made this place a home because there is light shining through the hole, and everything grows here"
+                },
+                {
+                    "key":"Well, at least that's what the young ones told me, even though there are not many of them here",
+                    "value":"Well, at least that's what the young ones told me, even though there are not many of them here"
+                },
+                {
+                    "key":"Paul",
+                    "value":"Paul"
+                },
+                {
+                    "key":"I can say that I'm responsible for finances and life supplies here. It's dull but stable",
+                    "value":"I can say that I'm responsible for finances and life supplies here. It's dull but stable"
+                },
+                {
+                    "key":"The main thing is that big cities continue to buy stone, and the sun continues to shine, and everything will be fine",
+                    "value":"The main thing is that big cities continue to buy stone, and the sun continues to shine, and everything will be fine"
+                },
+                {
+                    "key":"Just don't linger here; the locals don't like strangers",
+                    "value":"Just don't linger here; the locals don't like strangers"
+                },
+                {
+                    "key":"Niels",
+                    "value":"Niels"
+                },
+                {
+                    "key":"I'm a simple worker in the mine, extracting stones. Nothing special",
+                    "value":"I'm a simple worker in the mine, extracting stones. Nothing special"
+                },
+                {
+                    "key":"Kane",
+                    "value":"Kane"
+                },
+                {
+                    "key":"I am a worker and a supervisor in this mine. We extract stone, and then through a supplier,",
+                    "value":"I am a worker and a supervisor in this mine. We extract stone, and then through a supplier,"
+                },
+                {
+                    "key":"we sell this stone to other cities to support their walls and roads. The income is decent, and that's how we live",
+                    "value":"we sell this stone to other cities to support their walls and roads. The income is decent, and that's how we live"
+                },
+                {
+                    "key":"Bob",
+                    "value":"Bob"
+                },
+                {
+                    "key":"Hello, I'm Bob. The tavern isn't as crowded today as it usually is.",
+                    "value":"Hello, I'm Bob. The tavern isn't as crowded today as it usually is"
+                },
+                {
+                    "key":"If you need to get to the mayor, go to the city hall, they will help you there",
+                    "value":"If you need to get to the mayor, go to the city hall, they will help you there"
+                },
+                {
+                    "key":"You can also relax with a drink at the bar it's been a bit dull around here lately",
+                    "value":"You can also relax with a drink at the bar it's been a bit dull around here lately"
+                },
+                {
+                    "key":"I think you can help this town. Good luck!",
+                    "value":"I think you can help this town. Good luck!"
+                },
+                {
+                    "key":"Also, we can play cards, and I'll give you a note that I recently found that has to do with a previous seeker who came here before you",
+                    "value":"Also, we can play cards, and I'll give you a note that I recently found that has to do with a previous seeker who came here before you"
+                },
+                {
+                    "key":"Falion",
+                    "value":"Falion"
+                },
+                {
+                    "key":"Hello, are you familiar with my brother Nolan? By the way, I'm Falion. If you have a minute.",
+                    "value":"Hello, are you familiar with my brother Nolan? By the way, I'm Falion. If you have a minute"
+                },
+                {
+                    "key":"I'll tell you about the two gods who created the cards and the card game itself, and also about the great conflict that arose between them.",
+                    "value":"I'll tell you about the two gods who created the cards and the card game itself, and also about the great conflict that arose between them"
+                },
+                {
+                    "key":"Listen. Once upon a time, the Poor Town and the Rich City lived in good relations, and both revered the two gods, Goddess Mara and God Fabian.",
+                    "value":"Listen. Once upon a time, the Poor Town and the Rich City lived in good relations, and both revered the two gods, Goddess Mara and God Fabian"
+                },
+                {
+                    "key":"They worshipped them, built monuments for them; everything was good, but then an unknown conflict arose.",
+                    "value":"They worshipped them, built monuments for them; everything was good, but then an unknown conflict arose"
+                },
+                {
+                    "key":"The Card Master and the Warrior of the Titans were the first to get involved in the battles between the gods, and Poor City suffered the most from this conflict.",
+                    "value":"The Card Master and the Warrior of the Titans were the first to get involved in the battles between the gods, and Poor City suffered the most from this conflict"
+                },
+                {
+                    "key":"Chaos reigned, but the Rich City almost didn't suffer, as Mara didn't strike peaceful residents. However, God Fabian was cruel and inflicted a lot of damage to the Poor Town.",
+                    "value":"Chaos reigned, but the Rich City almost didn't suffer, as Mara didn't strike peaceful residents. However, God Fabian was cruel and inflicted a lot of damage to the Poor Town"
+                },
+                {
+                    "key":"Mara managed only to protect the temple and some buildings. Much time has passed, and seekers came one after another, but no one managed to unravel the mystery of the conflict.",
+                    "value":"Mara managed only to protect the temple and some buildings. Much time has passed, and seekers came one after another, but no one managed to unravel the mystery of the conflict"
+                },
+                {
+                    "key":"Thanks for listening to this story. Good luck to you! I'll always be happy to see you in Mara's temple!",
+                    "value":"Thanks for listening to this story. Good luck to you! I'll always be happy to see you in Mara's temple!"
+                },
+                {
+                    "key":"Linda",
+                    "value":"Linda"
+                },
+                {
+                    "key":"If you're looking for the mayor of the town, he disappeared, and it's unclear where. I'm his assistant,",
+                    "value":"If you're looking for the mayor of the town, he disappeared, and it's unclear where. I'm his assistant,"
+                },
+                {
+                    "key":"and you can ask people in the trailer district they might know something.",
+                    "value":"and you can ask people in the trailer district they might know something"
+                },
+                {
+                    "key":"Albert",
+                    "value":"Albert"
+                },
+                {
+                    "key":"Oh, who has come to my home? I am Grandfather of Sofia. She is currently at the playground.",
+                    "value":"Oh, who has come to my home? I am Grandfather of Sofia. She is currently at the playground"
+                },
+                {
+                    "key":"You probably walked around the city and noticed that there's no one named Mara or Fabian anymore.",
+                    "value":"You probably walked around the city and noticed that there's no one named Mara or Fabian anymore"
+                },
+                {
+                    "key":"Once, when the gods still existed among us, we were forbidden to name our descendants after the gods.",
+                    "value":"Once, when the gods still existed among us, we were forbidden to name our descendants after the gods"
+                },
+                {
+                    "key":"It's a pity about Sofia's parents; they perished during Fabian's attack.",
+                    "value":"It's a pity about Sofia's parents; they perished during Fabian's attack"
+                },
+                {
+                    "key":"They simply couldn't reach the temple that Mara was defending with all her might",
+                    "value":"They simply couldn't reach the temple that Mara was defending with all her might"
+                },
+                {
+                    "key":"Adele",
+                    "value":"Adele"
+                },
+                {
+                    "key":"Hello, my name is Adele, and I live here. You're new, huh? Oh, that's great. I hope you won't end up like the last seeker... well, never mind.",
+                    "value":"Hello, my name is Adele, and I live here. You're new, huh? Oh, that's great. I hope you won't end up like the last seeker... well, never mind"
+                },
+                {
+                    "key":"Do you want to earn a bit? Beat me in a card game",
+                    "value":"Do you want to earn a bit? Beat me in a card game"
+                },
+                {
+                    "key":"Tyler",
+                    "value":"Tyler"
+                },
+                {
+                    "key":"Hello, who are you, and what are you doing in my house?",
+                    "value":"Hello, who are you, and what are you doing in my house"
+                },
+                {
+                    "key":"Well, since you're here, we can play a card game if you're up for it",
+                    "value":"Well, since you're here, we can play a card game if you're up for it"
+                },
+                {
+                    "key":"Alex",
+                    "value":"Alex"
+                },
+                {
+                    "key":"Oh, hello! I'm Alex.",
+                    "value":"Oh, hello! I'm Alex"
+                },
+                {
+                    "key":"What are you doing here? Who allowed you to barge into my father's house?",
+                    "value":"What are you doing here? Who allowed you to barge into my father's house?"
+                },
+                {
+                    "key":"Although I haven't seen you here before. Are you one of the poor folks?",
+                    "value":"Although I haven't seen you here before. Are you one of the poor folks?"
+                },
+                {
+                    "key":"George",
+                    "value":"George"
+                },
+                {
+                    "key":"Good day, townspeople.",
+                    "value":"Good day, townspeople"
+                },
+                {
+                    "key":"I'm the mayor of Rich City, and I'm very busy right now.",
+                    "value":"I'm the mayor of Rich City, and I'm very busy right now"
+                },
+                {
+                    "key":"Regarding the accusations against the poor town, I want to note that they are true.",
+                    "value":"Regarding the accusations against the poor town, I want to note that they are true"
+                },
+                {
+                    "key":"They have already been recorded in the history of the church, and I do not intend to change anything.",
+                    "value":"They have already been recorded in the history of the church, and I do not intend to change anything"
+                },
+                {
+                    "key":"Good day, unknown individual. It's the first time I see you in this town.",
+                    "value":"Good day, unknown individual. It's the first time I see you in this town"
+                },
+                {
+                    "key":"I am the deputy mayor and the richest in this city.",
+                    "value":"I am the deputy mayor and the richest in this city"
+                },
+                {
+                    "key":"My wealth is estimated at around 7000 coins",
+                    "value":"My wealth is estimated at around 7000 coins"
+                },
+                {
+                    "key":"I used to be highly skilled in card games, and my status in the city is high, though slightly below the mayor's.",
+                    "value":"I used to be highly skilled in card games, and my status in the city is high, though slightly below the mayor's"
+                },
+                {
+                    "key":"I hope that in the future, people will choose me as the new mayor.",
+                    "value":"I hope that in the future, people will choose me as the new mayor"
+                },
+                {
+                    "key":"Listen, I have an extra 150 coins here. You want to play a game, and if you win, they're yours",
+                    "value":"Listen, I have an extra 150 coins here. You want to play a game, and if you win, they're yours"
+                },
+                {
+                    "key":"Elliot",
+                    "value":"Elliot"
+                },
+                {
+                    "key":"Hello, welcome to the Church of God Fabian.",
+                    "value":"Hello, welcome to the Church of God Fabian"
+                },
+                {
+                    "key":"If you have five minutes to listen to the story of God Fabian, then listen",
+                    "value":"If you have five minutes to listen to the story of God Fabian, then listen"
+                },
+                {
+                    "key":"Once upon a time, gods used to be friends, adding new cards and mechanics to card games",
+                    "value":"Once upon a time, gods used to be friends, adding new cards and mechanics to card games"
+                },
+                {
+                    "key":"But the conflict between the Gods arose because of the pseudo-goddess Mara. She was the cause of the conflict",
+                    "value":"But the conflict between the Gods arose because of the pseudo-goddess Mara. She was the cause of the conflict"
+                },
+                {
+                    "key":"She was the one who caused the conflict and the destruction of the poor city... What happened, happened. We respect Fabian for standing up to this conflict. With the new mayoral orders",
+                    "value":"She was the one who caused the conflict and the destruction of the poor city... What happened, happened. We respect Fabian for standing up to this conflict. With the new mayoral orders"
+                },
+                {
+                    "key":"the poor town mocks handcrafted statues of God Fabian. We even wanted to engage in diplomacy with them",
+                    "value":"the poor town mocks handcrafted statues of God Fabian. We even wanted to engage in diplomacy with them"
+                },
+                {
+                    "key":"but now half the city hates them even more. Well, that's it.",
+                    "value":"but now half the city hates them even more. Well, that's it"
+                },
+                {
+                    "key":"Anna",
+                    "value":"Anna"
+                },
+                {
+                    "key":"Hello, I'm Anna, the wife of a priest and Caleb's mother.",
+                    "value":"Hello, I'm Anna, the wife of a priest and Caleb's mother"
+                },
+                {
+                    "key":"It is strange to witness the recent accusations from the mayor, but we remain faithful to him and his words, if he accuses a poor city, it means that there is",
+                    "value":"It is strange to witness the recent accusations from the mayor, but we remain faithful to him and his words, if he accuses a poor city, it means that there is"
+                },
+                {
+                    "key":"I hope that peace will come between the cities someday",
+                    "value":"I hope that peace will come between the cities someday"
+                },
+                {
+                    "key":"Freya",
+                    "value":"Freya"
+                },
+                {
+                    "key":"I work for the priest at the temple, cleaning and carrying out small tasks.",
+                    "value":"I work for the priest at the temple, cleaning and carrying out small tasks"
+                },
+                {
+                    "key":"David",
+                    "value":"David"
+                },
+                {
+                    "key":"If you wish to confess your sins and repent before the statue of God Fabian, you can do so here.",
+                    "value":"If you wish to confess your sins and repent before the statue of God Fabian, you can do so here"
+                },
+                {
+                    "key":"Jude",
+                    "value":"Jude"
+                },
+                {
+                    "key":"Welcome to the Sleepy Giant Tavern.",
+                    "value":"Welcome to the Sleepy Giant Tavern"
+                },
+                {
+                    "key":"It is named after the giant who once lived here and kept this establishment in good condition.",
+                    "value":"It is named after the giant who once lived here and kept this establishment in good condition"
+                },
+                {
+                    "key":"I am the owner of the tavern, and I maintain order here.",
+                    "value":"I am the owner of the tavern, and I maintain order here"
+                },
+                {
+                    "key":"Today is not very busy, but people will gather in the evening",
+                    "value":"Today is not very busy, but people will gather in the evening"
+                },
+                {
+                    "key":"Rose",
+                    "value":"Rose"
+                },
+                {
+                    "key":"Hi, are you... are you a new seeker of adventure?",
+                    "value":"Hi, are you... are you a new seeker of adventure?"
+                },
+                {
+                    "key":"Someone is looking for you near the farm controlled by a wealthy town. They want to meet you",
+                    "value":"Someone is looking for you near the farm controlled by a wealthy town. They want to meet you"
+                },
+                {
+                    "key":"Logan",
+                    "value":"Logan"
+                },
+                {
+                    "key":"Hey there! Do you want to play a card game?",
+                    "value":"Hey there! Do you want to play a card game?"
+                },
+                {
+                    "key":"I'm the best player in the bar, if not the entire town. If you beat me, it's 100 coins for you.",
+                    "value":"I'm the best player in the bar, if not the entire town. If you beat me, it's 100 coins for you"
+                },
+                {
+                    "key":"Well?",
+                    "value":"Well?"
+                },
+                {
+                    "key":"Owen",
+                    "value":"Owen"
+                },
+                {
+                    "key":"I'm busy, don't disturb me!",
+                    "value":"I'm busy, don't disturb me!"
+                },
+                {
+                    "key":"Lola",
+                    "value":"Lola"
+                },
+                {
+                    "key":"Hello, I work as a waitress here. Come to the bar; there's a variety of drinks and food available.",
+                    "value":"Hello, I work as a waitress here. Come to the bar; there's a variety of drinks and food available"
+                },
+                {
+                    "key":"Dexter",
+                    "value":"Dexter"
+                },
+                {
+                    "key":"Ah, darn politics. Soon everything will go to the cat's tail, and it will all end. I feel it, hehehe.",
+                    "value":"Ah, darn politics. Soon everything will go to the cat's tail, and it will all end. I feel it, hehehe"
+                },
+                {
+                    "key":"Kai",
+                    "value":"Kai"
+                },
+                {
+                    "key":"Welcome to the furniture and goods store.",
+                    "value":"Welcome to the furniture and goods store"
+                },
+                {
+                    "key":"I'm the manager and I take care of everything here while the owner is doing his own thing.",
+                    "value":"I'm the manager and I take care of everything here while the owner is doing his own thing"
+                },
+                {
+                    "key":"This store brings in good income for both me and my boss.",
+                    "value":"This store brings in good income for both me and my boss"
+                },
+                {
+                    "key":"My boss is Benjamin; he's the deputy mayor and a very influential person in this town.",
+                    "value":"My boss is Benjamin; he's the deputy mayor and a very influential person in this town"
+                },
+                {
+                    "key":"Hugo",
+                    "value":"Hugo"
+                },
+                {
+                    "key":"Hey, don't disturb me. I'm choosing a crib for my home, and I need to make the right choice",
+                    "value":"Hey, don't disturb me. I'm choosing a crib for my home, and I need to make the right choice"
+                },
+                {
+                    "key":"Henry",
+                    "value":"Henry"
+                },
+                {
+                    "key":"Hello, my name is Henry.",
+                    "value":"Hello, my name is Henry"
+                },
+                {
+                    "key":"I am the chief doctor, and we have excellent results at the hospital - not a single patient.",
+                    "value":"I am the chief doctor, and we have excellent results at the hospital - not a single patient"
+                },
+                {
+                    "key":"So I wish you a good day and strong health.",
+                    "value":"So I wish you a good day and strong health"
+                },
+                {
+                    "key":"Mia",
+                    "value":"Mia"
+                },
+                {
+                    "key":"I work as a nurse in this hospital. If you are bothered by any illness, you can come to our hospital",
+                    "value":"I work as a nurse in this hospital. If you are bothered by any illness, you can come to our hospital"
+                },
+                {
+                    "key":"So, take care and watch your health",
+                    "value":"So, take care and watch your health"
+                },
+                {
+                    "key":"Felix",
+                    "value":"Felix"
+                },
+                {
+                    "key":"I lost my hand in the last battle. If you think it's just a battle on cards, you're mistaken.",
+                    "value":"I lost my hand in the last battle. If you think it's just a battle on cards, you're mistaken"
+                },
+                {
+                    "key":"It's a much more brutal battle between factions",
+                    "value":"It's a much more brutal battle between factions"
+                },
+                {
+                    "key":"Louie",
+                    "value":"Louie"
+                },
+                {
+                    "key":"If you're going to the boss, go ahead",
+                    "value":"If you're going to the boss, go ahead"
+                },
+                {
+                    "key":"Teddy",
+                    "value":"Teddy"
+                },
+                {
+                    "key":"Hmm, you don't look like a guy from another faction, so go to the boss if you need something from him",
+                    "value":"Hmm, you don't look like a guy from another faction, so go to the boss if you need something from him"
+                },
+                {
+                    "key":"Сhloe",
+                    "value":"Сhloe"
+                },
+                {
+                    "key":"When I was 12 years old, the 'Red' faction attacked my family.",
+                    "value":"When I was 12 years old, the 'Red' faction attacked my family"
+                },
+                {
+                    "key":"I lost my parents, and the boss of the 'Blue' faction took me in. Now, I've been here for 7 years",
+                    "value":"I lost my parents, and the boss of the 'Blue' faction took me in. Now, I've been here for 7 years"
+                },
+                {
+                    "key":"I will do everything to avenge my parents and everything else",
+                    "value":"I will do everything to avenge my parents and everything else"
+                },
+                {
+                    "key":"Evan",
+                    "value":"Evan"
+                },
+                {
+                    "key":"Well, well, well. Who do we have here? What are you doing here?",
+                    "value":"Well, well, well. Who do we have here? What are you doing here?"
+                },
+                {
+                    "key":"Do you even understand who you're talking to? I am the leader of the Blue faction.",
+                    "value":"Do you even understand who you're talking to? I am the leader of the Blue faction"
+                },
+                {
+                    "key":"And you... I haven't seen you here before. Are you one of the new adventurers?",
+                    "value":"And you... I haven't seen you here before. Are you one of the new adventurers?"
+                },
+                {
+                    "key":"Some time ago, there was a searcher here who disappeared without a trace. Perhaps he got involved with the wrong people",
+                    "value":"Some time ago, there was a searcher here who disappeared without a trace. Perhaps he got involved with the wrong people"
+                },
+                {
+                    "key":"In general, our conflict with the 'Red' faction has become more complicated, and I don't know what could unfold it.",
+                    "value":"In general, our conflict with the 'Red' faction has become more complicated, and I don't know what could unfold it"
+                },
+                {
+                    "key":"The deputy mayor from the Yellow faction says something went wrong according to his plan. Anyway, you already know too much",
+                    "value":"The deputy mayor from the Yellow faction says something went wrong according to his plan. Anyway, you already know too much"
+                },
+                {
+                    "key":"Go out and do something. You are not just a worker, you are an adventurer.",
+                    "value":"Go out and do something. You are not just a worker, you are an adventurer"
+                },
+                {
+                    "key":"Maya",
+                    "value":"Maya"
+                },
+                {
+                    "key":"When the conflict between the factions is over, the deputy mayor must be held accountable for the mistakes he made, freezing this conflict.",
+                    "value":"When the conflict between the factions is over, the deputy mayor must be held accountable for the mistakes he made, freezing this conflict"
+                },
+                {
+                    "key":"For now, there's time to think about what to do with those Blue folks",
+                    "value":"For now, there's time to think about what to do with those Blue folks"
+                },
+                {
+                    "key":"Harry",
+                    "value":"Harry"
+                },
+                {
+                    "key":"Hey, you! Someone asked me to tell you that they are waiting for you near the farm controlled by the wealthy city.",
+                    "value":"Hey, you! Someone asked me to tell you that they are waiting for you near the farm controlled by the wealthy city"
+                },
+                {
+                    "key":"Go there they want to see you",
+                    "value":"Go there they want to see you"
+                },
+                {
+                    "key":"Aiden",
+                    "value":"Aiden"
+                },
+                {
+                    "key":"Heh, one order from the leader, and I'll wager my life that I can take down a dozen or even more of those Blue folks",
+                    "value":"Heh, one order from the leader, and I'll wager my life that I can take down a dozen or even more of those Blue folks"
+                },
+                {
+                    "key":"Toby",
+                    "value":"Toby"
+                },
+                {
+                    "key":"Hey, you're an outsider. I can't let you go to the boss; what if you're from the Blue faction?",
+                    "value":"Hey, you're an outsider. I can't let you go to the boss; what if you're from the Blue faction?"
+                },
+                {
+                    "key":"Let's do this: none from the 'Blue' faction can defeat me in cards.",
+                    "value":"Let's do this: none from the 'Blue' faction can defeat me in cards"
+                },
+                {
+                    "key":"If you win, I'll believe that you're not one of them, and I'll let you pass",
+                    "value":"If you win, I'll believe that you're not one of them, and I'll let you pass"
+                },
+                {
+                    "key":"Lucy",
+                    "value":"Lucy"
+                },
+                {
+                    "key":"I have been working for the Red faction for 5 years. I clean up and maintain order in this house",
+                    "value":"I have been working for the Red faction for 5 years. I clean up and maintain order in this house"
+                },
+                {
+                    "key":"Tommy",
+                    "value":"Tommy"
+                },
+                {
+                    "key":"Well, since you managed to get past my guards, it seems you're not just an ordinary resident of this city.",
+                    "value":"Well, since you managed to get past my guards, it seems you're not just an ordinary resident of this city"
+                },
+                {
+                    "key":"I understand you're one of the adventurers. Hm, excellent. I assume you came here for information, not just to chat.",
+                    "value":"I understand you're one of the adventurers. Hm, excellent. I assume you came here for information, not just to chat"
+                },
+                {
+                    "key":"Listen, I'm the leader of the Red faction. We have more influence and money in this city,",
+                    "value":"Listen, I'm the leader of the Red faction. We have more influence and money in this city,"
+                },
+                {
+                    "key":"but we can't do anything to those scoundrels from the Blue faction They interfere and complicate matters for us.",
+                    "value":"but we can't do anything to those scoundrels from the Blue faction They interfere and complicate matters for us"
+                },
+                {
+                    "key":"But I believe you can change that. It seems you need a hint or some information.",
+                    "value":"But I believe you can change that. It seems you need a hint or some information"
+                },
+                {
+                    "key":"I've heard rumors that near the farm controlled by the wealthy city, there are some newcomers who might know something.",
+                    "value":"I've heard rumors that near the farm controlled by the wealthy city, there are some newcomers who might know something"
+                },
+                {
+                    "key":"So, go there. Also, I can add that the deputy mayor, after his plan failed, started behaving strangely.",
+                    "value":"So, go there. Also, I can add that the deputy mayor, after his plan failed, started behaving strangely"
+                },
+                {
+                    "key":"That's it. Now go and thaw this frozen situation in the city",
+                    "value":"That's it. Now go and thaw this frozen situation in the city"
+                },
+                {
+                    "key":"Talk to the boss he's waiting for you!",
+                    "value":"Talk to the boss he's waiting for you!"
+                },
+                {
+                    "key":"Finally, you've arrived. I thought some faction got you. Well, to the point.",
+                    "value":"Finally, you've arrived. I thought some faction got you. Well, to the point"
+                },
+                {
+                    "key":"I'm Samuel, and our mission is to capture Deputy Mayor Benjamin",
+                    "value":"I'm Samuel, and our mission is to capture Deputy Mayor Benjamin"
+                },
+                {
+                    "key":"We're lucky he failed to overthrow the mayor and seize all power. He has connections in every faction",
+                    "value":"We're lucky he failed to overthrow the mayor and seize all power. He has connections in every faction"
+                },
+                {
+                    "key":"He wanted to become the mayor and increase his wealth to 10,000 coins, enabling him to influence other cities and eliminate any faction",
+                    "value":"He wanted to become the mayor and increase his wealth to 10,000 coins, enabling him to influence other cities and eliminate any faction"
+                },
+                {
+                    "key":"However, the mayor became suspicious and came up with new accusations against the poor city, thus retaining power.",
+                    "value":"However, the mayor became suspicious and came up with new accusations against the poor city, thus retaining power"
+                },
+                {
+                    "key":"We were fortunate that it turned out this way, and now only you can thaw this conflict",
+                    "value":"We were fortunate that it turned out this way, and now only you can thaw this conflict"
+                },
+                {
+                    "key":"All I know about the Level 3 key is that there's a person or people in the Winter City who know how to obtain it.",
+                    "value":"All I know about the Level 3 key is that there's a person or people in the Winter City who know how to obtain it"
+                },
+                {
+                    "key":"Also, you'll need 1,000 coins to reach the final location. And don't even think about boarding the train without the Level 3 key it's located near the Winter City",
+                    "value":"Also, you'll need 1,000 coins to reach the final location. And don't even think about boarding the train without the Level 3 key it's located near the Winter City"
+                },
+                {
+                    "key":"Sarah",
+                    "value":"Sarah"
+                },
+                {
+                    "key":"Hey, you! Back off, or I'll tell the guard to kick you out. You're bothering me!",
+                    "value":"Hey, you! Back off, or I'll tell the guard to kick you out. You're bothering me!"
+                },
+                {
+                    "key":"Aaron",
+                    "value":"Aaron"
+                },
+                {
+                    "key":"I live here far from big cities.",
+                    "value":"I live here far from big cities"
+                },
+                {
+                    "key":"If you've come with ill intentions, you better leave.",
+                    "value":"If you've come with ill intentions, you better leave"
+                },
+                {
+                    "key":"Another adventurer came here earlier and disappeared without a trace",
+                    "value":"Another adventurer came here earlier and disappeared without a trace"
+                },
+                {
+                    "key":"Archie",
+                    "value":"Archie"
+                },
+                {
+                    "key":"I'm the owner of a tavern in a poor town. The Violet faction could take control of this city, especially since Mayor Shay is missing.",
+                    "value":"I'm the owner of a tavern in a poor town. The Violet faction could take control of this city, especially since Mayor Shay is missing"
+                },
+                {
+                    "key":"But Lady Willow says we need to maintain neutrality for now. Everything will change, but it's unclear in which direction.",
+                    "value":"But Lady Willow says we need to maintain neutrality for now. Everything will change, but it's unclear in which direction"
+                },
+                {
+                    "key":"Julia",
+                    "value":"Julia"
+                },
+                {
+                    "key":"Soon, a new era will come – the Era of Chaos.",
+                    "value":"Soon, a new era will come – the Era of Chaos"
+                },
+                {
+                    "key":"It will change everything here. I've been serving Lady Willow for four years now",
+                    "value":"It will change everything here. I've been serving Lady Willow for four years now"
+                },
+                {
+                    "key":"Once, our faction was the most powerful, but then we had to choose neutrality",
+                    "value":"Once, our faction was the most powerful, but then we had to choose neutrality"
+                },
+                {
+                    "key":"Ethan",
+                    "value":"Ethan"
+                },
+                {
+                    "key":"Hmm, I found an interesting book here.",
+                    "value":"Hmm, I found an interesting book here"
+                },
+                {
+                    "key":"It describes the history of the Card Master and the Titan Warrior",
+                    "value":"It describes the history of the Card Master and the Titan Warrior"
+                },
+                {
+                    "key":"I know that there are other cities that worship them, although they were destroyed by the gods when the conflict started",
+                    "value":"I know that there are other cities that worship them, although they were destroyed by the gods when the conflict started"
+                },
+                {
+                    "key":"Evgen",
+                    "value":"Evgen"
+                },
+                {
+                    "key":"Neutrality is the best stance we can adopt at the moment.",
+                    "value":"Neutrality is the best stance we can adopt at the moment"
+                },
+                {
+                    "key":"These are not the best times to engage in conflicts, but we can support someone in this conflict.",
+                    "value":"These are not the best times to engage in conflicts, but we can support someone in this conflict"
+                },
+                {
+                    "key":"Willow",
+                    "value":"Willow"
+                },
+                {
+                    "key":"Who do we have here, hmm? An adventurer! Right?",
+                    "value":"Who do we have here, hmm? An adventurer! Right?"
+                },
+                {
+                    "key":"You probably want to know who we are. We are the Purple faction.",
+                    "value":"You probably want to know who we are. We are the Purple faction"
+                },
+                {
+                    "key":"Currently, we are neutral and don't conflict with anyone. However, if a conflict thaws, we'll assist the Red or Blue factions",
+                    "value":"Currently, we are neutral and don't conflict with anyone. However, if a conflict thaws, we'll assist the Red or Blue factions"
+                },
+                {
+                    "key":"Carl",
+                    "value":"Carl"
+                },
+                {
+                    "key":"Welcome... oh, no, a new adventurer. Are you really trying to uncover the truth?",
+                    "value":"Welcome... oh, no, a new adventurer. Are you really trying to uncover the truth?"
+                },
+                {
+                    "key":"Don't do it, or chaos will come, fulfilling the prophecy of the Card Scribe, which states,",
+                    "value":"Don't do it, or chaos will come, fulfilling the prophecy of the Card Scribe, which states,"
+                },
+                {
+                    "key":"When a true adventurer appears, chaos will follow, destroying everything living and non-living. Only those who escape will survive all others will perish.",
+                    "value":"When a true adventurer appears, chaos will follow, destroying everything living and non-living. Only those who escape will survive all others will perish"
+                },
+                {
+                    "key":"It will be better if you focus on your own business, maybe work on the farm and do some other things.",
+                    "value":"It will be better if you focus on your own business, maybe work on the farm and do some other things"
+                },
+                {
+                    "key":"Those who claim you can fix anything don't know anything",
+                    "value":"Those who claim you can fix anything don't know anything"
+                },
+                {
+                    "key":"Cory",
+                    "value":"Cory"
+                },
+                {
+                    "key":"Hello, welcome to my store. I am the head of this town and the owner of this store.",
+                    "value":"Hello, welcome to my store. I am the head of this town and the owner of this store"
+                },
+                {
+                    "key":"Let's say even from the winter city, they order furniture",
+                    "value":"Let's say even from the winter city, they order furniture"
+                },
+                {
+                    "key":"Ana",
+                    "value":"Ana"
+                },
+                {
+                    "key":"Hello, I am Ana, and I am Cory's wife. We have been living in this town for a long time.",
+                    "value":"Hello, I am Ana, and I am Cory's wife. We have been living in this town for a long time"
+                },
+                {
+                    "key":"I supported Cory at the beginning of his business. We have peace here, no factions or anything else",
+                    "value":"I supported Cory at the beginning of his business. We have peace here, no factions or anything else"
+                },
+                {
+                    "key":"Audrey",
+                    "value":"Audrey"
+                },
+                {
+                    "key":"About 80 percent of the residents belong to the blue faction.",
+                    "value":"About 80 percent of the residents belong to the blue faction"
+                },
+                {
+                    "key":"I think that when the day comes when the neutrality of the rich city disappears, this 80 percent will join the offensive",
+                    "value":"I think that when the day comes when the neutrality of the rich city disappears, this 80 percent will join the offensive"
+                },
+                {
+                    "key":"Abigail",
+                    "value":"Abigail"
+                },
+                {
+                    "key":"Hmm... this town is strange; it constantly snows here, while in other cities, it's warm.",
+                    "value":"Hmm... this town is strange; it constantly snows here, while in other cities, it's warm"
+                },
+                {
+                    "key":"It's all weird, but everyone here has long gotten used to it. I'm Abigail, and you don't have to pray to any god here.",
+                    "value":"It's all weird, but everyone here has long gotten used to it. I'm Abigail, and you don't have to pray to any god here"
+                },
+                {
+                    "key":"People are free but hardworking. If you want to eat, you work",
+                    "value":"People are free but hardworking. If you want to eat, you work"
+                },
+                {
+                    "key":"Chris",
+                    "value":"Chris"
+                },
+                {
+                    "key":"Oops, who do we have here? Ah, an adventurer.",
+                    "value":"Oops, who do we have here? Ah, an adventurer"
+                },
+                {
+                    "key":"Well, let's see what kind of seeker you are. Beat me in a card duel, and then you'll prove your strength",
+                    "value":"Well, let's see what kind of seeker you are. Beat me in a card duel, and then you'll prove your strength"
+                },
+                {
+                    "key":"Welcome to the winter city, adventurer.",
+                    "value":"Welcome to the winter city, adventurer"
+                },
+                {
+                    "key":"Everything here is peacefully controlled by the Blue faction. At the moment,",
+                    "value":"Everything here is peacefully controlled by the Blue faction. At the moment,"
+                },
+                {
+                    "key":"I am in charge of everything here since my husband, the leader of the faction, deals with matters in the neutral city",
+                    "value":"I am in charge of everything here since my husband, the leader of the faction, deals with matters in the neutral city"
+                },
+                {
+                    "key":"You are looking for the level 3 key, but unfortunately, I don't know its location.",
+                    "value":"You are looking for the level 3 key, but unfortunately, I don't know its location"
+                },
+                {
+                    "key":"However, there is a riddle in this note. Defeat me in cards, and the note will be yours",
+                    "value":"However, there is a riddle in this note. Defeat me in cards, and the note will be yours"
+                },
+                {
+                    "key":"Damian",
+                    "value":"Damian"
+                },
+                {
+                    "key":"I am faithful to my mistress. As never before, the decree will come to storm the rich city, and I will be one of the first to do it",
+                    "value":"I am faithful to my mistress. As never before, the decree will come to storm the rich city, and I will be one of the first to do it"
+                },
+                {
+                    "key":"Morgan",
+                    "value":"Morgan"
+                },
+                {
+                    "key":"Interesting fact: if you become the strongest in card battles, no one can compare with you,",
+                    "value":"Interesting fact: if you become the strongest in card battles, no one can compare with you,"
+                },
+                {
+                    "key":"and you'll be able to see what no one else has seen",
+                    "value":"and you'll be able to see what no one else has seen"
+                },
+                {
+                    "key":"Sandra",
+                    "value":"Sandra"
+                },
+                {
+                    "key":"Wow, a newcomer in town! Welcome. I've heard that when a true adventurer arrives, something is supposed to happen.",
+                    "value":"Wow, a newcomer in town! Welcome. I've heard that when a true adventurer arrives, something is supposed to happen"
+                },
+                {
+                    "key":"But it's unclear whether it's freedom or chaos. Well, we'll see",
+                    "value":"But it's unclear whether it's freedom or chaos. Well, we'll see"
+                },
+                {
+                    "key":"Marc",
+                    "value":"Marc"
+                },
+                {
+                    "key":"If we look back at our past, we can say that it was 10 years ago. Back then, there were about 30 of us, and the Blue faction meant almost nothing.",
+                    "value":"If we look back at our past, we can say that it was 10 years ago. Back then, there were about 30 of us, and the Blue faction meant almost nothing"
+                },
+                {
+                    "key":"We decided to storm to strengthen our power, and many skilled fighters perished in card battles.",
+                    "value":"We decided to storm to strengthen our power, and many skilled fighters perished in card battles"
+                },
+                {
+                    "key":"However, we took the city, and now everything here is controlled by the Blue faction.",
+                    "value":"However, we took the city, and now everything here is controlled by the Blue faction"
+                },
+                {
+                    "key":"Gerald",
+                    "value":"Gerald"
+                },
+                {
+                    "key":"Hi, I'm Gerald. I'm one of the oldest members of the Blues.",
+                    "value":"Hi, I'm Gerald. I'm one of the oldest members of the Blues"
+                },
+                {
+                    "key":"There are very few of us left—those who initiated the uprising and conquered the Winter City",
+                    "value":"There are very few of us left—those who initiated the uprising and conquered the Winter City"
+                },
+                {
+                    "key":"Once, the Winter City was divided between the Yellow and Red factions, and then we came. Many warriors perished, but those who survived are now considered elders.",
+                    "value":"Once, the Winter City was divided between the Yellow and Red factions, and then we came. Many warriors perished, but those who survived are now considered elders"
+                },
+                {
+                    "key":"The elders are no longer involved in this conflict. Each of them witnessed dozens of victims in this battle",
+                    "value":"The elders are no longer involved in this conflict. Each of them witnessed dozens of victims in this battle"
+                },
+                {
+                    "key":"and after the capture of the winter city, a neutral territory for the groups was created in the rich city",
+                    "value":"and after the capture of the winter city, a neutral territory for the groups was created in the rich city"
+                },
+                {
+                    "key":"Clara",
+                    "value":"Clara"
+                },
+                {
+                    "key":"How did you get past the gate? They locked the doors of the third level.",
+                    "value":"How did you get past the gate? They locked the doors of the third level"
+                },
+                {
+                    "key":"I haven't seen anyone this close in a long time. They bring me food and everything I need",
+                    "value":"I haven't seen anyone this close in a long time. They bring me food and everything I need"
+                },
+                {
+                    "key":"This curse happened when we were handed our father's inheritance.",
+                    "value":"This curse happened when we were handed our father's inheritance"
+                },
+                {
+                    "key":"My brother Benjamin took everything, and I was isolated from the outside world.",
+                    "value":"My brother Benjamin took everything, and I was isolated from the outside world"
+                },
+                {
+                    "key":"Now my brother is a deputy mayor in the wealthy city, and I'm here",
+                    "value":"Now my brother is a deputy mayor in the wealthy city, and I'm here"
+                },
+                {
+                    "key":"Crystal",
+                    "value":"Crystal"
+                },
+                {
+                    "key":"Yeah, you don't look like the guy from the Blue Faction.",
+                    "value":"Yeah, you don't look like the guy from the Blue Faction"
+                },
+                {
+                    "key":"We dominate here, waiting for the right moment and controlling the territory beyond the city walls.",
+                    "value":"We dominate here, waiting for the right moment and controlling the territory beyond the city walls"
+                },
+                {
+                    "key":"We even catch the lost Blue members. But you, as an adventurer, be cautious",
+                    "value":"We even catch the lost Blue members. But you, as an adventurer, be cautious"
+                },
+                {
+                    "key":"There are all sorts of characters wandering around here. As far as I know,",
+                    "value":"There are all sorts of characters wandering around here. As far as I know,"
+                },
+                {
+                    "key":"there's a rule in the factions not to mess with adventurers, but it doesn't apply to everyone. So, be careful",
+                    "value":"there's a rule in the factions not to mess with adventurers, but it doesn't apply to everyone. So, be careful"
+                },
+                {
+                    "key":"Hanna",
+                    "value":"Hanna"
+                },
+                {
+                    "key":"I remember a week ago there was a small battle with the Blue Faction.",
+                    "value":"I remember a week ago there was a small battle with the Blue Faction"
+                },
+                {
+                    "key":"Everyone got minor injuries, but it ended without anyone dying. The conflict is on hold for now",
+                    "value":"Everyone got minor injuries, but it ended without anyone dying. The conflict is on hold for now"
+                },
+                {
+                    "key":"It might be better for you to forget about finding a way out and just join the Red Faction. That's my advice",
+                    "value":"It might be better for you to forget about finding a way out and just join the Red Faction. That's my advice"
+                },
+                {
+                    "key":"Raymond",
+                    "value":"Raymond"
+                },
+                {
+                    "key":"Hello, my name is Raymond. I recently joined the Red Faction, but I've already seen a lot.",
+                    "value":"Hello, my name is Raymond. I recently joined the Red Faction, but I've already seen a lot"
+                },
+                {
+                    "key":"Those cruel people from the Blue Faction, they will all be held accountable for their actions",
+                    "value":"Those cruel people from the Blue Faction, they will all be held accountable for their actions"
+                },
+                {
+                    "key":"Tara",
+                    "value":"Tara"
+                },
+                {
+                    "key":"Hello! Oh! You don't look like an ordinary mortal who usually comes here",
+                    "value":"Hello! Oh! You don't look like an ordinary mortal who usually comes here"
+                },
+                {
+                    "key":"You don't belong here, but you can talk to people who lived before the conflict among the gods",
+                    "value":"You don't belong here, but you can talk to people who lived before the conflict among the gods"
+                },
+                {
+                    "key":"Don't linger here!",
+                    "value":"Don't linger here!"
+                },
+                {
+                    "key":"Diego",
+                    "value":"Diego"
+                },
+                {
+                    "key":"When I recall that cold winter after the conflict among the gods, we gathered to storm the winter city.",
+                    "value":"When I recall that cold winter after the conflict among the gods, we gathered to storm the winter city"
+                },
+                {
+                    "key":"I perished when we took the center, and now I'm here, not knowing whether we did everything right or not",
+                    "value":"I perished when we took the center, and now I'm here, not knowing whether we did everything right or not"
+                },
+                {
+                    "key":"Miguel",
+                    "value":"Miguel"
+                },
+                {
+                    "key":"Oh, what a mistake we made. Well, at least some of us have been forgiven by the gods, not all of us, but at least some of us",
+                    "value":"Oh, what a mistake we made. Well, at least some of us have been forgiven by the gods, not all of us, but at least some of us"
+                },
+                {
+                    "key":"I'll tell you this: there was no need to seize the city; we should have united and helped those who suffered",
+                    "value":"I'll tell you this: there was no need to seize the city we should have united and helped those who suffered"
+                },
+                {
+                    "key":"Karen",
+                    "value":"Karen"
+                },
+                {
+                    "key":"When the conflict started, my daughter had just been born, and now she will be 11 years old.",
+                    "value":"When the conflict started, my daughter had just been born, and now she will be 11 years old"
+                },
+                {
+                    "key":"It's so sad that she can't see her parents",
+                    "value":"It's so sad that she can't see her parents"
+                },
+                {
+                    "key":"Xavier",
+                    "value":"Xavier"
+                },
+                {
+                    "key":"Oh no, my wife and I didn't make it to the temple. Just a second, and we were gone.",
+                    "value":"Oh no, my wife and I didn't make it to the temple. Just a second, and we were gone"
+                },
+                {
+                    "key":"Thankfully, our child's grandfather takes care of her, and we can rest assured.",
+                    "value":"Thankfully, our child's grandfather takes care of her, and we can rest assured"
+                },
+                {
+                    "key":"Kevin",
+                    "value":"Kevin"
+                },
+                {
+                    "key":"Back then, I was the wealthiest, helping people. However, when the conflict occurred, no one helped me",
+                    "value":"Back then, I was the wealthiest, helping people. However, when the conflict occurred, no one helped me"
+                },
+                {
+                    "key":"That's why I'm here in this world now. In those times, having 4000 coins was considered the wealthiest in the city",
+                    "value":"That's why I'm here in this world now. In those times, having 4000 coins was considered the wealthiest in the city"
+                },
+                {
+                    "key":"But now, things are turning into a nightmare, and it seems like it might lead to hunger",
+                    "value":"But now, things are turning into a nightmare, and it seems like it might lead to hunger"
+                },
+                {
+                    "key":"Doug",
+                    "value":"Doug"
+                },
+                {
+                    "key":"They told me, Run a little further! But a second passed, and here I am.",
+                    "value":"They told me, Run a little further! But a second passed, and here I am"
+                },
+                {
+                    "key":"How the world decayed after the conflict among the gods",
+                    "value":"How the world decayed after the conflict among the gods"
+                },
+                {
+                    "key":"Kirk",
+                    "value":"Kirk"
+                },
+                {
+                    "key":"In life, I have made many mistakes, but the gods have forgiven me, and now I am here",
+                    "value":"In life, I have made many mistakes, but the gods have forgiven me, and now I am here"
+                },
+                {
+                    "key":"Laura",
+                    "value":"Laura"
+                },
+                {
+                    "key":"Oh my, oh my, I almost explored that cave, but then a collapse started, and I couldn't run out in time",
+                    "value":"Oh my, oh my, I almost explored that cave, but then a collapse started, and I couldn't run out in time"
+                },
+                {
+                    "key":"That was my last expedition",
+                    "value":"That was my last expedition"
+                },
+                {
+                    "key":"Holly",
+                    "value":"Holly"
+                },
+                {
+                    "key":"I followed the instructions of the gods, doing what they commanded, and if not for the conflict, I would still be serving the gods to old age",
+                    "value":"I followed the instructions of the gods, doing what they commanded, and if not for the conflict, I would still be serving the gods to old age"
+                },
+                {
+                    "key":"Marty",
+                    "value":"Marty"
+                },
+                {
+                    "key":"I was a scholar, studying gods and everything related to them",
+                    "value":"I was a scholar, studying gods and everything related to them"
+                },
+                {
+                    "key":"However, what is happening now in that world is sheer madness",
+                    "value":"However, what is happening now in that world is sheer madness"
+                },
+                {
+                    "key":"People are resolving conflicts among themselves instead of finding solutions",
+                    "value":"People are resolving conflicts among themselves instead of finding solutions"
+                },
+                {
+                    "key":"Erika",
+                    "value":"Erika"
+                },
+                {
+                    "key":"Are you new here? Everyone shares a part of their story when they were alive",
+                    "value":"Are you new here? Everyone shares a part of their story when they were alive"
+                },
+                {
+                    "key":"but we all know that soon something will change, and nobody knows what",
+                    "value":"but we all know that soon something will change, and nobody knows what"
+                },
+                {
+                    "key":"If you wanted to talk to the gods, nothing would come of it. It's impossible, you could say",
+                    "value":"If you wanted to talk to the gods, nothing would come of it. It's impossible, you could say"
+                },
+                {
+                    "key":"Troy",
+                    "value":"Troy"
+                },
+                {
+                    "key":"Ah, back then, life was just beginning, and then, bam, the conflict happened, and the whole system that the gods had built collapsed",
+                    "value":"Ah, back then, life was just beginning, and then, bam, the conflict happened, and the whole system that the gods had built collapsed"
+                }   
+    ]
+}
