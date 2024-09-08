@@ -1,0 +1,3503 @@
+{
+    "items" :[
+        {
+            "key":"MenuKey1",
+            "value":"Nouveau jeu"
+        },
+        {
+            "key":"MenuKey2",
+            "value":"Continuer"
+        },
+        {
+            "key":"MenuKey3",
+            "value":"Sortie"
+        },
+        {
+            "key":"MenuKey4",
+            "value":"Oui"
+        },
+        {
+            "key":"MenuKey5",
+            "value":"Non"
+        },
+        {
+            "key":"MenuKey6",
+            "value":"Commencer un nouveau jeu ?"
+        },
+        {
+            "key":"MenuKey7",
+            "value":"Quitter le jeu ?"
+        },
+        {
+            "key":"MenuKey8",
+            "value":"Paramètres"
+        },
+        {
+            "key":"MenuKey9",
+            "value":"Le son"
+        },
+        {
+            "key":"MenuKey10",
+            "value":"La musique"
+        },
+        {
+            "key":"MenuKey11",
+            "value":"Langue"
+        },
+
+        {
+            "key":"UIGameKey1",
+            "value":"Aller au menu ?"
+        },
+        {
+            "key":"UIGameKey2",
+            "value":"Oui"
+        },
+        {
+            "key":"UIGameKey3",
+            "value":"Non"
+        },
+        {
+            "key":"UIGameKey4",
+            "value":"Votre énergie. Sans énergie, il est impossible de jouer aux batailles de cartes"
+        },
+        {
+            "key":"UIGameKey5",
+            "value":"Entrer dans le train"
+        },
+
+
+
+        {
+            "key":"UIGameKey6",
+            "value":"Ville pauvre"
+        },
+        {
+            "key":"UIGameKey7",
+            "value":"Ville riche"
+        },
+        {
+            "key":"UIKeyMiniMap1",
+            "value":"Le village du guerrier titan"
+        },
+        {
+            "key":"UIKeyMiniMap2",
+            "value":"Le village du maître des cartes"
+        },
+        {
+            "key":"UIKeyMiniMap3",
+            "value":"Ferme Pauvre Ville"
+        },
+        {
+            "key":"UIKeyMiniMap4",
+            "value":"Ferme de la ville riche"
+        },
+        {
+            "key":"UIKeyMiniMap5",
+            "value":"Ville d'hiver"
+        },
+        {
+            "key":"UIKeyMiniMap6",
+            "value":"La forteresse de Malachai"
+        },
+        {
+            "key":"UIKeyMiniMap7",
+            "value":"La maison de Clara"
+        },
+        {
+            "key":"UIGameKey8",
+            "value":"Lieu de l'hiver"
+        },
+        {
+            "key":"UIGameKey9",
+            "value":"Vallée oubliée"
+        },
+        {
+            "key":"RichCity",
+            "value":"Ville riche"
+        },
+        {
+            "key":"PoorCity",
+            "value":"Ville pauvre"
+        },
+        {
+            "key":"WinterValley",
+            "value":"Vallée d'hiver"
+        },
+        
+
+
+
+        {
+            "key":"UIGameKey11",
+            "value":"Bière"
+        },
+        {
+            "key":"UIGameKey12",
+            "value":"Gorgée stellaire"
+        },
+        {
+            "key":"UIGameKey13",
+            "value":"Carotte"
+        },
+        {
+            "key":"UIGameKey14",
+            "value":"L'esprit d'étoile"
+        },
+        {
+            "key":"UIGameKey15",
+            "value":"Baies"
+        },
+        {
+            "key":"UIGameKey16",
+            "value":"Choux"
+        },
+        {
+            "key":"UIGameKey17",
+            "value":"Potion d'énergie"
+        },
+        {
+            "key":"UIGameKey18",
+            "value":"Vitesse de la potion"
+        },
+        {
+            "key":"UIGameKey19",
+            "value":"Faim de potion"
+        },
+        {
+            "key":"UIGameKey20",
+            "value":"Oignon"
+        },
+
+
+
+        {
+            "key":"UIGameKey21",
+            "value":"Corbeau"
+        },
+        {
+            "key":"UIGameKey22",
+            "value":"Le corbeau sauvage est l'un des oiseaux les plus intelligents"
+        },
+        {
+            "key":"UIGameKey23",
+            "value":"Coccinelle volante"
+        },
+        {
+            "key":"UIGameKey24",
+            "value":"S'ils sont nombreux, ils deviennent dangereux"
+        },
+        {
+            "key":"UIGameKey25",
+            "value":"Grizzli"
+        },
+        {
+            "key":"UIGameKey26",
+            "value":"Le grizzly est un ours féroce et dangereux, il faut s'en méfier"
+        },
+        {
+            "key":"UIGameKey27",
+            "value":"Zombie"
+        },
+        {
+            "key":"UIGameKey28",
+            "value":"L'apocalypse zombie ?"
+        },
+        {
+            "key":"UIGameKey29",
+            "value":"Tortue de boue"
+        },
+        {
+            "key":"UIGameKey30",
+            "value":"Solide mais inutile"
+        },
+        {
+            "key":"UIGameKey31",
+            "value":"Coyote"
+        },
+        {
+            "key":"UIGameKey32",
+            "value":"Coyote mince, rien de spécial"
+        },
+        {
+            "key":"UIGameKey33",
+            "value":"Squelette"
+        },
+        {
+            "key":"UIGameKey34",
+            "value":"Squelette osseux"
+        },
+        {
+            "key":"UIGameKey35",
+            "value":"Urayuli"
+        },
+        {
+            "key":"UIGameKey36",
+            "value":"???"
+        },
+        {
+            "key":"UIGameKey37",
+            "value":"Bot épais"
+        },
+        {
+            "key":"UIGameKey38",
+            "value":"Robot en armure d'acier"
+        },
+        {
+            "key":"UIGameKey39",
+            "value":"Louveteau"
+        },
+        {
+            "key":"UIGameKey40",
+            "value":"Petit loup de mer"
+        },
+        {
+            "key":"UIGameKey41",
+            "value":"Bot à vapeur"
+        },
+        {
+            "key":"UIGameKey42",
+            "value":"Bot à vapeur, une machine forte et puissante qui ne voit aucun obstacle sur son chemin"
+        },
+        {
+            "key":"UIGameKey43",
+            "value":"Loup"
+        },
+        {
+            "key":"UIGameKey44",
+            "value":"Loup gris sauvage"
+        },
+        {
+            "key":"UIGameKey45",
+            "value":"Opossum"
+        },
+        {
+            "key":"UIGameKey46",
+            "value":"Opossum stupide"
+        },
+        {
+            "key":"UIGameKey47",
+            "value":"Élan"
+        },
+        {
+            "key":"UIGameKey48",
+            "value":"Cerf adulte"
+        },
+        {
+            "key":"UIGameKey49",
+            "value":"Kraken"
+        },
+        {
+            "key":"UIGameKey50",
+            "value":"Petit kraken adorable"
+        },
+        {
+            "key":"UIGameKey51",
+            "value":"Carcajou"
+        },
+        {
+            "key":"UIGameKey52",
+            "value":"Féroce Wolverine, mais jusqu'à quel point ?"
+        },
+        {
+            "key":"UIGameKey53",
+            "value":"InsectoBot"
+        },
+        {
+            "key":"UIGameKey54",
+            "value":"InsectoBot - un petit robot volant qui surveille le monde du jeu"
+        },
+        {
+            "key":"UIGameKey55",
+            "value":"Grenouille"
+        },
+        {
+            "key":"UIGameKey56",
+            "value":"Grenouille est une grosse grenouille aux dents acérées et au saut puissant, prête à terrasser ses ennemis"
+        },
+        {
+            "key":"UIGameKey57",
+            "value":"Automate"
+        },
+        {
+            "key":"UIGameKey58",
+            "value":"Autrefois, il y avait une grande armée de ces robots, mais aujourd'hui, ce n'est plus qu'une carte"
+        },
+        {
+            "key":"UIGameKey59",
+            "value":"Chariot"
+        },
+        {
+            "key":"UIGameKey60",
+            "value":"Il était une fois un mineur qui s'est sorti tout seul d'une mine profonde, et les dieux l'ont immortalisé comme un héros dans une carte"
+        },
+        {
+            "key":"UIGameKey61",
+            "value":"Tourelle"
+        },
+        {
+            "key":"UIGameKey62",
+            "value":"Une simple tourelle qui se protège elle-même"
+        },
+        {
+            "key":"UIGameKey63",
+            "value":"BoltHound"
+        },
+        {
+            "key":"UIGameKey64",
+            "value":"BoltHound, l'un des chiens créés par le créateur de cartes. Ses dents sont faites de plaques d'acier"
+        },
+        {
+            "key":"UIGameKey65",
+            "value":"Jeune élan"
+        },
+        {
+            "key":"UIGameKey66",
+            "value":"Simple Jeune élan mais capable"
+        },
+        {
+            "key":"UIGameKey67",
+            "value":"Banshee"
+        },
+        {
+            "key":"UIGameKey68",
+            "value":"Banshees - elles attaquaient les gens en bandes, ce qui leur a valu d'entrer dans la collection de cartes postales"
+        },
+        {
+            "key":"UIGameKey69",
+            "value":"Faucon"
+        },
+        {
+            "key":"UIGameKey70",
+            "value":"Le faucon n'aime pas tout le monde"
+        },
+        {
+            "key":"UIGameKey71",
+            "value":"Famille de fous"
+        },
+        {
+            "key":"UIGameKey72",
+            "value":"Pas de questions ici"
+        },
+        {
+            "key":"UIGameKey73",
+            "value":"Saumon"
+        },
+        {
+            "key":"UIGameKey74",
+            "value":"Le saumon élastique est vraiment élastique"
+        },
+        {
+            "key":"UIGameKey75",
+            "value":"BoneHound"
+        },
+        {
+            "key":"UIGameKey76",
+            "value":"Bonehound a également été créé par la créatrice de cartes"
+        },
+        {
+            "key":"UIGameKey77",
+            "value":"Franknstein"
+        },
+        {
+            "key":"UIGameKey78",
+            "value":"Frankn-stein Même les dieux avaient peur de ces types effrayants"
+        },
+        {
+            "key":"UIGameKey79",
+            "value":"Mage musclé"
+        },
+        {
+            "key":"UIGameKey80",
+            "value":"Sa force dépasse la limite autorisée"
+        },
+        {
+            "key":"UIGameKey81",
+            "value":"hermine"
+        },
+        {
+            "key":"UIGameKey82",
+            "value":"hermine is agile, cunning, and smart"
+        },
+        {
+            "key":"UIGameKey83",
+            "value":"Chien courant"
+        },
+        {
+            "key":"UIGameKey84",
+            "value":"Le chien de chasse ordinaire est également une création de la créatrice de cartes"
+        },
+        {
+            "key":"UIGameKey85",
+            "value":"Monstre d'eau"
+        },
+        {
+            "key":"UIGameKey86",
+            "value":"Un monstre aquatique doté d'un bouclier qui vous permet d'ignorer un coup"
+        },
+        {
+            "key":"UIGameKey87",
+            "value":"Golem en rubis"
+        },
+        {
+            "key":"UIGameKey88",
+            "value":"Golem en rubis a un bouclier qui permet d'ignorer un coup"
+        },
+        {
+            "key":"UIGameKey89",
+            "value":"loup des cavernes"
+        },
+        {
+            "key":"UIGameKey90",
+            "value":"Peut contre-attaquer deux fois"
+        },
+        {
+            "key":"UIGameKey91",
+            "value":"cub du loup des cavernes"
+        },
+        {
+            "key":"UIGameKey92",
+            "value":"Vipère"
+        },
+        {
+            "key":"UIGameKey93",
+            "value":"Mage squelette"
+        },
+        {
+            "key":"UIGameKey94",
+            "value":"Les légendes disent que ce mage était autrefois la carte la plus puissante du jeu. Peut contre-attaquer deux fois"
+        },
+        {
+            "key":"UIGameKey95",
+            "value":"Dieu Mante"
+        },
+        {
+            "key":"UIGameKey96",
+            "value":"Peut attaquer deux fois"
+        },
+        {
+            "key":"UIGameKey97",
+            "value":"Tourelle double"
+        },
+        {
+            "key":"UIGameKey98",
+            "value":"Robot tireur"
+        },
+        {
+            "key":"UIGameKey99",
+            "value":"Stimmage"
+        },
+        {
+            "key":"UIGameKey100",
+            "value":"Peut attaquer dès son apparition sur le champ de bataille"
+        },
+        {
+            "key":"UIGameKey101",
+            "value":"Morts à la faux"
+        },
+        {
+            "key":"UIGameKey102",
+            "value":"Professeur de magie"
+        },
+        {
+            "key":"UIGameKey103",
+            "value":"L'âme noyée"
+        },
+        {
+            "key":"UIGameKey104",
+            "value":"Écureuil"
+        },
+        {
+            "key":"UIGameKey105",
+            "value":"Un simple écureuil peut prendre un coup à la place des autres"
+        },
+        {
+            "key":"UIGameKey106",
+            "value":"Robot sauteur"
+        },
+        {
+            "key":"UIGameKey107",
+            "value":"Peut prendre un coup à la place des autres"
+        },
+        {
+            "key":"UIGameKey108",
+            "value":"Taupe"
+        },
+        {
+            "key":"UIGameKey109",
+            "value":"Taupe"
+        },
+        {
+            "key":"UIGameKey110",
+            "value":"Robot grenouille"
+        },
+        {
+            "key":"UIGameKey111",
+            "value":"Gollum borgne"
+        },
+        {
+            "key":"UIGameKey112",
+            "value":"On dit que ce gollum borgne a un estomac sans fond. À chaque tour, sa santé augmente de 1"
+        },
+        {
+            "key":"UIGameKey113",
+            "value":"Étrange chenille"
+        },
+        {
+            "key":"UIGameKey114",
+            "value":"À chaque tour, sa santé augmente de 1"
+        },
+        {
+            "key":"UIGameKey115",
+            "value":"Mage orange"
+        },
+        {
+            "key":"UIGameKey116",
+            "value":"Soigne le héros de 2 points de vie"
+        },
+        {
+            "key":"UIGameKey117",
+            "value":"Sorcellerie curative"
+        },
+        {
+            "key":"UIGameKey118",
+            "value":"Soigne la carte sélectionnée de 2 points de vie"
+        },
+        {
+            "key":"UIGameKey119",
+            "value":"La malédiction de l'affaiblissement"
+        },
+        {
+            "key":"UIGameKey120",
+            "value":"Réduit de deux les dégâts subis par la carte sélectionnée"
+        },
+        {
+            "key":"UIGameKey121",
+            "value":"Mage bleu"
+        },
+        {
+            "key":"UIGameKey122",
+            "value":"Soigne deux points de vie à toutes les cartes sur le champ de bataille"
+        },
+        {
+            "key":"UIGameKey123",
+            "value":"Mage rouge"
+        },
+        {
+            "key":"UIGameKey124",
+            "value":"Inflige deux dégâts à toutes les cartes sur le champ de bataille"
+        },
+        {
+            "key":"UIGameKey125",
+            "value":"Amplificateur de dommages"
+        },
+        {
+            "key":"UIGameKey126",
+            "value":"Augmente de deux les dégâts de la carte sélectionnée"
+        },
+        {
+            "key":"UIGameKey127",
+            "value":"Le défi des tentacules"
+        },
+        {
+            "key":"UIGameKey128",
+            "value":"Applique l'effet de taunt à la carte sélectionnée"
+        },
+        {
+            "key":"UIGameKey129",
+            "value":"Mage maudit"
+        },
+        {
+            "key":"UIGameKey130",
+            "value":"Inflige deux dégâts aux cartes sélectionnées de l'adversaire"
+        },
+        {
+            "key":"UIGameKey131",
+            "value":"Octo-Garde"
+        },
+        {
+            "key":"UIGameKey132",
+            "value":"Applique un bouclier à la carte sélectionnée"
+        },
+        {
+            "key":"UIGameKey133",
+            "value":"Havoc magique"
+        },
+        {
+            "key":"UIGameKey134",
+            "value":"Inflige deux points de dégâts au héros ennemi"
+        },
+
+
+
+
+        {
+            "key":"UIGameKey135",
+            "value":"Quêtes"
+        },
+        {
+            "key":"UIGameKey136",
+            "value":"Entrer dans la ville pauvre"
+        },
+        {
+            "key":"UIGameKey137",
+            "value":"Trouvez Nicholas dans la caravane de la ville pauvre et obtenez des informations sur l'endroit où se trouve le maire"
+        },
+        {
+            "key":"UIGameKey138",
+            "value":"Allez à la ferme près de la ville riche, ils m'y attendent"
+        },
+        {
+            "key":"UIGameKey139",
+            "value":"Trouver quelqu'un qui sait quelque chose sur la clé de troisième niveau et clarifier la situation dans la ville"
+        },
+        {
+            "key":"UIGameKey140",
+            "value":"Il faut que je me rende dans la ville d'hiver"
+        },
+        {
+            "key":"UIGameKey141",
+            "value":"Vaincre Brittany dans les batailles de cartes et trouver l'endroit décrit dans la note que je recevrai en récompense de Brittany"
+        },
+        {
+            "key":"UIGameKey142",
+            "value":"Pour trouver ou gagner 1000 pièces et prendre le train près de l'endroit où se trouve l'hiver"
+        },
+        {
+            "key":"UIGameKey143",
+            "value":"Vaincre 5 gardes et atteindre Malachai"
+        },
+        {
+            "key":"UIGameKey144",
+            "value":"Battez Malachai et prenez la clé du quatrième niveau, puis apprenez immédiatement l'emplacement de la porte finale du quatrième niveau!"
+        },
+        {
+            "key":"UIGameKey145",
+            "value":"Franchissez les portes et accomplissez la prophétie de l'aventurier"
+        },
+        {
+            "key":"UIDopQuest1",
+            "value":"Trouvez l'hôtel de ville d'une ville pauvre et essayez de trouver le maire"
+        },
+        {
+            "key":"UIDopQuest2",
+            "value":"Parler au maire d'une ville pauvre et se rendre dans une ville riche"
+        },
+        {
+            "key":"UIDopQuest3",
+            "value":"Coffres de SpellBound. Collecte tous les coffres de SpellBound. Coffres collectés: "
+        },
+
+
+
+
+        {
+            "key":"UIGameKey146",
+            "value":"Jacob"
+        },
+        {
+            "key":"UIGameKey147",
+            "value":"Voici un bref guide pour le jeu de cartes. Les cristaux bleus représentent votre mana. À chaque tour, votre mana augmente de 1. Si vous utilisez tout votre mana au tour suivant, il sera restauré. Pour terminer votre tour, appuyez sur l'icône de cloche, et votre tour sera conclu. Le cœur rouge symbolise votre santé. S'il tombe en dessous de zéro, vous perdez. Chaque carte a son propre coût, sa santé et ses dégâts. Il existe également des cartes de sorts, et certaines cartes ont des capacités, que vous pouvez lire dans le bestiaire des cartes. De plus, il y a un champ de jeu où vous placez vos cartes pour attaquer l'ennemi ou ses cartes. Pour attaquer, appuyez et faites glisser votre carte là où vous en avez besoin. Cela devrait suffire pour vous lancer. Bonne chance!"
+        },
+        {
+            "key":"UIGameKey148",
+            "value":"Redémarrage"
+        },
+        {
+            "key":"UIGameKey149",
+            "value":"Sortie"
+        },
+        {
+            "key":"WIN",
+            "value":"GAGNER"
+        },
+        {
+            "key":"Defeat",
+            "value":"Défaite -1 énergie"
+        },
+        
+        
+        {
+            "key":"Banshee",
+            "value":"Banshee"
+        },
+        {
+            "key":"Hound",
+            "value":"Chien courant"
+        },
+        {
+            "key":"Coyote",
+            "value":"Coyote"
+        },
+        {
+            "key":"Bullfrog",
+            "value":"Grenouille"
+        },
+        {
+            "key":"Wolf",
+            "value":"Loup"
+        },
+        {
+            "key":"Wolfcub",
+            "value":"Louveteau"
+        },
+        {
+            "key":"Zombie",
+            "value":"Zombie"
+        },
+        {
+            "key":"Wolverine",
+            "value":"Carcajou"
+        },
+        {
+            "key":"Urayuli",
+            "value":"Urayuli"
+        },
+        {
+            "key":"Stoat",
+            "value":"hermine"
+        },
+        {
+            "key":"Opossum",
+            "value":"Opossum"
+        },
+        {
+            "key":"Turret",
+            "value":"Tourelle"
+        },
+        {
+            "key":"Thickbot",
+            "value":"Bot épais"
+        },
+        {
+            "key":"Steambot",
+            "value":"Bot à vapeur"
+        },
+        {
+            "key":"Skeleton",
+            "value":"Squelette"
+        },
+        {
+            "key":"Salmon",
+            "value":"Saumon"
+        },
+        {
+            "key":"MuscleMage",
+            "value":"Mage musclé"
+        },
+        {
+            "key":"Mudturtle",
+            "value":"Tortue de boue"
+        },
+        {
+            "key":"Kraken",
+            "value":"Kraken"
+        },
+        {
+            "key":"InsectoBot",
+            "value":"InsectoBot"
+        },
+        {
+            "key":"Hawk",
+            "value":"Faucon"
+        },
+        {
+            "key":"Grizzly",
+            "value":"Grizzly"
+        },
+        {
+            "key":"Flying beetle",
+            "value":"Coccinelle volante"
+        },
+        {
+            "key":"Crazy family",
+            "value":"Famille de fous"
+        },
+        {
+            "key":"Elkcub",
+            "value":"Jeune élan"
+        },
+        {
+            "key":"Elk",
+            "value":"Élan"
+        },
+        {
+            "key":"Bonehound",
+            "value":"Bonehound"
+        },
+        {
+            "key":"Bolthound",
+            "value":"Bolthound"
+        },
+        {
+            "key":"Automaton",
+            "value":"Automate"
+        },
+        {
+            "key":"Raven",
+            "value":"Corbeau"
+        },
+        {
+            "key":"Minecart",
+            "value":"Chariot"
+        },
+        {
+            "key":"Franknstein",
+            "value":"Franknstein"
+        },
+        {
+            "key":"Moleman",
+            "value":"Taupe"
+        },
+        {
+            "key":"Squirrel",
+            "value":"Écureuil"
+        },
+        {
+            "key":"Mole",
+            "value":"Taupe"
+        },
+        {
+            "key":"LeapingBot",
+            "value":"Robot sauteur"
+        },
+        {
+            "key":"Robo Frog",
+            "value":"Robot grenouille"
+        },
+        {
+            "key":"Strange Caterpillar",
+            "value":"Étrange chenille"
+        },
+        {
+            "key":"Mantisgod",
+            "value":"Dieu Mante"
+        },
+        {
+            "key":"Deaths with the Scythe",
+            "value":"Morts à la faux"
+        },
+        {
+            "key":"Water monster",
+            "value":"Monstre d'eau"
+        },
+        {
+            "key":"Direwolf",
+            "value":"loup des cavernes"
+        },
+        {
+            "key":"Direwolfcub",
+            "value":"cub du loup des cavernes"
+        },
+        {
+            "key":"Double turret",
+            "value":"Tourelle double"
+        },
+        {
+            "key":"StimMage",
+            "value":"StimMage"
+        },
+        {
+            "key":"One-eyed Gollum",
+            "value":"Gollum borgne"
+        },
+        {
+            "key":"SkeletonMage",
+            "value":"Mage squelette"
+        },
+        {
+            "key":"Rubygolem",
+            "value":"Golem en rubis"
+        },
+        {
+            "key":"Gunnerbot",
+            "value":"Robot tireur"
+        },
+        {
+            "key":"Drownedsoul",
+            "value":"L'âme noyée"
+        },
+        {
+            "key":"Viper",
+            "value":"Vipère"
+        },
+        {
+            "key":"Magic Teacher",
+            "value":"Professeur de magie"
+        },
+        {
+            "key":"Blue Mage",
+            "value":"Mage bleu"
+        },
+        {
+            "key":"Red Mage",
+            "value":"Mage rouge"
+        },
+        {
+            "key":"Orange Mage",
+            "value":"Mage orange"
+        },
+        {
+            "key":"Magical Havoc",
+            "value":"Havoc magique"
+        },
+        {
+            "key":"Healing Sorcery",
+            "value":"Sorcellerie curative"
+        },
+        {
+            "key":"Cursed Mage",
+            "value":"Mage maudit"
+        },
+        {
+            "key":"Octo-Ward",
+            "value":"Octo-Garde"
+        },
+        {
+            "key":"Tentacle Challenge",
+            "value":"Le défi des tentacules"
+        },
+        {
+            "key":"Damage Amplifier",
+            "value":"Amplificateur de dommages"
+        },
+        {
+            "key":"Weakening Curse",
+            "value":"La malédiction de l'affaiblissement"
+        },
+  
+
+     
+
+        {
+            "key":"Emptiness",
+            "value":""
+        },
+        {
+            "key":"Use",
+            "value":"Utiliser"
+        },
+        {
+            "key":"Read",
+            "value":"Lire"
+        },
+        {
+            "key":"Drop",
+            "value":"Chute"
+        },
+        {
+            "key":"Note 001",
+            "value":"Note 001"
+        },
+        {
+            "key":"InventoryKey36",
+            "value":"Note d'Adrian, numéro 001"
+        },
+        {
+            "key":"Note 002",
+            "value":"Note 002"
+        },
+        {
+            "key":"InventoryKey37",
+            "value":"Note d'Adrian, numéro 002"
+        },
+        {
+            "key":"Note 003",
+            "value":"Note 003"
+        },
+        {
+            "key":"InventoryKey38",
+            "value":"Note d'Adrian, numéro 003"
+        },
+        {
+            "key":"Note 004",
+            "value":"Note 004"
+        },
+        {
+            "key":"InventoryKey39",
+            "value":"Note d'Adrian, numéro 004"
+        },
+        {
+            "key":"Note 005",
+            "value":"Note 005"
+        },
+        {
+            "key":"InventoryKey40",
+            "value":"Note d'Adrian, numéro 005"
+        },
+        {
+            "key":"Note 006",
+            "value":"Note 006"
+        },
+        {
+            "key":"InventoryKey41",
+            "value":"Note d'Adrian, numéro 006"
+        },
+        {
+            "key":"Note 007",
+            "value":"Note 007"
+        },
+        {
+            "key":"InventoryKey42",
+            "value":"Note d'Adrian, numéro 007"
+        },
+        {
+            "key":"Note 008",
+            "value":"Note 008"
+        },
+        {
+            "key":"InventoryKey43",
+            "value":"Note d'Adrian, numéro 008"
+        },
+        {
+            "key":"Note 009",
+            "value":"Note 009"
+        },
+        {
+            "key":"InventoryKey44",
+            "value":"Note d'Adrian, numéro 009"
+        },
+        {
+            "key":"Note 010",
+            "value":"Note 010"
+        },
+        {
+            "key":"InventoryKey45",
+            "value":"Note d'Adrian, numéro 010"
+        },
+        {
+            "key":"Note 011",
+            "value":"Note 011"
+        },
+        {
+            "key":"InventoryKey46",
+            "value":"Note d'Adrian, numéro 011"
+        },
+        {
+            "key":"Note 012",
+            "value":"Note 012"
+        },
+        {
+            "key":"InventoryKey47",
+            "value":"Note d'Adrian, numéro 012"
+        },
+        {
+            "key":"Note 013",
+            "value":"Note 013"
+        },
+        {
+            "key":"InventoryKey48",
+            "value":"Note d'Adrian, numéro 013"
+        },
+        {
+            "key":"Note 014",
+            "value":"Note 014"
+        },
+        {
+            "key":"InventoryKey49",
+            "value":"Note d'Adrian, numéro 014"
+        },
+        {
+            "key":"Note 015",
+            "value":"Note 015"
+        },
+        {
+            "key":"InventoryKey50",
+            "value":"Note d'Adrian, numéro 015"
+        },
+        {
+            "key":"Note 016",
+            "value":"Note 016"
+        },
+        {
+            "key":"InventoryKey51",
+            "value":"Note d'Adrian, numéro 016"
+        },
+        {
+            "key":"Note 017",
+            "value":"Note 017"
+        },
+        {
+            "key":"InventoryKey52",
+            "value":"Note d'Adrian, numéro 017"
+        },
+        {
+            "key":"Note 018",
+            "value":"Note 018"
+        },
+        {
+            "key":"InventoryKey53",
+            "value":"Note d'Adrian, numéro 018"
+        },
+        {
+            "key":"Note 019",
+            "value":"Note 019"
+        },
+        {
+            "key":"InventoryKey54",
+            "value":"Note d'Adrian, numéro 019"
+        },
+        {
+            "key":"Note 020",
+            "value":"Note 020"
+        },
+        {
+            "key":"InventoryKey55",
+            "value":"Note d'Adrian, numéro 020"
+        },
+        {
+            "key":"My Diary",
+            "value":"Mon journal"
+        },
+        {
+            "key":"InventoryKey56",
+            "value":"Vocabulaire du vendeur"
+        },
+        {
+            "key":"Note for the guards",
+            "value":"Note à l'attention des gardiens"
+        },
+        {
+            "key":"InventoryKey57",
+            "value":"Un mot de Malachai"
+        },
+        {
+            "key":"Note from the mayor",
+            "value":"Note du maire"
+        },
+        {
+            "key":"InventoryKey58",
+            "value":"Note avec instructions du maire"
+        },
+        {
+            "key":"Note Joker",
+            "value":"Note Joker"
+        },
+        {
+            "key":"InventoryKey59",
+            "value":"Un joker?"
+        },
+        {
+            "key":"Order",
+            "value":"Commande"
+        },
+        {
+            "key":"InventoryKey60",
+            "value":"Un contrat de meurtre"
+        },
+        {
+            "key":"Record of the Situation in the Settlement",
+            "value":"Bilan de la situation dans la colonie"
+        },
+        {
+            "key":"InventoryKey61",
+            "value":"Dictionnaire du chef de village"
+        },
+        {
+            "key":"Records of the situation in the wealthy city",
+            "value":"Bilan de la situation dans la ville riche"
+        },
+        {
+            "key":"InventoryKey62",
+            "value":"Dictionnaire de l'enquêteur"
+        },
+        {
+            "key":"The Beginning. Tom One",
+            "value":"Le début. Tom est un"
+        },     {
+            "key":"InventoryKey63",
+            "value":"Une ère de paix et de bonté"
+        },
+        {
+            "key":"The Period of Mist. Tom Two",
+            "value":"La période des brumes. Tom deux"
+        },
+        {
+            "key":"InventoryKey64",
+            "value":"L'ère du doute et de la trahison"
+        },
+        {
+            "key":"The Era of Turmoil and Chaos. Tom Three",
+            "value":"L'ère de la tourmente et du chaos. Tom Trois"
+        },
+        {
+            "key":"InventoryKey65",
+            "value":"L'ère du chaos et des guerres"
+        },
+        {
+            "key":"Beer",
+            "value":"Bière"
+        },
+        {
+            "key":"InventoryKey66",
+            "value":"Une bière délicieuse"
+        },
+        {
+            "key":"Berry",
+            "value":"Baies"
+        },
+        {
+            "key":"InventoryKey67",
+            "value":"La baie rétablit 5 points de faim"
+        },
+        {
+            "key":"Cabbage",
+            "value":"Choux"
+        },
+        {
+            "key":"InventoryKey68",
+            "value":"Le chou restaure 20 unités de faim"
+        },
+        {
+            "key":"Carrot",
+            "value":"Carotte"
+        },
+        {
+            "key":"InventoryKey69",
+            "value":"La carotte rétablit 10 points de faim"
+        },
+        {
+            "key":"Corn",
+            "value":"Maïs"
+        },
+        {
+            "key":"InventoryKey70",
+            "value":"Restaure 15 points de faim"
+        },
+        {
+            "key":"Magical Might",
+            "value":"Puissance magique"
+        },
+        {
+            "key":"InventoryKey71",
+            "value":"Puissance magique est l'élixir des dieux. Il est rare et l'on dit que si vous le buvez, vous avez une chance d'entrer brièvement dans le monde mystérieux"
+        },
+        {
+            "key":"Onion",
+            "value":"Oignon"
+        },
+        {
+            "key":"InventoryKey72",
+            "value":"Restaure 5 points de faim"
+        },
+        {
+            "key":"Starshine Spirit",
+            "value":"L'esprit d'étoile"
+        },
+        {
+            "key":"InventoryKey73",
+            "value":"L'esprit d'étoile a été conçu par des barmen et des mixologues"
+        },
+        {
+            "key":"Stellar Sip",
+            "value":"Gorgée stellaire"
+        },
+        {
+            "key":"InventoryKey74",
+            "value":"Gorgée stellaire est une boisson merveilleuse pour la relaxation et plus encore"
+        },
+        {
+            "key":"Potion Energy",
+            "value":"Potion d'énergie"
+        },
+        {
+            "key":"InventoryKey75",
+            "value":"Restaure une unité d'énergie"
+        },
+        {
+            "key":"Potion Hunger",
+            "value":"Faim de potion"
+        },
+        {
+            "key":"InventoryKey76",
+            "value":"Cette potion a été fabriquée par d'anciens moines ; elle restaure 30 points de faim"
+        },
+        {
+            "key":"Potion Speed",
+            "value":"Vitesse de la potion"
+        },
+        {
+            "key":"InventoryKey77",
+            "value":"Augmente la vitesse du joueur pendant 5 minutes"
+        },
+        {
+            "key":"Magic door",
+            "value":"Porte magique"
+        },
+        {
+            "key":"InventoryKey78",
+            "value":"Comment chaque autel s'illuminera et la porte magique s'ouvrira, et vous obtiendrez ce que vous êtes venu chercher ici, mais en êtes-vous digne ?"
+        },
+        {
+            "key":"InventoryKey1",
+            "value":"À mon arrivée, j'ai été accueilli par Jacob, qui m'a dit que je devais sauver le monde et me rendre dans la ville pauvre. Je suis entré dans un bâtiment vide, peut-être que Jacob habite ici. Quoi qu'il en soit, je vais me mettre en route pour la ville pauvre. Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey2",
+            "value":"Je suis arrivé dans cette belle ville et je suis allé dans un bar. Les habitants m'ont dit ce qu'il fallait faire ici. Je pense que je vais aller à la mairie, peut-être qu'ils me donneront plus d'informations. Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey3",
+            "value":"Je me suis déjà installé, j'aime cet endroit. Mais un habitant se plaint que la ville riche l'accuse de faits erronés. Je dois faire quelque chose ; je dois trouver le maire de la ville pauvre Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey4",
+            "value":"Quel magnifique temple ! Quand on y entre, on ressent immédiatement l'époque où les gens vivaient encore avec les dieux. Mais il faut que je passe à autre chose, je vais creuser un peu plus pour découvrir la vérité Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey5",
+            "value":"Je suis venu dans cette maison et le vieil homme qui y vit m'a raconté une triste histoire qui m'a révélé certains des problèmes de ce monde. Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey6",
+            "value":"Le fermier m'a permis d'entrer dans sa maison, c'est un homme gentil. Il m'a dit qu'il y avait des roulottes à proximité, et que je pourrais y trouver le maire d'une ville pauvre et une clé de deuxième niveau. Signature: Adrian"
+        },
+          {
+            "key":"InventoryKey7",
+            "value":"J'ai donc la clé maintenant. J'ai besoin d'en savoir plus sur la ville riche. Je me dirige donc vers la ville riche. J'ai remarqué que quelqu'un me suivait. Ce n'est sans doute que mon imagination Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey8",
+            "value":"La ville riche m'a accueilli avec beaucoup de tristesse. Elle est maintenant neutre et les deux factions se battent l'une contre l'autre. Un type m'a dit que si je trouvais un moyen de sortir de SpellBound, le chaos éclaterait. Je ne le crois pas. Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey9",
+            "value":"La faction bleue est plutôt hostile. Leurs objectifs ne sont pas très clairs : veulent-ils prendre le contrôle de tout ou simplement mettre fin à la querelle avec la faction rouge ? Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey10",
+            "value":"La faction rouge est plus défensive lors des attaques de la faction bleue, mais elle n'est pas non plus en odeur de sainteté. Les deux factions veulent briser la neutralité et probablement prendre le contrôle des rues de la ville riche. Il y a probablement un plan dans les deux factions, mais quel est-il exactement? Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey11",
+            "value":"La taverne de la ville riche est plutôt agréable, et il y a beaucoup plus de monde. Un type m'a dit qu'ils m'attendaient à la ferme, qui est sous le contrôle de la ville riche. C'est absurde. Je ferais mieux d'aller au bureau du maire, Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey12",
+            "value":"Une bibliothèque tout simplement incroyable ! Il y a tellement de livres et d'informations. Dans l'un des livres, j'ai trouvé des informations sur la Ville d'hiver. Il paraît qu'on peut en apprendre plus là-bas. Pourtant, cette ferme se trouve près de la ville riche... Enfin, peu importe. Je ferais mieux de me rendre à la Ville d'hiver. Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey13",
+            "value":"J'ai l'impression d'être suivi, et il y a cette ferme étrange près de la ville riche dont un gars m'a parlé. Je sais une chose : il faut que je m'échappe de cette ville le plus vite possible. Je me dirige vers la Ville d'hiver dès que possible! Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey14",
+            "value":"Je viens d'arriver dans la ville d'hiver. Il faut que j'aille à la taverne qui se trouve à la périphérie de la ville, ils sauront peut-être quelque chose. La ville a l'air pas mal non plus Signé: Adrian"
+        },     
+        {
+            "key":"InventoryKey15",
+            "value":"Oui! Oui! Mes informations! La clé se trouve près de la Ville d'hiver, dans le coin des grands murs. Il y aura une grotte, et à l'intérieur se trouve la clé. Je dois faire vite, je suis suivi! Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey16",
+            "value":"Oui, je suis déjà près de la grotte, il faut juste que je trouve l'entrée. La voilà. Stop, qui est là derrière l'arbre... 'Écrit indistinctement'... Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey17",
+            "value":"Ils m'ont emmené quelque part, dans un endroit peu clair. On dirait que quelqu'un ici est responsable. Oh non, ils arrivent... Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey18",
+            "value":"Pendant que les gardes se reposent, je laisserai une note ici. Je veux transmettre le lien à de futurs aventuriers. Soyez prudents si vous venez ici, c'est très dangereux. Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey19",
+            "value":"J'ai été enfermé dans cette maison ; je ne sais pas ce qui m'attend ensuite - la mort ou la vie. Mais je sais une chose : la clé de la sortie se trouve chez ce vieil homme. Cependant, le vaincre, lui et les gardes, semble impossible. J'attends de voir ce qui se passera à la prochain. Signé: Adrian"
+        },
+        {
+            "key":"InventoryKey20",
+            "value":"Oh non, il semble que ma fin soit arrivée. Ils arrivent. Mes derniers mots à ceux qui liront ceci - aventuriers, essayez de rassembler plus d'informations avant de venir ici. Adieu, la vie... Signé: Adrian"
+        },  {
+            "key":"InventoryKey21",
+            "value":"Donnez cette lettre à mon adjoint. Je vais dans une caravane en dehors de la ville, si quelqu'un a besoin de moi, allez-y."
+        },
+        {
+            "key":"InventoryKey22",
+            "value":"Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker Joker"
+        },
+        {
+            "key":"InventoryKey23",
+            "value":"Éliminez un vieil homme qui vit dans les maisons abandonnées près du mur, l'effondrement est inévitable. Décret de Malachai"
+        },
+        {
+            "key":"InventoryKey24",
+            "value":"Mes gardes, je vous ai laissé quelques pièces. Achetez-vous de la nourriture et tout ce dont vous avez besoin, et je me suis arrangé avec la Bretagne pour que personne ne vous touche dans la ville. De la part de Malachai"
+        },
+        {
+            "key":"InventoryKey25",
+            "value":"Premier jour : Aujourd'hui, j'ai ouvert mon magasin et j'ai commencé à vendre des articles uniques. Deuxième jour : Il ne s'est pas passé grand-chose. Les ventes se déroulent bien et les bénéfices augmentent. Troisième jour : Des hommes sont venus : Des hommes sont venus et ont dit qu'ils venaient d'un certain Malachi et ont exigé que je leur rende hommage. Je leur ai dit de s'en aller. Quatrième jour : Aujourd'hui, le calme règne sans ces gardes, mais je sens que cela ne durera pas longtemps et que mon entreprise sera bientôt fermée."
+        },
+        {
+            "key":"InventoryKey26",
+            "value":"Cinquième jour : Aujourd'hui, j'ai vendu une grosse cargaison et j'ai gagné beaucoup d'argent. Je pense que je vais ouvrir un commerce dans une ville riche ou pauvre et me tirer d'ici. Jour 6 : Les gardes sont revenus, ils ne me laissent pas me reposer et me suivent à l'extérieur. Ils sont dehors et j'ai fermé le magasin, mais bientôt ils trouveront un moyen d'entrer. Cela pourrait signifier la fin de mon commerce, et pour moi..."
+        },
+        {
+            "key":"InventoryKey27",
+            "value":"La situation du village est stable, les gens travaillent et la ville d'hiver achète la récolte. Tout le monde y gagne et nous avons de quoi vivre. Aujourd'hui, j'ai enfin fait enlever les ordures. Enfin, nous serons un peu plus propres. C'est un bel été, les récoltes sont florissantes cette année, nous ferons une autre livraison. Je ne dirais pas que ce conflit entre les groupes est bénéfique pour nous, mais les livraisons sont devenues plus fréquentes, donc il est bénéfique pour nous de nous cacher derrière les murs et de rester neutres"
+        },
+        {
+            "key":"InventoryKey28",
+            "value":"C'est le milieu de l'été et je remplis rarement un rapport, mais aujourd'hui, le maire de Rich City est venu me voir et voulait convenir d'un projet avec moi. Nous ne savons pas encore de quoi il s'agira, mais espérons qu'il s'agira de quelque chose d'utile pour l'humanité"
+        },
+        {
+            "key":"InventoryKey29",
+            "value":"Premier jour. Je suis un détective et je suis arrivé dans cette ville pour découvrir ce qui s'y passe et identifier le coupable de l'escalade du conflit. La situation dans la ville est tendue. Deuxième jour. J'ai trouvé une information qui mettra fin au conflit entre les factions. Il ne me reste plus qu'à l'apporter là où on en a besoin Jour 3. J'ai l'impression d'être suivi. Je dois partir immédiatement. Avec un peu de chance, j'ai encore le temps de me faufiler."
+        },
+        {
+            "key":"InventoryKey30",
+            "value":"Fabian et Mara, les dieux de SpellBound, ont accueilli les réfugiés fuyant des calamités inconnues. Les fidèles les servaient fidèlement en construisant des murs, en creusant des puits et en fabriquant des statues. Au fil du temps, ce devoir est devenu le symbole de l'ère de la paix et de la bonté. Dans SpellBound, chaque ville ajoute son propre fil à cette histoire unique, où chaque moment ajoute une nouvelle nuance à notre vie commune."
+        },
+        {
+            "key":"InventoryKey31",
+            "value":"Par exemple, il était une fois une ville pauvre, il n'y en avait pas beaucoup, elles étaient appelées différemment à l'époque des dieux, la ville pauvre s'appelait Card Harmony, ce nom symbolisait l'harmonie entre les joueurs de cartes, tout le monde jouait aux cartes pour quelque chose ou autre, personne n'aurait pu penser qu'ils allaient se battre jusqu'à la mort, Mais la ville riche symbolisait le prestige, on y fabriquait des statues et les livres contenaient de nombreux poèmes, on l'appelait donc la terre prestigieuse. La ville d'hiver portait le même nom, les dieux eux-mêmes ne savaient pas pourquoi il y neigeait, c'est pourquoi ils l'appelaient ainsi."
+        },
+        {
+            "key":"InventoryKey32",
+            "value":"Après l'ère de la paix et de la bonté, des doutes sont apparus. Les gens étaient curieux de savoir ce qu'il y avait derrière les murs, mais les dieux ne permettaient à personne de sortir. Des échappatoires et des gardes sont apparus. Plus tard, les dieux créèrent une porte qui ne pouvait être ouverte qu'avec leur clé unique. C'est ainsi que commença l'ère du doute et de la trahison. Des groupes rebelles apparurent, certains furent détruits, d'autres créés, et même des bandits apparurent pour voler les gens, bien sûr, ils n'avaient presque nulle part où se cacher, alors ils se cachèrent dans des grottes qui sont toujours dans SpellBound. Dans certaines situations, des désaccords sont apparus entre les dieux."
+        },
+        {
+            "key":"InventoryKey33",
+            "value":"La situation à SpellBound était tendue, tout aurait pu s'effondrer, mais les dieux ont réussi à trouver un compromis et à repousser les jours terribles pour un moment"
+        },  
+        {
+            "key":"InventoryKey34",
+            "value":"Lorsqu'arrivaient ces jours terribles, que les dieux voulaient éviter, le chaos régnait, et les gens se réfugiaient dans les temples, espérant une protection divine, et c'est ce qui s'est passé. Ceux qui disparaissaient souffraient ou mouraient. Après que la déesse Mara se soit sacrifiée pour protéger la Cité des Pauvres du dieu Fabian, le silence se fit pendant un court laps de temps. Les dieux disparurent, seules les statues subsistèrent,"
+        },
+        {
+            "key":"InventoryKey35",
+            "value":"et a également affecté le mélangeur de cartes et le guerrier titan. Les gens étaient divisés en factions, ce qui a provoqué des conflits. Le conflit le plus global a commencé lorsque les gens se sont unis dans le groupe bleu et ont pris le contrôle de la Cité de l'Hiver."
+        },
+
+
+
+        
+        {
+            "key":"DialougeKey",
+            "value":"Dialogue suivant"
+        },
+        {
+            "key":"Jacob",
+            "value":"Jacob"
+        },
+        {
+            "key":"Hello, new seeker! Welcome to SpellBound.",
+            "value":"Bonjour, nouveau chercheur ! Bienvenue sur SpellBound"
+        },
+        {
+            "key":"First you need to defeat me in a card battle and then head to the poor city",
+            "value":"Vous devez d'abord me vaincre dans une bataille de cartes, puis vous rendre dans la ville pauvre"
+        },
+        {
+            "key":"You also have energy if it reaches 0, you can't battle in cards. So, keep an eye on your energy.",
+            "value":"Vous avez également de l'énergie, si elle atteint 0, vous ne pouvez pas combattre avec des cartes. Gardez donc un œil sur votre énergie"
+        },
+        {
+            "key":"Now, let's battle in cards",
+            "value":"Maintenant, battons-nous avec les cartes"
+        },
+        {
+            "key":"Nolan",
+            "value":"Nolan"
+        },
+        {
+            "key":"Oh, hello! Welcome to our poor but cozy town.",
+            "value":"Oh, bonjour! Bienvenue dans notre ville pauvre mais confortable"
+        },
+        {
+            "key":"Oh, I haven't seen you here before, you're a new seeker?",
+            "value":"Oh, je ne vous ai jamais vu ici, vous êtes un nouveau chercheur?"
+        },
+        {
+            "key":"I think you still have a lot to learn. Talk to the locals, they know a lot, and may even tell you how to get to the rich city. Good luck",
+            "value":"Je pense que vous avez encore beaucoup à apprendre. Parlez aux habitants, ils en savent beaucoup et vous diront peut-être même comment vous rendre dans la ville riche. Bonne chance!"
+        },
+        {
+            "key":"Stephanie",
+            "value":"Stéphanie"
+        },
+        {
+            "key":"Did you also come to pray to the great Goddess Mari?",
+            "value":"Êtes-vous également venu prier la grande déesse Mari?"
+        },
+        {
+            "key":"She created most of the cards and bestowed abilities upon some.",
+            "value":"Elle a créé la plupart des cartes et a conféré des capacités à certaines d'entre elles"
+        },
+        {
+            "key":"If you want to learn more about her, head to the temple. They will tell you more about Mari and the other god.",
+            "value":"Si vous voulez en savoir plus sur elle, rendez-vous au temple. Ils vous en diront plus sur Mari et l'autre dieu"
+        },
+        {
+            "key":"Adam",
+            "value":"Adam"
+        },
+        {
+            "key":"I don't like all these fabricated accusations from the wealthy city",
+            "value":"Je n'aime vraiment pas toutes ces accusations fabriquées de toutes pièces par une ville riche"
+        },
+        {
+            "key":"If it weren't for the goddess Mara, everything would fall apart because of this pseudo-god Fabian.",
+            "value":"Sans la déesse Mara, tout s'écroulerait à cause de ce pseudo-dieu qu'est Fabian"
+        },
+        {
+            "key":"If it were up to me, I would end everything with force, not diplomacy.",
+            "value":"Si cela ne tenait qu'à moi, je mettrais fin au conflit entre les villes par la force, et non par la diplomatie"
+        },
+        {
+            "key":"Sofia",
+            "value":"Sofia"
+        },
+        {
+            "key":"Did you also come to sway on the swings today? It's such a wonderful day for a stroll.",
+            "value":"Es-tu aussi venu te balancer sur les balançoires aujourd'hui ? C'est une si belle journée pour se promener"
+        },
+        {
+            "key":"My grandfather always said that a day would come that would change everything in this world.",
+            "value":"Mon grand-père disait toujours qu'un jour viendrait qui changerait tout dans ce monde"
+        },
+        {
+            "key":"Jimmy",
+            "value":"Jimmy"
+        },
+        {
+            "key":"Hmm, you seem like an adult, but you came to a children's playground.",
+            "value":"Hmm, vous avez l'air d'un adulte, mais vous êtes venu dans une aire de jeux pour enfants"
+        },
+        {
+            "key":"I'm Jimmy, and my older sister is Stephanie. Look, she's standing by the statue of Mary, the Guardian of our poor town",
+            "value":"Je m'appelle Jimmy, et ma grande sœur s'appelle Stéphanie. Regardez, elle se tient près de la statue de Marie, la gardienne de notre pauvre ville"
+        },
+        {
+            "key":"It's boring here, but when I grow up, I want to get into the rich city.",
+            "value":"C'est ennuyeux ici, mais quand je serai grande, je veux entrer dans une ville riche"
+        },
+        {
+            "key":"Ivy",
+            "value":"Lierre"
+        },
+        {
+            "key":"If you're heading to Lady Willow, go inside.",
+            "value":"Si vous vous rendez à Lady Willow, allez à l'intérieur"
+        },
+        {
+            "key":"Connor",
+            "value":"Connor"
+        },
+        {
+            "key":"As my father used to tell me, Learn so that people work for you. Oh, it seems I got carried away.",
+            "value":"Comme me le disait mon père, apprenez à ce que les gens travaillent pour vous. Oh, il semble que je me sois laissé emporter"
+        },
+        {
+            "key":"I'm Conor. My father died during the attack of the God Fabian, so I live here in the trailer park.",
+            "value":"Je m'appelle Conor. Mon père est mort pendant l'attaque du Dieu Fabian, alors je vis ici dans le parc à roulottes"
+        },
+        {
+            "key":"Nicholas",
+            "value":"Nicholas"
+        },
+        {
+            "key":"Oh, another seeker... I guess you want to know where the mayor is, huh?",
+            "value":"Oh, un autre chercheur... Je suppose que vous voulez savoir où se trouve le maire, hein ?"
+        },
+        {
+            "key":"Haha! Alright, I'll tell you, but let's play a card game. Win, and you'll get the information I gave the previous seeker. Lose, and you won't get anything.",
+            "value":"Haha ! D'accord, je vais vous le dire, mais jouons à un jeu de cartes. Si vous gagnez, vous obtiendrez les informations que j'ai données au chercheur précédent. Perdez, et vous n'obtiendrez rien"
+        },
+        {
+            "key":"Leonard",
+            "value":"Léonard"
+        },
+        {
+            "key":"No one has been here for a long time. Welcome to the Dense Forest Farm. This farm is controlled by a poor city, I grow food for a poor city, and you don't look like a local.",
+            "value":"Personne n'est venu ici depuis longtemps. Bienvenue à la Ferme de la forêt dense. Cette ferme est contrôlée par une ville pauvre, je cultive de la nourriture pour une ville pauvre, et vous n'avez pas l'air d'un habitant de la région"
+        },
+        {
+            "key":"The work is tough, but I manage. If you're looking for the mayor, I heard he's not far from the farm.",
+            "value":"Le travail est difficile, mais je me débrouille. Si vous cherchez le maire, j'ai entendu dire qu'il n'était pas loin de la ferme"
+        },
+        {
+            "key":"Theodore",
+            "value":"Théodore"
+        },
+        {
+            "key":"Hello, my name is Theodore, I'm Leonard's brother and I work at the Dense Forest Farm for the benefit of the poor town.",
+            "value":"Bonjour, je m'appelle Théodore, je suis le frère de Léonard et je travaille à la Ferme de la Forêt Dense au profit de la ville pauvre"
+        },
+        {
+            "key":"Once. I heard great wisdom that everything comes with time.",
+            "value":"Une fois. J'ai entendu une grande sagesse selon laquelle tout vient avec le temps"
+        },
+        {
+            "key":"There is no end or beginning, only the path. That's the wisdom I carry with me for a lifetime",
+            "value":"Il n'y a ni fin ni début, il n'y a que le chemin. C'est la sagesse que j'emporte avec moi pour toute la vie"
+        },
+        {
+            "key":"Emilya",
+            "value":"Emilya"
+        },
+        {
+            "key":"Finally, someone found me. I'm the mayor of the poor town. You probably want to know what's going on between the rich city and the poor.",
+            "value":"Enfin, quelqu'un m'a trouvé. Je suis le maire de la ville pauvre. Vous voulez sans doute savoir ce qui se passe entre la ville riche et la ville pauvre"
+        },
+        {
+            "key":"Well, listen. I used to maintain a connection with the rich city, but they went mad with their god Fabian.",
+            "value":"Eh bien, écoutez. J'avais l'habitude de maintenir un lien avec la ville riche, mais ils sont devenus fous avec leur dieu Fabian"
+        },
+        {
+            "key":"They started accusing us of made-up claims, probably related to the last seeker who wandered around here, but I'm not sure.",
+            "value":"Ils ont commencé à nous accuser d'avoir inventé des choses, probablement en rapport avec le dernier chercheur qui s'est promené ici, mais je n'en suis pas sûr"
+        },
+        {
+            "key":"Anyway, you're the new seeker. Let's see if you can change something in this complicated situation.",
+            "value":"Quoi qu'il en soit, vous êtes le nouveau chercheur. Voyons si tu peux changer quelque chose dans cette situation compliquée"
+        },
+        {
+            "key":"Now let's play some cards to see what you can do and if you're worthy of the second level key.",
+            "value":"Jouons maintenant quelques cartes pour voir ce que tu sais faire et si tu mérites la clé du deuxième niveau"
+        },
+        {
+            "key":"Amy",
+            "value":"Amy"
+        },
+        {
+            "key":"Go away from me!, or I'll ask my father to kick you out of this town",
+            "value":"Éloignez-vous de moi ! ou je demanderai à mon père de vous expulser de cette ville"
+        },
+        {
+            "key":"and you'll go pray to the pitiful Goddess Mara!",
+            "value":"et tu iras prier la pitoyable déesse Mara !"
+        },
+        {
+            "key":"Isaac",
+            "value":"Isaac"
+        },
+        {
+            "key":"Ah, how good it is to live in a big city.",
+            "value":"Ah, qu'il est bon de vivre dans une grande ville !"
+        },
+        {
+            "key":"Behind the city walls, there is a lot of deceit and injustice.",
+            "value":"Derrière les murs de la ville, il y a beaucoup de tromperies et d'injustices"
+        },
+        {
+            "key":"It's fortunate that God Fabian watches over us, even when he's no longer with us",
+            "value":"Heureusement que le Dieu Fabian veille sur nous, même lorsqu'il n'est plus avec nous"
+        },
+        {
+            "key":"Zoe",
+            "value":"Zoé"
+        },
+        {
+            "key":"Hello, I haven't seen you here before. You're new, and there's a lot of interesting stuff here. Good luck!",
+            "value":"Bonjour, je ne vous ai jamais vu ici. Vous êtes nouveau, et il y a beaucoup de choses intéressantes ici. Bonne chance !"
+        },
+        {
+            "key":"Caleb",
+            "value":"Caleb"
+        },
+        {
+            "key":"Hello, my name is Caleb. I pray near the magnificent statue of God Fabian every day.",
+            "value":"Bonjour, je m'appelle Caleb. Je prie tous les jours près de la magnifique statue de Dieu Fabian"
+        },
+        {
+            "key":"This statue was built after the victory of the god Fabian in the conflict between the gods, although the pseudo-goddess Mara took the god Fabian with her, we believe that he won",
+            "value":"Cette statue a été érigée après la victoire du dieu Fabian dans le conflit entre les dieux, bien que la pseudo-déesse Mara ait emmené le dieu Fabian avec elle, nous pensons qu'il a gagné"
+        },
+        {
+            "key":"My parents work in the church, and they always tell me that I should become someone who helps gods in difficult times.",
+            "value":"Mes parents travaillent dans l'église et ils me disent toujours que je devrais devenir quelqu'un qui aide les dieux dans les moments difficiles"
+        },
+        {
+            "key":"Jack",
+            "value":"Jack"
+        },
+        {
+            "key":"Hey, who are you? I haven't seen you here before.",
+            "value":"Hé, qui êtes-vous ? Je ne vous ai jamais vu ici"
+        },
+        {
+            "key":"Are you one of the newcomers? I'm the sheriff of this town, keeping an eye on order and on which god the townsfolk believe in.",
+            "value":"Êtes-vous l'un des nouveaux arrivants ? Je suis le shérif de cette ville. Je veille à l'ordre et à la croyance des habitants"
+        },
+        {
+            "key":"Anything else doesn't interest me, so watch yourself here and maintain order!",
+            "value":"Tout le reste ne m'intéresse pas, alors faites attention et maintenez l'ordre !"
+        },
+        {
+            "key":"Leo",
+            "value":"Leo"
+        },
+        {
+            "key":"If you're not going to the boss, then get out of here",
+            "value":"Si vous n'allez pas voir le patron, sortez d'ici"
+        },
+        {
+            "key":"Molly",
+            "value":"Molly"
+        },
+        {
+            "key":"If you're here to see our boss, come on in, otherwise you'd better get out of here",
+            "value":"Si vous êtes ici pour voir notre patron, entrez, sinon vous feriez mieux de sortir d'ici"
+        },
+        {
+            "key":"Eva",
+            "value":"Eva"
+        },
+        {
+            "key":"Hello, did you come to dispose of trash too?",
+            "value":"Bonjour, vous êtes aussi venu pour jeter des ordures ?"
+        },
+        {
+            "key":"Waste sorting ensures cleanliness in the city and maintains order.",
+            "value":"Le tri des déchets assure la propreté de la ville et le maintien de l'ordre"
+        },
+        {
+            "key":"Charlie",
+            "value":"Charlie"
+        },
+        {
+            "key":"I work on the farm, helping my father. I think he wanted to tell you something.",
+            "value":"Je travaille à la ferme, j'aide mon père. Je pense qu'il voulait vous dire quelque chose"
+        },
+        {
+            "key":"Go have a conversation with him.",
+            "value":"Allez discuter avec lui"
+        },
+        {
+            "key":"Lewis",
+            "value":"Lewis"
+        },
+        {
+            "key":"Oh, you've arrived. They want to see you. Go to the house guarded by sentinels",
+            "value":"Oh, vous êtes arrivé. Ils veulent vous voir. Allez dans la maison gardée par des sentinelles"
+        },
+        {
+            "key":"Ninja",
+            "value":"Ninja"
+        },
+        {
+            "key":"Step inside the boss is waiting for you!",
+            "value":"Entrez, le patron vous attend !"
+        },
+        {
+            "key":"Robert",
+            "value":"Robert"
+        },
+        {
+            "key":"Oh, it seems someone came to this landfill. The Rich city dumps all its sorted waste here.",
+            "value":"Oh, il semble que quelqu'un soit venu dans cette décharge. La ville riche y déverse tous ses déchets triés"
+        },
+        {
+            "key":"I don't even understand why they bother sorting it; it's all scattered here.",
+            "value":"Je ne comprends même pas pourquoi ils se donnent la peine de les trier ; tout est éparpillé ici"
+        },
+        {
+            "key":"If you came to rummage, go ahead, just don't throw anything outside the walls. Ha-ha-ha-ha-ha.",
+            "value":"Si vous êtes venus pour fouiller, allez-y, mais ne jetez rien en dehors des murs. Ha-ha-ha-ha-ha"
+        },
+        {
+            "key":"Donald",
+            "value":"Donald"
+        },
+        {
+            "key":"Welcome to the winter city. It's constantly snowing and cold here, but it doesn't stop people from living. Come in",
+            "value":"Bienvenue dans la ville de l'hiver. Ici, il neige et il fait froid en permanence, mais cela n'empêche pas les gens de vivre. Entrez dans la ville"
+        },
+        {
+            "key":"Fiona",
+            "value":"Fiona"
+        },
+        {
+            "key":"Hello, you're new in town. I'm one of the elders of the Blues.",
+            "value":"Bonjour, vous êtes nouveau en ville. Je suis l'un des anciens de Blue"
+        },
+        {
+            "key":"Come inside the house if you want to know more about us",
+            "value":"Entrez dans la maison si vous voulez en savoir plus sur nous"
+        },
+        {
+            "key":"Leah",
+            "value":"Leah"
+        },
+        {
+            "key":"Ah... how I love sometimes going outside in such weather.",
+            "value":"Ah... comme j'aime parfois sortir par un temps pareil"
+        },
+        {
+            "key":"It's a wonderful feeling of the cold breeze and tranquility",
+            "value":"C'est une sensation merveilleuse de brise froide et de tranquillité"
+        },
+        {
+            "key":"Damon",
+            "value":"Damon"
+        },
+        {
+            "key":"Hello, I'm Damon. Would you like to play cards for 150 coins?",
+            "value":"Bonjour, je m'appelle Damon. Voulez-vous jouer aux cartes pour 150 pièces ?"
+        },
+        {
+            "key":"Eric",
+            "value":"Eric"
+        },
+        {
+            "key":"Hey, don't even think about getting on the train if you don't have a third-level key.",
+            "value":"Ne pensez même pas à monter dans le train si vous n'avez pas une clé de troisième niveau"
+        },
+        {
+            "key":"Without it, there's nothing to do there",
+            "value":"Sans elle, il n'y a rien à faire sur place"
+        },
+        {
+            "key":"Guard",
+            "value":"Garde"
+        },
+        {
+            "key":"Ooooh, you came here and you were not eliminated, which means there is no turning back. Before we get to the battle on the cards,",
+            "value":"Ooooh, vous êtes venu ici et vous n'avez pas été éliminé, ce qui signifie qu'il n'y a pas de retour en arrière possible. Avant d'en arriver à la bataille des cartes,"
+        },
+        {
+            "key":"I'll tell you what awaits you next. You need to defeat me and 4 more guards before meeting him.",
+            "value":"Je vais vous dire ce qui vous attend ensuite. Vous devez me vaincre, ainsi que 4 autres gardes, avant de le rencontrer"
+        },
+        {
+            "key":"I won't wish you luck, but he's a powerful card player.",
+            "value":"Je ne vous souhaite pas bonne chance, mais c'est un joueur de cartes puissant"
+        },
+        {
+            "key":"Even if you get to him, you won't be able to defeat him. Now let's start the fight",
+            "value":"Même si vous l'atteignez, vous ne pourrez pas le vaincre. Commençons le combat"
+        },
+        {
+            "key":"You passed the first guard, congratulations to you.",
+            "value":"Vous avez passé la première garde, félicitations !"
+        },
+        {
+            "key":"There was another searcher here before you, but he couldn't even find the third level key, and then - BAM! - he disappeared, haha",
+            "value":"Il y a eu un autre chercheur ici avant vous, mais il n'a même pas pu trouver la clé du troisième niveau, et puis - BAM ! - il a disparu, haha"
+        },
+        {
+            "key":"Know that the further you go, the stronger the guards are and the weaker you are ha ha ha",
+            "value":"Sachez que plus vous avancez, plus les gardes sont forts et plus vous êtes faibles ha ha ha"
+        },
+        {
+            "key":"You should turn around and leave while you still have a chance",
+            "value":"Vous devriez faire demi-tour et partir pendant qu'il en est encore temps"
+        },
+        {
+            "key":"There is no turning back. Fight or be disgraced and then destroyed. BOOGA-BOOGA HA-HA",
+            "value":"Il n'y a pas de retour en arrière possible. Se battre ou être déshonoré et détruit. BOOGA-BOOGA HA-HA"
+        },
+        {
+            "key":"Before we fight in cards, you're making a big mistake,",
+            "value":"Avant que nous nous battions par cartes, vous faites une grosse erreur,"
+        },
+        {
+            "key":"but it's too late to change anything. Let's start the battle",
+            "value":"mais il est trop tard pour changer quoi que ce soit. Commençons la bataille"
+        },
+        {
+            "key":"Malachai",
+            "value":"Malachai"
+        },
+        {
+            "key":"Well, Well, Well, if you were able to come here, it means that my bodyguards failed me, so you deserve the truth",
+            "value":"Eh bien, si vous avez pu venir ici, cela signifie que mes gardes du corps m'ont laissé tomber, alors vous méritez la vérité"
+        },
+        {
+            "key":"Listen, I caused a conflict among the gods.",
+            "value":"Ecoutez, j'ai provoqué un conflit entre les dieux"
+        },
+        {
+            "key":"I provoked the god Fabian and framed the Goddess Mara, thereby causing a conflict.",
+            "value":"J'ai provoqué le dieu Fabian et piégé la déesse Mara, provoquant ainsi un conflit"
+        },
+        {
+            "key":"I also framed the Titan Warrior and the Card master. When they found out about the conflict",
+            "value":"J'ai également encadré le guerrier titan et le maître des cartes. Lorsqu'ils ont découvert le conflit"
+        },
+        {
+            "key":"They wanted to reconcile the gods, so I made them look like they were helping the Goddess Mari.",
+            "value":"Ils voulaient réconcilier les dieux, alors j'ai fait en sorte qu'ils aient l'air d'aider la déesse Mari"
+        },
+        {
+            "key":"At the same time, I sent a letter to Marie, claiming that they were helping Fabian, and she believed me.",
+            "value":"En même temps, j'ai envoyé une lettre à Marie, affirmant qu'ils aidaient Fabian, et elle m'a cru"
+        },
+        {
+            "key":"The gods disappeared, and I took power into my own hands and decided what would happen next.",
+            "value":"Les dieux ont disparu, j'ai pris le pouvoir et j'ai décidé de la suite des événements"
+        },
+        {
+            "key":"Things spiraled out of control, conflicts emerged, and various factions appeared—namely,",
+            "value":"La situation devient incontrôlable, des conflits apparaissent et diverses factions se manifestent, notamment,"
+        },
+        {
+            "key":"The Blue, Yellow, Red, and Purple Factions. Another faction, the Green, also emerged.",
+            "value":"Les factions bleue, jaune, rouge et violette. Une autre faction, la verte, a également vu le jour"
+        },
+        {
+            "key":"Thanks to my actions, the founders of the Green Faction were liquidated, so almost no one knows about it.",
+            "value":"Grâce à mes actions, les fondateurs de la Faction Verte ont été liquidés, si bien que presque personne n'est au courant de son existence"
+        },
+        {
+            "key":"This is not all the information, but you already know too much.",
+            "value":"Ce n'est pas toute l'information, mais vous en savez déjà trop"
+        },
+        {
+            "key":"Even if you manage to leave here alive, it won't be for long. Now let's proceed to the card battle. LET CHAOS REIGN!!!",
+            "value":"Même si vous parvenez à sortir d'ici en vie, ce ne sera pas pour longtemps. Passons maintenant à la bataille de cartes. QUE LE CHAOS RÈGNE !!!"
+        },
+        {
+            "key":"Old man",
+            "value":"Vieil homme"
+        },
+        {
+            "key":"Boo-hahaha! He will come...",
+            "value":"Boo-hahaha ! Il viendra..."
+        },
+        {
+            "key":"Someday the time will come when the one who controls every battle and decides its outcome arrives.",
+            "value":"Un jour, le temps viendra où celui qui contrôle chaque bataille et décide de son issue arrivera"
+        },
+        {
+            "key":"The time will come when what the gods created years ago will disappear",
+            "value":"Le temps viendra où ce que les dieux ont créé il y a des années disparaîtra"
+        },
+        {
+            "key":"Oh great one, come to us as fast as possible, bring order swiftly! Boo-hahaha!",
+            "value":"Oh grand, viens à nous le plus vite possible, fais régner l'ordre rapidement ! Boo-hahaha !"
+        },
+        {
+            "key":"Alan",
+            "value":"Alan"
+        },
+        {
+            "key":"I am one of the workers on the farm.",
+            "value":"Je suis l'un des travailleurs de la ferme"
+        },
+        {
+            "key":"I work to ensure that the people in our town have something to eat and that there's something to sell to the winter city",
+            "value":"Je veille à ce que les habitants de notre ville aient de quoi manger et à ce qu'il y ait quelque chose à vendre à la ville d'hiver"
+        },
+        {
+            "key":"There are other workers, but they have the day off today",
+            "value":"Il y a d'autres travailleurs, mais ils sont en congé aujourd'hui"
+        },
+        {
+            "key":"Jessica",
+            "value":"Jessica"
+        },
+        {
+            "key":"Hello, my name is Jessica. I'm here to oversee the farm and manage the sales of products to the winter city.",
+            "value":"Bonjour, je m'appelle Jessica. Je suis ici pour superviser la ferme et gérer les ventes de produits à la ville d'hiver"
+        },
+        {
+            "key":"We are one of the largest suppliers of products to the Winter city, and they pay well. That's how our system works",
+            "value":"Nous sommes l'un des plus grands fournisseurs de produits de la ville d'hiver, et ils paient bien. C'est ainsi que fonctionne notre système"
+        },
+        {
+            "key":"Stanley",
+            "value":"Stanley"
+        },
+        {
+            "key":"I am a warrior-servant to the great Card Master. For me, it is an honor to serve the Card Master,",
+            "value":"Je suis un guerrier au service du grand Maître des cartes. Pour moi, c'est un honneur de servir le Card Master,"
+        },
+        {
+            "key":"even after the conflict of the gods. Once, cards had no abilities, but the Card Master granted them abilities and embellished card battles",
+            "value":"même après le conflit des dieux. Autrefois, les cartes n'avaient aucune capacité, mais le maître des cartes leur a accordé des capacités et a embelli les batailles de cartes"
+        },
+        {
+            "key":"In his book it is written: There will always be a stronger than the stronger",
+            "value":"Dans son livre, il est écrit: Il y aura toujours un plus fort que le plus fort : Il y aura toujours un plus fort que le plus fort"
+        },
+        {
+            "key":"And silence will come, covering all conflicts, bringing peace",
+            "value":"Et le silence viendra, couvrant tous les conflits, apportant la paix"
+        },
+        {
+            "key":"William",
+            "value":"William"
+        },
+        {
+            "key":"Oh, a newcomer in town. Maintain order.",
+            "value":"Oh, un nouveau venu en ville. Maintenir l'ordre"
+        },
+        {
+            "key":"We, the warrior-servants, are keeping an eye on everything here, although there are not many of us left",
+            "value":"Nous, les guerriers-serviteurs, gardons un œil sur tout ce qui se passe ici, même si nous ne sommes plus très nombreux"
+        },
+        {
+            "key":"Alice",
+            "value":"Alice"
+        },
+        {
+            "key":"I would like to move to a bigger town, but who knows how safe it is there",
+            "value":"J'aimerais déménager dans une plus grande ville, mais qui sait si on y est en sécurité ?"
+        },
+        {
+            "key":"Oscar",
+            "value":"Oscar"
+        },
+        {
+            "key":"Wow, adventurer! It's been a while since anyone ventured into our town. If you have a moment",
+            "value":"Ouah, aventurier ! Cela fait longtemps que personne ne s'est aventuré dans notre ville. Si vous avez un moment"
+        },
+        {
+            "key":"I'll tell you about the Titan Warrior. Long ago, in the time of gods, there was a mighty Titan Warrior",
+            "value":"Je vais vous parler du Guerrier Titan. Il y a bien longtemps, au temps des dieux, il y avait un puissant guerrier titan"
+        },
+        {
+            "key":"He had three dogs to guard him. When the gods called him to them, they allowed him to immortalize his dogs on maps",
+            "value":"Il avait trois chiens pour le garder. Lorsque les dieux l'appelèrent auprès d'eux, ils lui permirent d'immortaliser ses chiens sur des cartes"
+        },
+        {
+            "key":"He agreed, and thus the Hound, Robo-Hound, and Skeleton Hound were born. Later, during a conflict among the gods",
+            "value":"Il accepta, et c'est ainsi que naquirent le Limier, le Robo-Limier et le Limier-Squelette. Plus tard, lors d'un conflit entre les dieux"
+        },
+        {
+            "key":"our town came under attack. The Titan Warrior sacrificed himself to protect the town",
+            "value":"notre ville a été attaquée. Le guerrier titan s'est sacrifié pour protéger la ville"
+        },
+        {
+            "key":"and since then, we've been worshipping him to this day.",
+            "value":"et depuis lors, nous le vénérons jusqu'à aujourd'hui"
+        },
+        {
+            "key":"Austin",
+            "value":"Austin"
+        },
+        {
+            "key":"I work at the farm and help out with our camp. And Ryan keeps in touch with the winter camp.",
+            "value":"Je travaille à la ferme et j'aide au camp. Et Ryan reste en contact avec le camp d'hiver"
+        },
+        {
+            "key":"We sell them products since they don't have space to grow their own",
+            "value":"Nous leur vendons des produits car ils n'ont pas l'espace nécessaire pour cultiver leurs propres produits"
+        },
+        {
+            "key":"Ryan",
+            "value":"Ryan"
+        },
+        {
+            "key":"Hello, my name is Ryan. I'm in charge here, overseeing the farm and everything else.",
+            "value":"Bonjour, je m'appelle Ryan. Je suis responsable ici, je supervise la ferme et tout le reste"
+        },
+        {
+            "key":"There's not much interesting here, and you're unlikely to find any useful information.",
+            "value":"Il n'y a pas grand-chose d'intéressant ici, et il est peu probable que vous y trouviez des informations utiles"
+        },
+        {
+            "key":"However, there are many scattered chests near the city. If you have a level 2 or level 3 key, you can open them",
+            "value":"Cependant, il y a de nombreux coffres dispersés près de la ville. Si vous avez une clé de niveau 2 ou 3, vous pouvez les ouvrir"
+        },
+        {
+            "key":"Carolina",
+            "value":"Caroline"
+        },
+        {
+            "key":"Ugh, this conflict has been dragging on for about 10 years, and it just can't seem to end.",
+            "value":"Ce conflit dure depuis une dizaine d'années et ne semble pas vouloir s'arrêter"
+        },
+        {
+            "key":"It's a bit tiring, but it is said that when an adventurer comes, there is a way out of SpellBound",
+            "value":"C'est un peu fatigant, mais on dit que lorsqu'un aventurier arrive, il y a un moyen de sortir de SpellBound"
+        },
+        {
+            "key":"However, it's not guaranteed to be a peaceful resolution. So, we'll see what happens",
+            "value":"Cependant, il n'est pas garanti que la résolution soit pacifique. Nous verrons donc ce qui se passera"
+        },
+        {
+            "key":"Victor",
+            "value":"Victor"
+        },
+        {
+            "key":"Hello, we're from the Blue faction. We have a camp here, and we control the territory outside the poor city.",
+            "value":"Bonjour, nous sommes de la faction bleue. Nous avons un camp ici, et nous contrôlons le territoire à l'extérieur de la ville pauvre"
+        },
+        {
+            "key":"We catch any stragglers from the Red faction",
+            "value":"Nous rattrapons les traînards de la faction rouge"
+        },
+        {
+            "key":"Seth",
+            "value":"Seth"
+        },
+        {
+            "key":"Hello! You're a new searcher, we don't have much for you here, but you can look for something in abandoned thrillers",
+            "value":"Bonjour ! Vous êtes un nouveau chercheur, nous n'avons pas grand chose pour vous ici, mais vous pouvez chercher quelque chose dans les thrillers abandonnés"
+        },
+        {
+            "key":"I'm too scared to go in there; it smells like death. Brrr...",
+            "value":"J'ai trop peur d'y entrer, ça sent la mort. Brrr..."
+        },
+
+
+
+
+        {
+            "key":"Hey, you should leave. All the cities except Rich City are closed now, because chaos reigns in Rich City.",
+            "value":"Vous devriez partir. Toutes les villes, à l'exception de Rich City, sont fermées, car le chaos règne à Rich City"
+        },
+        {
+            "key":"All from the blue faction went to battle, and I'm in charge here. Be more careful",
+            "value":"Tous les membres de la faction bleue se sont battus, et c'est moi qui commande. Soyez plus prudent"
+        },
+        {
+            "key":"Brittany",
+            "value":"Bretagne"
+        },
+        {
+            "key":"Well, didn't expect to see me here, did you? I bolted as soon as they entered the battle.",
+            "value":"Vous ne vous attendiez pas à me voir ici, n'est-ce pas ? J'ai filé dès qu'ils sont entrés dans la bataille"
+        },
+        {
+            "key":"And when all the factions gathered, we had significantly more people",
+            "value":"Et lorsque toutes les factions se sont réunies, nous étions beaucoup plus nombreux"
+        },
+        {
+            "key":"However, the Violet faction decided to support the Reds, and a very large battle ensued",
+            "value":"Cependant, la faction Violette a décidé de soutenir les Rouges, et une très grande bataille s'en est suivie"
+        },
+        {
+            "key":"The Yellow group completely disappeared, haha. And now, open the gates!",
+            "value":"Le groupe jaune a complètement disparu, haha. Et maintenant, ouvrez les portes !"
+        },
+        {
+            "key":"Samuel",
+            "value":"Samuel"
+        },
+        {
+            "key":"We managed to capture Benjamin, although we lost a few fighters.",
+            "value":"Nous avons réussi à capturer Benjamin, bien que nous ayons perdu quelques combattants"
+        },
+        {
+            "key":"We started the operation right in the midst of the battle between the factions in the wealthy city",
+            "value":"Nous avons commencé l'opération en plein milieu de la bataille entre les factions de la ville riche"
+        },
+        {
+            "key":"There is probably chaos there now, and no one is around. And don't blame yourself for what happened.",
+            "value":"C'est probablement le chaos, et il n'y a personne. Et ne vous blâmez pas pour ce qui s'est passé"
+        },
+        {
+            "key":"Everything had to happen this way, and there is no other way out. We will leave after you go",
+            "value":"Tout devait se passer ainsi, et il n'y a pas d'autre issue. Nous partirons après vous"
+        },
+        {
+            "key":"Benjamin",
+            "value":"Benjamin"
+        },
+        {
+            "key":"Through you... Through you, this chaos began. A bit more, and the wealthy city would have been under my control,",
+            "value":"Grâce à vous... Grâce à vous, ce chaos a commencé. Un peu plus, et la ville riche aurait été sous mon contrôle,"
+        },
+        {
+            "key":"and I would have destroyed these factions. But you started it all. It's your fault",
+            "value":"et j'aurais détruit ces factions. Mais c'est vous qui avez commencé. C'est ta faute"
+        },
+        {
+            "key":"My informants were intercepted, otherwise I would have hid a long time ago and no one would have found me",
+            "value":"Mes informateurs ont été interceptés, sinon je me serais caché depuis longtemps et personne ne m'aurait trouvé"
+        },
+        {
+            "key":"But now everything will be in chaos. First, the wealthy city, and then everything else",
+            "value":"Mais à présent, tout sera en proie au chaos. D'abord la ville riche, puis tout le reste"
+        },
+        {
+            "key":"Only refugees and victors will remain in the end",
+            "value":"Seuls les réfugiés et les vainqueurs resteront à la fin"
+        },
+        {
+            "key":"Yes, this is just the beginning... Only the beginning",
+            "value":"Oui, ce n'est que le début... Ce n'est que le début"
+        },
+        {
+            "key":"Maybe you have questions about how I ended up here. It's very simple.",
+            "value":"Vous vous demandez peut-être comment j'ai atterri ici. C'est très simple"
+        },
+        {
+            "key":"I was helped by the one who controls every battle",
+            "value":"J'ai été aidé par celui qui contrôle toutes les batailles"
+        },
+        {
+            "key":"Soon you will learn more about him, and perhaps even meet him",
+            "value":"Bientôt, vous en saurez plus sur lui, et peut-être même le rencontrerez-vous"
+        },
+        {
+            "key":"He made it so that you ended up here. All I have left is to deliver this message, namely:",
+            "value":"Il a fait en sorte que vous vous retrouviez ici. Il ne me reste plus qu'à délivrer ce message, à savoir:"
+        },
+        {
+            "key":"This is just the beginning, adventurer. We will meet soon. Ha-ha-ha. Now go, it's only the beginning.",
+            "value":"Ce n'est que le début, aventurier. Nous nous rencontrerons bientôt. Ha-ha-ha. Allez-y, ce n'est que le début"
+        },
+        {
+            "key":"Further, the poor city.",
+            "value":"De plus, la ville pauvre"
+        },
+        {
+            "key":"Further, the Rich city.",
+            "value":"En outre, la ville de Rich"
+        },
+        {
+            "key":"The great village of the Card Master",
+            "value":"Le grand village du Card Master"
+        },
+        {
+            "key":"A small village of a titan warrior",
+            "value":"Le petit village d'un guerrier titan"
+        },
+        {
+            "key":"There is no way back",
+            "value":"Il n'y a pas de retour possible"
+        },
+        {
+            "key":"Don't trust anyone, not even yourself",
+            "value":"Ne faites confiance à personne, pas même à vous-même"
+        },
+        {
+            "key":"Victory after victory, and for what purpose?",
+            "value":"Victoire après victoire, et pour quoi faire?"
+        },
+        {
+            "key":"Why did the conflict between the gods happen after all?",
+            "value":"Pourquoi le conflit entre les dieux a-t-il finalement eu lieu?"
+        },
+        {
+            "key":"Exit",
+            "value":"Sortie"
+        },
+        {
+            "key":"Exit from the cave",
+            "value":"Sortie de la grotte"
+        },
+        {
+            "key":"Strange woman",
+            "value":"Une femme étrange"
+        },
+        {
+            "key":"If you want me to curse someone, the prices have changed. It's not 2000 coins anymore, but 4000 coins.",
+            "value":"Si vous voulez que je maudisse quelqu'un, les prix ont changé. Ce n'est plus 2000 pièces, mais 4000 pièces"
+        },
+        {
+            "key":"And one guy came along and said: Curse my sister, I really need this.",
+            "value":"Et un gars est arrivé et a dit :Maudite soit ma sœur, j'ai vraiment besoin de ça: Maudite soit ma sœur, j'ai vraiment besoin de ça"
+        },
+        {
+            "key":"I didn't know at the time that he would become even richer when I cursed his sister",
+            "value":"Je ne savais pas à l'époque qu'il deviendrait encore plus riche lorsque je maudirais sa sœur"
+        },
+        {
+            "key":"I won't make such mistakes again. Now, go away, or I'll cast a curse on you. He-he-he-he-he-he.",
+            "value":"Je ne referai plus de telles erreurs. Maintenant, partez, ou je vous jette un sort. He-he-he-he-he-he-he"
+        },
+        {
+            "key":"Janice",
+            "value":"Janice"
+        },
+        {
+            "key":"So stop, extraterrestrial. You're on foreign territory, so behave decently and don't do foolish things.",
+            "value":"Alors arrête, extraterrestre. Vous êtes en territoire étranger, alors comportez-vous correctement et ne faites pas de bêtises"
+        },
+        {
+            "key":"The locals don't like outsiders",
+            "value":"Les habitants n'aiment pas les étrangers"
+        },
+        {
+            "key":"Bryan",
+            "value":"Bryan"
+        },
+        {
+            "key":"I am surprised that I look like this. Once, I came here without an arm and wounded",
+            "value":"Je suis surpris de ressembler à cela. Autrefois, je suis venu ici sans un bras et j'ai été blessé"
+        },
+        {
+            "key":"I accidentally clashed with a group of blue men and barely escaped with my life",
+            "value":"Je me suis accidentellement heurté à un groupe d'hommes bleus et j'en ai réchappé de justesse"
+        },
+        {
+            "key":"Here, a mechanic saved me, giving me faith in life. So, I stayed here",
+            "value":"C'est là qu'un mécanicien m'a sauvé, me donnant foi en la vie. Alors, je suis resté ici"
+        },
+        {
+            "key":"My prosthesis helps me work on the farm with ease, and now there's a small truce between the groups",
+            "value":"Ma prothèse me permet de travailler facilement à la ferme, et il y a maintenant une petite trêve entre les groupes"
+        },
+        {
+            "key":"Still, be careful with them. Would you like to play cards for 200 coins?",
+            "value":"Soyez tout de même prudent avec eux. Voulez-vous jouer aux cartes pour 200 pièces?"
+        },
+        {
+            "key":"Liam",
+            "value":"Liam"
+        },
+        {
+            "key":"I have been studying farming for over 6 years",
+            "value":"J'étudie l'agriculture depuis plus de 6 ans"
+        },
+        {
+            "key":"Thanks to my knowledge, there are harvests in these caves every year",
+            "value":"Grâce à mes connaissances, il y a des récoltes dans ces grottes chaque année"
+        },
+        {
+            "key":"The key is to consider the direction of light, humidity, and many other factors",
+            "value":"L'essentiel est de tenir compte de la direction de la lumière, de l'humidité et de nombreux autres facteurs"
+        },
+        {
+            "key":"The probability of a good harvest is estimated to be 99.5%",
+            "value":"La probabilité d'une bonne récolte est estimée à 99,5 %"
+        },
+        {
+            "key":"Ellen",
+            "value":"Ellen"
+        },
+        {
+            "key":"Hello, I'm just working on the farm and living here since birth",
+            "value":"Bonjour, je travaille à la ferme et je vis ici depuis ma naissance"
+        },
+        {
+            "key":"Life here is tough, but it's safe, and there's always enough food",
+            "value":"La vie ici est difficile, mais elle est sûre et il y a toujours assez de nourriture"
+        },
+        {
+            "key":"Glenn",
+            "value":"Glenn"
+        },
+        {
+            "key":"I am the oldest in this cave. I lost my sight and now live here. I was here when there was just a pile of rocks,",
+            "value":"Je suis le plus ancien dans cette grotte. J'ai perdu la vue et je vis maintenant ici. J'étais ici quand il n'y avait qu'un tas de pierres,"
+        },
+        {
+            "key":"and I am one of those who made this place a home because there is light shining through the hole, and everything grows here",
+            "value":"et je suis l'un de ceux qui ont fait de cet endroit une maison parce qu'il y a de la lumière qui brille à travers le trou, et que tout pousse ici"
+        },
+        {
+            "key":"Well, at least that's what the young ones told me, even though there are not many of them here",
+            "value":"C'est du moins ce que m'ont dit les jeunes, même s'ils ne sont pas nombreux ici"
+        },
+        {
+            "key":"Paul",
+            "value":"Paul"
+        },
+        {
+            "key":"I can say that I'm responsible for finances and life supplies here. It's dull but stable",
+            "value":"Je peux dire que je suis responsable des finances et de l'approvisionnement de la vie ici. C'est ennuyeux mais stable"
+        },
+        {
+            "key":"The main thing is that big cities continue to buy stone, and the sun continues to shine, and everything will be fine",
+            "value":"L'essentiel est que les grandes villes continuent d'acheter de la pierre, que le soleil continue de briller et que tout aille bien"
+        },
+        {
+            "key":"Just don't linger here; the locals don't like strangers",
+            "value":"Ne vous attardez pas ici, les habitants n'aiment pas les étrangers"
+        },
+        {
+            "key":"Niels",
+            "value":"Niels"
+        },
+        {
+            "key":"I'm a simple worker in the mine, extracting stones. Nothing special",
+            "value":"Je suis un simple ouvrier dans la mine, j'extrais des pierres. Rien de particulier"
+        },
+        {
+            "key":"Kane",
+            "value":"Kane"
+        },
+        {
+            "key":"I am a worker and a supervisor in this mine. We extract stone, and then through a supplier,",
+            "value":"Je suis ouvrier et superviseur dans cette mine. Nous extrayons la pierre, puis nous passons par un fournisseur,"
+        },
+        {
+            "key":"we sell this stone to other cities to support their walls and roads. The income is decent, and that's how we live",
+            "value":"nous vendons cette pierre à d'autres villes pour soutenir leurs murs et leurs routes. Les revenus sont corrects, et c'est ainsi que nous vivons"
+        },
+        {
+            "key":"Bob",
+            "value":"Bob"
+        },
+        {
+            "key":"Hello, I'm Bob. The tavern isn't as crowded today as it usually is.",
+            "value":"Bonjour, je m'appelle Bob. La taverne n'est pas aussi bondée aujourd'hui que d'habitude"
+        },
+        {
+            "key":"If you need to get to the mayor, go to the city hall, they will help you there",
+            "value":"Si vous devez vous adresser au maire, allez à l'hôtel de ville, ils vous aideront"
+        },
+        {
+            "key":"You can also relax with a drink at the bar it's been a bit dull around here lately",
+            "value":"Vous pouvez également vous détendre en prenant un verre au bar, car il y a peu de monde ici ces derniers temps"
+        },
+        {
+            "key":"I think you can help this town. Good luck!",
+            "value":"Je pense que vous pouvez aider cette ville. Je vous souhaite bonne chance!"
+        },
+        {
+            "key":"Also, we can play cards, and I'll give you a note that I recently found that has to do with a previous seeker who came here before you",
+            "value":"Nous pouvons également jouer aux cartes, et je vais vous donner une note que j'ai trouvée récemment et qui concerne un ancien chercheur qui est venu ici avant vous"
+        },
+        {
+            "key":"Falion",
+            "value":"Falion"
+        },
+        {
+            "key":"Hello, are you familiar with my brother Nolan? By the way, I'm Falion. If you have a minute.",
+            "value":"Bonjour, connaissez-vous mon frère Nolan ? Au fait, je m'appelle Falion. Si vous avez une minute"
+        },
+        {
+            "key":"I'll tell you about the two gods who created the cards and the card game itself, and also about the great conflict that arose between them.",
+            "value":"Je vais vous parler des deux dieux qui ont créé les cartes et le jeu lui-même, ainsi que du grand conflit qui les a opposés"
+        },
+        {
+            "key":"Listen. Once upon a time, the Poor Town and the Rich City lived in good relations, and both revered the two gods, Goddess Mara and God Fabian.",
+            "value":"Écouter. Il était une fois la ville pauvre et la ville riche qui vivaient en bonne intelligence et qui vénéraient les deux dieux, la déesse Mara et le dieu Fabian"
+        },
+        {
+            "key":"They worshipped them, built monuments for them; everything was good, but then an unknown conflict arose.",
+            "value":"Ils les vénéraient, leur construisaient des monuments, tout allait bien, mais un conflit inconnu a surgi"
+        },
+        {
+            "key":"The Card Master and the Warrior of the Titans were the first to get involved in the battles between the gods, and Poor City suffered the most from this conflict.",
+            "value":"Le Card Master et le Guerrier des Titans ont été les premiers à s'impliquer dans les batailles entre les dieux, et c'est Poor City qui a le plus souffert de ce conflit"
+        },
+        {
+            "key":"Chaos reigned, but the Rich City almost didn't suffer, as Mara didn't strike peaceful residents. However, God Fabian was cruel and inflicted a lot of damage to the Poor Town.",
+            "value":"Le chaos régnait, mais la ville riche n'a presque pas souffert, car Mara n'a pas frappé les résidents pacifiques. Cependant, le dieu Fabian s'est montré cruel et a infligé de nombreux dégâts à la ville pauvre"
+        },
+        {
+            "key":"Mara managed only to protect the temple and some buildings. Much time has passed, and seekers came one after another, but no one managed to unravel the mystery of the conflict.",
+            "value":"Mara n'a réussi qu'à protéger le temple et quelques bâtiments. Beaucoup de temps s'est écoulé, les chercheurs se sont succédé, mais personne n'a réussi à percer le mystère du conflit"
+        },
+        {
+            "key":"Thanks for listening to this story. Good luck to you! I'll always be happy to see you in Mara's temple!",
+            "value":"Merci d'avoir écouté cette histoire. Bonne chance à toi ! Je serai toujours heureux de vous voir dans le temple de Mara!"
+        },
+        {
+            "key":"Linda",
+            "value":"Linda"
+        },
+        {
+            "key":"If you're looking for the mayor of the town, he disappeared, and it's unclear where. I'm his assistant,",
+            "value":"Si vous cherchez le maire de la ville, il a disparu et on ne sait pas où. Je suis son assistant,"
+        },
+        {
+            "key":"and you can ask people in the trailer district they might know something.",
+            "value":"et vous pouvez demander aux habitants du quartier des caravanes s'ils savent quelque chose"
+        },
+        {
+            "key":"Albert",
+            "value":"Albert"
+        },
+        {
+            "key":"Oh, who has come to my home? I am Grandfather of Sofia. She is currently at the playground.",
+            "value":"Oh, qui est venu chez moi ? Je suis le grand-père de Sofia. Elle est actuellement à l'aire de jeux"
+        },
+        {
+            "key":"You probably walked around the city and noticed that there's no one named Mara or Fabian anymore.",
+            "value":"Vous vous êtes probablement promené dans la ville et avez remarqué qu'il n'y a plus personne qui s'appelle Mara ou Fabian"
+        },
+        {
+            "key":"Once, when the gods still existed among us, we were forbidden to name our descendants after the gods.",
+            "value":"Autrefois, lorsque les dieux existaient encore parmi nous, il nous était interdit de donner à nos descendants le nom des dieux"
+        },
+        {
+            "key":"It's a pity about Sofia's parents; they perished during Fabian's attack.",
+            "value":"Dommage pour les parents de Sofia, ils ont péri lors de l'attaque de Fabian"
+        },
+        {
+            "key":"They simply couldn't reach the temple that Mara was defending with all her might",
+            "value":"Ils ne pouvaient tout simplement pas atteindre le temple que Mara défendait de toutes ses forces"
+        },
+        {
+            "key":"Adele",
+            "value":"Adèle"
+        },
+        {
+            "key":"Hello, my name is Adele, and I live here. You're new, huh? Oh, that's great. I hope you won't end up like the last seeker... well, never mind.",
+            "value":"Bonjour, je m'appelle Adele et j'habite ici. Vous êtes nouvelle, hein ? Oh, c'est super. J'espère que vous ne finirez pas comme le dernier chercheur... enfin, peu importe"
+        },
+        {
+            "key":"Do you want to earn a bit? Beat me in a card game",
+            "value":"Vous voulez gagner un peu d'argent ? Battez-moi dans un jeu de cartes"
+        },
+        {
+            "key":"Tyler",
+            "value":"Tyler"
+        },
+        {
+            "key":"Hello, who are you, and what are you doing in my house?",
+            "value":"Bonjour, qui êtes-vous et que faites-vous dans ma maison?"
+        },
+        {
+            "key":"Well, since you're here, we can play a card game if you're up for it",
+            "value":"Puisque vous êtes là, nous pouvons jouer aux cartes si vous êtes d'accord"
+        },
+        {
+            "key":"Alex",
+            "value":"Alex"
+        },
+        {
+            "key":"Oh, hello! I'm Alex.",
+            "value":"Oh, bonjour ! Je m'appelle Alex"
+        },
+        {
+            "key":"What are you doing here? Who allowed you to barge into my father's house?",
+            "value":"Que faites-vous ici ? Qui vous a permis de faire irruption dans la maison de mon père?"
+        },
+        {
+            "key":"Although I haven't seen you here before. Are you one of the poor folks?",
+            "value":"Bien que je ne vous aie jamais vu ici auparavant. Vous faites partie des pauvres?"
+        },
+        {
+            "key":"George",
+            "value":"George"
+        },
+        {
+            "key":"Good day, townspeople.",
+            "value":"Bonjour, habitants de la ville"
+        },
+        {
+            "key":"I'm the mayor of Rich City, and I'm very busy right now.",
+            "value":"Je suis le maire de Rich City, et je suis très occupé en ce moment"
+        },
+        {
+            "key":"Regarding the accusations against the poor town, I want to note that they are true.",
+            "value":"En ce qui concerne les accusations portées contre la ville pauvre, je tiens à souligner qu'elles sont fondées"
+        },
+        {
+            "key":"They have already been recorded in the history of the church, and I do not intend to change anything.",
+            "value":"Elles ont déjà été consignées dans l'histoire de l'Église et je n'ai pas l'intention d'y changer quoi que ce soit"
+        },
+        {
+            "key":"Good day, unknown individual. It's the first time I see you in this town.",
+            "value":"Bonjour, personne inconnue. C'est la première fois que je vous vois dans cette ville"
+        },
+        {
+            "key":"I am the deputy mayor and the richest in this city.",
+            "value":"Je suis l'adjoint au maire et le plus riche de cette ville"
+        },
+        {
+            "key":"My wealth is estimated at around 7000 coins",
+            "value":"Mon patrimoine est estimé à environ 7000 pièces"
+        },
+        {
+            "key":"I used to be highly skilled in card games, and my status in the city is high, though slightly below the mayor's.",
+            "value":"J'étais très doué pour les jeux de cartes, et mon statut dans la ville est élevé, bien que légèrement inférieur à celui du maire"
+        },
+        {
+            "key":"I hope that in the future, people will choose me as the new mayor.",
+            "value":"J'espère qu'à l'avenir, les gens me choisiront comme nouveau maire."
+        },
+        {
+            "key":"Listen, I have an extra 150 coins here. Would you like to play a game, and if you win, they'll be yours?",
+            "value":"Ecoutez, j'ai 150 pièces de plus ici. Vous voulez jouer à un jeu, et si vous gagnez, elles sont à vous"
+        },
+        {
+            "key":"Elliot",
+            "value":"Elliot"
+        },
+        {
+            "key":"Hello, welcome to the Church of God Fabian.",
+            "value":"Bonjour, bienvenue dans l'Église de Dieu Fabian"
+        },
+        {
+            "key":"If you have five minutes to listen to the story of God Fabian, then listen",
+            "value":"Si vous avez cinq minutes pour écouter l'histoire de Dieu Fabian, alors écoutez"
+        },
+        {
+            "key":"Once upon a time, gods used to be friends, adding new cards and mechanics to card games",
+            "value":"Il était une fois des dieux amis, qui ajoutaient de nouvelles cartes et de nouveaux mécanismes aux jeux de cartes"
+        },
+        {
+            "key":"But the conflict between the Gods arose because of the pseudo-goddess Mara. She was the cause of the conflict",
+            "value":"Mais le conflit entre les dieux est apparu à cause de la pseudo-déesse Mara. C'est elle qui est à l'origine du conflit"
+        },
+        {
+            "key":"She was the one who caused the conflict and the destruction of the poor city... What happened, happened. We respect Fabian for standing up to this conflict. With the new mayoral orders",
+            "value":"C'est elle qui a provoqué le conflit et la destruction de la pauvre ville... Ce qui s'est passé, s'est passé. Nous respectons Fabian pour s'être opposé à ce conflit. Avec les nouveaux ordres du maire"
+        },
+        {
+            "key":"the poor town mocks handcrafted statues of God Fabian. We even wanted to engage in diplomacy with them",
+            "value":"la ville pauvre se moque des statues artisanales du Dieu Fabian. Nous avons même voulu faire de la diplomatie avec eux"
+        },
+        {
+            "key":"but now half the city hates them even more. Well, that's it.",
+            "value":"mais maintenant la moitié de la ville les déteste encore plus. Voilà, c'est tout"
+        },
+        {
+            "key":"Anna",
+            "value":"Anna"
+        },
+        {
+            "key":"Hello, I'm Anna, the wife of a priest and Caleb's mother.",
+            "value":"Bonjour, je suis Anna, la femme d'un prêtre et la mère de Caleb"
+        },
+        {
+            "key":"It is strange to witness the recent accusations from the mayor, but we remain faithful to him and his words, if he accuses a poor city, it means that there is",
+            "value":"Il est étrange d'assister aux récentes accusations du maire, mais nous restons fidèles à lui et à ses paroles, s'il accuse une ville pauvre, c'est qu'il y a..."
+        },
+        {
+            "key":"I hope that peace will come between the cities someday",
+            "value":"J'espère que la paix s'installera un jour entre les deux villes"
+        },
+        {
+            "key":"Freya",
+            "value":"Freya"
+        },
+        {
+            "key":"I work for the priest at the temple, cleaning and carrying out small tasks.",
+            "value":"Je travaille pour le prêtre au temple, je nettoie et j'effectue de petites tâches"
+        },
+        {
+            "key":"David",
+            "value":"David"
+        },
+        {
+            "key":"If you wish to confess your sins and repent before the statue of God Fabian, you can do so here.",
+            "value":"Si vous souhaitez confesser vos péchés et vous repentir devant la statue de Dieu Fabian, vous pouvez le faire ici"
+        },
+        {
+            "key":"Jude",
+            "value":"Jude"
+        },
+        {
+            "key":"Welcome to the Sleepy Giant Tavern.",
+            "value":"Bienvenue à la Taverne du Géant Endormi"
+        },
+        {
+            "key":"It is named after the giant who once lived here and kept this establishment in good condition.",
+            "value":"Il porte le nom du géant qui a vécu ici et qui a maintenu l'établissement en bon état"
+        },
+        {
+            "key":"I am the owner of the tavern, and I maintain order here.",
+            "value":"Je suis le propriétaire de la taverne et je fais régner l'ordre ici"
+        },
+        {
+            "key":"Today is not very busy, but people will gather in the evening",
+            "value":"Aujourd'hui, il n'y a pas beaucoup de monde, mais les gens se rassembleront dans la soirée"
+        },
+        {
+            "key":"Rose",
+            "value":"Rose"
+        },
+        {
+            "key":"Hi, are you... are you a new seeker of adventure?",
+            "value":"Bonjour, êtes-vous... êtes-vous un nouveau chercheur d'aventure ?"
+        },
+        {
+            "key":"Someone is looking for you near the farm controlled by a wealthy town. They want to meet you",
+            "value":"Quelqu'un vous cherche près de la ferme contrôlée par une ville riche. Ils veulent vous rencontrer"
+        },
+        {
+            "key":"Logan",
+            "value":"Logan"
+        },
+        {
+            "key":"Hey there! Do you want to play a card game?",
+            "value":"Bonjour à tous ! Veux-tu jouer à un jeu de cartes ?"
+        },
+        {
+            "key":"I'm the best player in the bar, if not the entire town. If you beat me, it's 100 coins for you.",
+            "value":"Je suis le meilleur joueur du bar, voire de toute la ville. Si vous me battez, c'est 100 pièces pour vous"
+        },
+        {
+            "key":"Well?",
+            "value":"Et alors ?"
+        },
+        {
+            "key":"Owen",
+            "value":"Owen"
+        },
+        {
+            "key":"I'm busy, don't disturb me!",
+            "value":"Je suis occupé, ne me dérangez pas !"
+        },
+        {
+            "key":"Lola",
+            "value":"Lola"
+        },
+        {
+            "key":"Hello, I work as a waitress here. Come to the bar; there's a variety of drinks and food available.",
+            "value":"Bonjour, je suis serveuse ici. Venez au bar, il y a une grande variété de boissons et de plats disponibles"
+        },
+        {
+            "key":"Dexter",
+            "value":"Dexter"
+        },
+        {
+            "key":"Ah, darn politics. Soon everything will go to the cat's tail, and it will all end. I feel it, hehehe.",
+            "value":"Ah, maudite politique. Bientôt, tout ira à la queue du chat, et ce sera la fin. Je le sens, héhéhé"
+        },
+        {
+            "key":"Kai",
+            "value":"Kai"
+        },
+        {
+            "key":"Welcome to the furniture and goods store.",
+            "value":"Bienvenue dans le magasin de meubles et d'articles"
+        },
+        {
+            "key":"I'm the manager and I take care of everything here while the owner is doing his own thing.",
+            "value":"Je suis le gérant et je m'occupe de tout ici pendant que le propriétaire fait ce qu'il veut"
+        },
+        {
+            "key":"This store brings in good income for both me and my boss.",
+            "value":"Ce magasin nous rapporte de bons revenus, à moi et à mon patron"
+        },
+        {
+            "key":"My boss is Benjamin; he's the deputy mayor and a very influential person in this town.",
+            "value":"Mon patron est Benjamin c'est le maire adjoint et une personne très influente dans cette ville"
+        },
+        {
+            "key":"Hugo",
+            "value":"Hugo"
+        },
+        {
+            "key":"Hey, don't disturb me. I'm choosing a crib for my home, and I need to make the right choice",
+            "value":"Ne me dérangez pas. Je suis en train de choisir un berceau pour ma maison et je dois faire le bon choix"
+        },
+        {
+            "key":"Henry",
+            "value":"Henry"
+        },
+        {
+            "key":"Hello, my name is Henry.",
+            "value":"Bonjour, je m'appelle Henry"
+        },
+        {
+            "key":"I am the chief doctor, and we have excellent results at the hospital - not a single patient.",
+            "value":"Je suis le médecin-chef et nous avons d'excellents résultats à l'hôpital - pas un seul patient ne s'est présenté à l'hôpital"
+        },
+        {
+            "key":"So I wish you a good day and strong health.",
+            "value":"Je vous souhaite donc une bonne journée et une bonne santé"
+        },
+        {
+            "key":"Mia",
+            "value":"Mia"
+        },
+        {
+            "key":"I work as a nurse in this hospital. If you are bothered by any illness, you can come to our hospital",
+            "value":"Je travaille comme infirmière dans cet hôpital. Si vous souffrez d'une maladie quelconque, vous pouvez venir à notre hôpital"
+        },
+        {
+            "key":"So, take care and watch your health",
+            "value":"Alors, prenez soin de vous et surveillez votre santé"
+        },
+        {
+            "key":"Felix",
+            "value":"Félix"
+        },
+        {
+            "key":"I lost my hand in the last battle. If you think it's just a battle on cards, you're mistaken.",
+            "value":"J'ai perdu ma main lors de la dernière bataille. Si vous pensez qu'il s'agit d'une simple bataille de cartes, vous vous trompez"
+        },
+        {
+            "key":"It's a much more brutal battle between factions",
+            "value":"Il s'agit d'une bataille beaucoup plus brutale entre les factions"
+        },
+        {
+            "key":"Louie",
+            "value":"Louie"
+        },
+        {
+            "key":"If you're going to the boss, go ahead",
+            "value":"Si vous allez voir le patron, allez-y"
+        },
+        {
+            "key":"Teddy",
+            "value":"Teddy"
+        },
+        {
+            "key":"Hmm, you don't look like a guy from another faction, so go to the boss if you need something from him",
+            "value":"Hmm, vous n'avez pas l'air d'un gars d'une autre faction, alors allez voir le patron si vous avez besoin de quelque chose de sa part"
+        },
+        {
+            "key":"Сhloe",
+            "value":"Сhloe"
+        },
+        {
+            "key":"When I was 12 years old, the 'Red' faction attacked my family.",
+            "value":"Lorsque j'avais 12 ans, la faction rouge a attaqué ma famille"
+        },
+        {
+            "key":"I lost my parents, and the boss of the 'Blue' faction took me in. Now, I've been here for 7 years",
+            "value":"J'ai perdu mes parents et le chef de la faction Blue m'a recueilli. Cela fait maintenant 7 ans que je suis ici"
+        },
+        {
+            "key":"I will do everything to avenge my parents and everything else",
+            "value":"Je ferai tout pour venger mes parents et tout le reste"
+        },
+        {
+            "key":"Evan",
+            "value":"Evan"
+        },
+        {
+            "key":"Well, well, well. Who do we have here? What are you doing here?",
+            "value":"Eh bien, eh bien, eh bien. Qui sommes-nous ? Que faites-vous ici ?"
+        },
+        {
+            "key":"Do you even understand who you're talking to? I am the leader of the Blue faction.",
+            "value":"Comprenez-vous au moins à qui vous parlez ? Je suis le chef de la faction bleue"
+        },
+        {
+            "key":"And you... I haven't seen you here before. Are you one of the new adventurers?",
+            "value":"Et vous... Je ne vous ai jamais vu ici auparavant. Êtes-vous l'un des nouveaux aventuriers ?"
+        },
+        {
+            "key":"Some time ago, there was a searcher here who disappeared without a trace. Perhaps he got involved with the wrong people",
+            "value":"Il y a quelque temps, un chercheur a disparu sans laisser de traces. Il a peut-être fréquenté les mauvaises personnes"
+        },
+        {
+            "key":"In general, our conflict with the 'Red' faction has become more complicated, and I don't know what could unfold it.",
+            "value":"D'une manière générale, notre conflit avec la faction rouge s'est compliqué, et je ne sais pas ce qu'il pourrait devenir"
+        },
+        {
+            "key":"The deputy mayor from the Yellow faction says something went wrong according to his plan. Anyway, you already know too much",
+            "value":"Le maire adjoint de la faction jaune dit que quelque chose a mal tourné selon son plan. De toute façon, vous en savez déjà trop"
+        },
+        {
+            "key":"Go out and do something. You are not just a worker, you are an adventurer.",
+            "value":"Sors et fais quelque chose. Vous n'êtes pas seulement un travailleur, vous êtes un aventurier"
+        },
+        {
+            "key":"Maya",
+            "value":"Maya"
+        },
+        {
+            "key":"When the conflict between the factions is over, the deputy mayor must be held accountable for the mistakes he made, freezing this conflict.",
+            "value":"Lorsque le conflit entre les factions sera terminé, le maire adjoint devra répondre des erreurs qu'il a commises, en gelant ce conflit"
+        },
+        {
+            "key":"For now, there's time to think about what to do with those Blue folks",
+            "value":"Pour l'instant, il est temps de réfléchir à ce que l'on va faire de ces Bleus"
+        },
+        {
+            "key":"Harry",
+            "value":"Harry"
+        },
+        {
+            "key":"Hey, you! Someone asked me to tell you that they are waiting for you near the farm controlled by the wealthy city.",
+            "value":"Hé, toi ! Quelqu'un m'a demandé de te dire qu'ils t'attendent près de la ferme contrôlée par la ville riche"
+        },
+        {
+            "key":"Go there they want to see you",
+            "value":"Allez-y, ils veulent vous voir"
+        },
+        {
+            "key":"Aiden",
+            "value":"Aiden"
+        },
+        {
+            "key":"Heh, one order from the leader, and I'll wager my life that I can take down a dozen or even more of those Blue folks",
+            "value":"Un ordre du chef et je parie ma vie que je peux abattre une douzaine, voire plus, de ces Bleus"
+        },
+        {
+            "key":"Toby",
+            "value":"Toby"
+        },
+        {
+            "key":"Hey, you're an outsider. I can't let you go to the boss; what if you're from the Blue faction?",
+            "value":"Hé, tu es un étranger. Je ne peux pas te laisser aller voir le chef ; et si tu es de la faction bleue ?"
+        },
+        {
+            "key":"Let's do this: none from the 'Blue' faction can defeat me in cards.",
+            "value":"C'est parti : aucun membre de la faction bleue ne peut me battre aux cartes."
+        },
+        {
+            "key":"If you win, I'll believe that you're not one of them, and I'll let you pass",
+            "value":"Si vous gagnez, je croirai que vous n'êtes pas l'un d'entre eux et je vous laisserai passer"
+        },
+        {
+            "key":"Lucy",
+            "value":"Lucy"
+        },
+        {
+            "key":"I have been working for the Red faction for 5 years. I clean up and maintain order in this house",
+            "value":"Je travaille pour la faction rouge depuis 5 ans. Je fais le ménage et maintiens l'ordre dans cette maison"
+        },
+        {
+            "key":"Tommy",
+            "value":"Tommy"
+        },
+        {
+            "key":"Well, since you managed to get past my guards, it seems you're not just an ordinary resident of this city.",
+            "value":"Puisque vous avez réussi à déjouer mes gardes, il semble que vous ne soyez pas un résident ordinaire de cette ville"
+        },
+        {
+            "key":"I understand you're one of the adventurers. Hm, excellent. I assume you came here for information, not just to chat.",
+            "value":"J'ai cru comprendre que vous étiez l'un des aventuriers. Hm, excellent. Je suppose que vous êtes venu ici pour obtenir des informations, et pas seulement pour discuter"
+        },
+        {
+            "key":"Listen, I'm the leader of the Red faction. We have more influence and money in this city,",
+            "value":"Ecoutez, je suis le chef de la faction rouge. Nous avons plus d'influence et d'argent dans cette ville,"
+        },
+        {
+            "key":"but we can't do anything to those scoundrels from the Blue faction They interfere and complicate matters for us.",
+            "value":"mais nous ne pouvons rien faire contre ces crapules de la faction bleue qui s'immiscent et nous compliquent la tâche"
+        },
+        {
+            "key":"But I believe you can change that. It seems you need a hint or some information.",
+            "value":"Mais je crois que vous pouvez changer cela. Il semble que vous ayez besoin d'un indice ou d'une information"
+        },
+        {
+            "key":"I've heard rumors that near the farm controlled by the wealthy city, there are some newcomers who might know something.",
+            "value":"J'ai entendu des rumeurs selon lesquelles près de la ferme contrôlée par la ville riche, il y a de nouveaux arrivants qui pourraient savoir quelque chose"
+        },
+        {
+            "key":"So, go there. Also, I can add that the deputy mayor, after his plan failed, started behaving strangely.",
+            "value":"C'est donc là qu'il faut aller. Je peux également ajouter que le maire adjoint, après l'échec de son plan, a commencé à se comporter de manière étrange"
+        },
+        {
+            "key":"That's it. Now go and thaw this frozen situation in the city",
+            "value":"Voilà, c'est fait. Maintenant, allez dégeler cette situation gelée dans la ville"
+        },
+        {
+            "key":"Talk to the boss he's waiting for you!",
+            "value":"Parlez au patron, il vous attend !"
+        },
+        {
+            "key":"Finally, you've arrived. I thought some faction got you. Well, to the point.",
+            "value":"Enfin, vous êtes arrivés. Je pensais qu'une faction vous avait eu. Eh bien, au fait"
+        },
+        {
+            "key":"I'm Samuel, and our mission is to capture Deputy Mayor Benjamin",
+            "value":"Je suis Samuel, et notre mission est de capturer l'adjoint au maire Benjamin"
+        },
+        {
+            "key":"We're lucky he failed to overthrow the mayor and seize all power. He has connections in every faction",
+            "value":"Nous avons de la chance qu'il n'ait pas réussi à renverser le maire et à prendre le pouvoir. Il a des relations dans toutes les factions"
+        },
+        {
+            "key":"He wanted to become the mayor and increase his wealth to 10,000 coins, enabling him to influence other cities and eliminate any faction",
+            "value":"Il voulait devenir maire et augmenter sa richesse à 10 000 pièces, ce qui lui permettrait d'influencer d'autres villes et d'éliminer n'importe quelle faction"
+        },
+        {
+            "key":"However, the mayor became suspicious and came up with new accusations against the poor city, thus retaining power.",
+            "value":"Cependant, le maire se méfie et lance de nouvelles accusations contre la ville pauvre, ce qui lui permet de conserver le pouvoir"
+        },
+        {
+            "key":"We were fortunate that it turned out this way, and now only you can thaw this conflict",
+            "value":"Nous avons eu de la chance que les choses se soient passées ainsi, et maintenant vous êtes le seul à pouvoir décongeler ce conflit"
+        },
+        {
+            "key":"All I know about the Level 3 key is that there's a person or people in the Winter City who know how to obtain it.",
+            "value":"Tout ce que je sais sur la clé de niveau 3, c'est qu'il y a une ou plusieurs personnes dans la Ville d'hiver qui savent comment l'obtenir"
+        },
+        {
+            "key":"Also, you'll need 1,000 coins to reach the final location. And don't even think about boarding the train without the Level 3 key it's located near the Winter City",
+            "value":"De plus, vous aurez besoin de 1 000 pièces pour atteindre l'emplacement final. Et n'envisagez même pas de monter dans le train sans la clé de niveau 3, qui se trouve près de la ville d'hiver"
+        },
+        {
+            "key":"Sarah",
+            "value":"Sarah"
+        },
+        {
+            "key":"Hey, you! Back off, or I'll tell the guard to kick you out. You're bothering me!",
+            "value":"Hé, toi ! Reculez, ou je dis au gardien de vous mettre dehors. Vous me dérangez !"
+        },
+        {
+            "key":"Aaron",
+            "value":"Aaron"
+        },
+        {
+            "key":"I live here far from big cities.",
+            "value":"Je vis ici, loin des grandes villes"
+        },
+        {
+            "key":"If you've come with ill intentions, you better leave.",
+            "value":"Si vous êtes venu avec de mauvaises intentions, vous feriez mieux de partir"
+        },
+        {
+            "key":"Another adventurer came here earlier and disappeared without a trace",
+            "value":"Un autre aventurier est venu ici plus tôt et a disparu sans laisser de traces"
+        },
+        {
+            "key":"Archie",
+            "value":"Archie"
+        },
+        {
+            "key":"I'm the owner of a tavern in a poor town. The Violet faction could take control of this city, especially since Mayor Shay is missing.",
+            "value":"Je suis le propriétaire d'une taverne dans une ville pauvre. La faction Violette pourrait prendre le contrôle de cette ville, d'autant plus que le maire Shay a disparu"
+        },
+        {
+            "key":"But Lady Willow says we need to maintain neutrality for now. Everything will change, but it's unclear in which direction.",
+            "value":"Mais Lady Willow dit que nous devons rester neutres pour l'instant. Tout va changer, mais on ne sait pas exactement dans quelle direction"
+        },
+        {
+            "key":"Julia",
+            "value":"Julia"
+        },
+        {
+            "key":"Soon, a new era will come – the Era of Chaos.",
+            "value":"Bientôt, une nouvelle ère s'ouvrira : l'ère du chaos"
+        },
+        {
+            "key":"It will change everything here. I've been serving Lady Willow for four years now",
+            "value":"Cela va tout changer ici. Je suis au service de Lady Willow depuis quatre ans maintenant"
+        },
+        {
+            "key":"Once, our faction was the most powerful, but then we had to choose neutrality",
+            "value":"Autrefois, notre faction était la plus puissante, mais nous avons ensuite dû choisir la neutralité"
+        },
+        {
+            "key":"Ethan",
+            "value":"Ethan"
+        },
+        {
+            "key":"Hmm, I found an interesting book here.",
+            "value":"J'ai trouvé un livre intéressant ici"
+        },
+        {
+            "key":"It describes the history of the Card Master and the Titan Warrior",
+            "value":"Il décrit l'histoire du Card Master et du Titan Warrior"
+        },
+        {
+            "key":"I know that there are other cities that worship them, although they were destroyed by the gods when the conflict started",
+            "value":"Je sais qu'il y a d'autres villes qui les vénèrent, bien qu'elles aient été détruites par les dieux au début du conflit"
+        },
+        {
+            "key":"Evgen",
+            "value":"Evgen"
+        },
+        {
+            "key":"Neutrality is the best stance we can adopt at the moment.",
+            "value":"La neutralité est la meilleure position que nous puissions adopter à l'heure actuelle"
+        },
+        {
+            "key":"These are not the best times to engage in conflicts, but we can support someone in this conflict.",
+            "value":"Ce n'est pas le meilleur moment pour s'engager dans des conflits, mais nous pouvons soutenir quelqu'un dans ce conflit"
+        },
+        {
+            "key":"Willow",
+            "value":"Saule"
+        },
+        {
+            "key":"Who do we have here, hmm? An adventurer! Right?",
+            "value":"Qui avons-nous là, hmm ? Un aventurier ! C'est vrai ?"
+        },
+        {
+            "key":"You probably want to know who we are. We are the Purple faction.",
+            "value":"Vous voulez sans doute savoir qui nous sommes. Nous sommes la faction pourpre"
+        },
+        {
+            "key":"Currently, we are neutral and don't conflict with anyone. However, if a conflict thaws, we'll assist the Red or Blue factions",
+            "value":"Actuellement, nous sommes neutres et n'entrons en conflit avec personne. Cependant, en cas de conflit, nous aiderons les factions Rouge ou Bleue"
+        },
+        {
+            "key":"Carl",
+            "value":"Carl"
+        },
+        {
+            "key":"Welcome... oh, no, a new adventurer. Are you really trying to uncover the truth?",
+            "value":"Bienvenue... oh, non, un nouvel aventurier. Essayez-vous vraiment de découvrir la vérité ?"
+        },
+        {
+            "key":"Don't do it, or chaos will come, fulfilling the prophecy of the Card Scribe, which states,",
+            "value":"Ne le faites pas, ou le chaos s'installera, réalisant ainsi la prophétie du Scribe de la carte, qui dit ceci,"
+        },
+        {
+            "key":"When a true adventurer appears, chaos will follow, destroying everything living and non-living. Only those who escape will survive all others will perish.",
+            "value":"Lorsqu'un véritable aventurier apparaît, le chaos s'ensuit, détruisant tout ce qui est vivant ou non. Seuls les rescapés survivront, les autres périront"
+        },
+        {
+            "key":"It will be better if you focus on your own business, maybe work on the farm and do some other things.",
+            "value":"Il serait préférable que vous vous concentriez sur votre propre entreprise, que vous travailliez à la ferme et que vous fassiez d'autres choses"
+        },
+        {
+            "key":"Those who claim you can fix anything don't know anything",
+            "value":"Ceux qui prétendent que l'on peut tout réparer ne savent rien"
+        },
+        {
+            "key":"Cory",
+            "value":"Cory"
+        },
+        {
+            "key":"Hello, welcome to my store. I am the head of this town and the owner of this store.",
+            "value":"Bonjour, bienvenue dans mon magasin. Je suis le chef de cette ville et le propriétaire de ce magasin"
+        },
+        {
+            "key":"Let's say even from the winter city, they order furniture",
+            "value":"Disons que même depuis la ville d'hiver, ils commandent des meubles"
+        },
+        {
+            "key":"Ana",
+            "value":"Ana"
+        },
+        {
+            "key":"Hello, I am Ana, and I am Cory's wife. We have been living in this town for a long time.",
+            "value":"Bonjour, je m'appelle Ana et je suis la femme de Cory. Nous vivons dans cette ville depuis longtemps"
+        },
+        {
+            "key":"I supported Cory at the beginning of his business. We have peace here, no factions or anything else",
+            "value":"J'ai soutenu Cory au début de son activité. La paix règne ici, sans factions ni rien d'autre"
+        },
+        {
+            "key":"Audrey",
+            "value":"Audrey"
+        },
+        {
+            "key":"About 80 percent of the residents belong to the blue faction.",
+            "value":"Environ 80 % des habitants appartiennent à la faction bleue"
+        },
+        {
+            "key":"I think that when the day comes when the neutrality of the rich city disappears, this 80 percent will join the offensive",
+            "value":"Je pense que le jour où la neutralité de la ville riche disparaîtra, ces 80 % rejoindront l'offensive"
+        },
+        {
+            "key":"Abigail",
+            "value":"Abigail"
+        },
+        {
+            "key":"Hmm... this town is strange; it constantly snows here, while in other cities, it's warm.",
+            "value":"Hmm... cette ville est étrange ; il y neige constamment, alors que dans d'autres villes, il fait chaud"
+        },
+        {
+            "key":"It's all weird, but everyone here has long gotten used to it. I'm Abigail, and you don't have to pray to any god here.",
+            "value":"C'est bizarre, mais tout le monde ici s'y est habitué depuis longtemps. Je suis Abigail, et vous n'avez à prier aucun dieu ici"
+        },
+        {
+            "key":"People are free but hardworking. If you want to eat, you work",
+            "value":"Les gens sont libres mais travailleurs. Pour manger, il faut travailler"
+        },
+        {
+            "key":"Chris",
+            "value":"Chris"
+        },
+        {
+            "key":"Oops, who do we have here? Ah, an adventurer.",
+            "value":"Oups, qui avons-nous là ? Ah, un aventurier"
+        },
+        {
+            "key":"Well, let's see what kind of seeker you are. Beat me in a card duel, and then you'll prove your strength",
+            "value":"Voyons voir quel genre de chercheur vous êtes. Battez-moi dans un duel de cartes et vous prouverez votre force"
+        },
+        {
+            "key":"Welcome to the winter city, adventurer.",
+            "value":"Bienvenue dans la ville d'hiver, aventurier"
+        },
+        {
+            "key":"Everything here is peacefully controlled by the Blue faction. At the moment,",
+            "value":"Ici, tout est contrôlé pacifiquement par la faction bleue. En ce moment,"
+        },
+        {
+            "key":"I am in charge of everything here since my husband, the leader of the faction, deals with matters in the neutral city",
+            "value":"Je m'occupe de tout ici puisque mon mari, le chef de la faction, s'occupe des affaires de la ville neutre"
+        },
+        {
+            "key":"You are looking for the level 3 key, but unfortunately, I don't know its location.",
+            "value":"Vous cherchez la clé du niveau 3, mais malheureusement, je ne sais pas où elle se trouve"
+        },
+        {
+            "key":"However, there is a riddle in this note. Defeat me in cards, and the note will be yours",
+            "value":"Cependant, cette note contient une énigme. Battez-moi aux cartes, et le billet vous appartiendra"
+        },
+        {
+            "key":"Damian",
+            "value":"Damian"
+        },
+        {
+            "key":"I am faithful to my mistress. As never before, the decree will come to storm the rich city, and I will be one of the first to do it",
+            "value":"Je suis fidèle à ma maîtresse. Comme jamais auparavant, le décret viendra pour prendre d'assaut la ville riche, et je serai l'un des premiers à le faire"
+        },
+        {
+            "key":"Morgan",
+            "value":"Morgan"
+        },
+        {
+            "key":"Interesting fact: if you become the strongest in card battles, no one can compare with you,",
+            "value":"Fait intéressant : si vous devenez le plus fort dans les batailles de cartes, personne ne pourra vous concurrencer,"
+        },
+        {
+            "key":"and you'll be able to see what no one else has seen",
+            "value":"et vous pourrez voir ce que personne d'autre n'a vu"
+        },
+        {
+            "key":"Sandra",
+            "value":"Sandra"
+        },
+        {
+            "key":"Wow, a newcomer in town! Welcome. I've heard that when a true adventurer arrives, something is supposed to happen.",
+            "value":"Wow, un nouvel arrivant en ville ! Bienvenue. J'ai entendu dire que lorsqu'un véritable aventurier arrive, quelque chose est censé se produire"
+        },
+        {
+            "key":"But it's unclear whether it's freedom or chaos. Well, we'll see",
+            "value":"Mais on ne sait pas si c'est la liberté ou le chaos. Nous verrons bien"
+        },
+        {
+            "key":"Marc",
+            "value":"Marc"
+        },
+        {
+            "key":"If we look back at our past, we can say that it was 10 years ago. Back then, there were about 30 of us, and the Blue faction meant almost nothing.",
+            "value":"Si nous regardons en arrière, nous pouvons dire que c'était il y a 10 ans. À l'époque, nous étions une trentaine et la faction bleue ne signifiait presque rien"
+        },
+        {
+            "key":"We decided to storm to strengthen our power, and many skilled fighters perished in card battles.",
+            "value":"Nous avons décidé de faire une tempête pour renforcer notre pouvoir, et de nombreux combattants compétents ont péri dans les batailles de cartes"
+        },
+        {
+            "key":"However, we took the city, and now everything here is controlled by the Blue faction.",
+            "value":"Cependant, nous avons pris la ville, et maintenant tout est contrôlé par la faction bleue"
+        },
+        {
+            "key":"Gerald",
+            "value":"Gerald"
+        },
+        {
+            "key":"Hi, I'm Gerald. I'm one of the oldest members of the Blues.",
+            "value":"Bonjour, je m'appelle Gerald. Je suis l'un des plus anciens membres du Blues"
+        },
+        {
+            "key":"There are very few of us left—those who initiated the uprising and conquered the Winter City",
+            "value":"Il ne reste que très peu d'entre nous, ceux qui ont initié le soulèvement et conquis la ville d'hiver"
+        },
+        {
+            "key":"Once, the Winter City was divided between the Yellow and Red factions, and then we came. Many warriors perished, but those who survived are now considered elders.",
+            "value":"Autrefois, la Ville d'hiver était divisée entre les factions jaune et rouge, puis nous sommes arrivés. De nombreux guerriers ont péri, mais ceux qui ont survécu sont aujourd'hui considérés comme des anciens"
+        },
+        {
+            "key":"The elders are no longer involved in this conflict. Each of them witnessed dozens of victims in this battle",
+            "value":"Les anciens ne sont plus impliqués dans ce conflit. Chacun d'entre eux a été témoin de dizaines de victimes dans cette bataille"
+        },
+        {
+            "key":"and after the capture of the winter city, a neutral territory for the groups was created in the rich city",
+            "value":"et après la prise de la ville d'hiver, un territoire neutre pour les groupes a été créé dans la ville riche"
+        },
+        {
+            "key":"Clara",
+            "value":"Clara"
+        },
+        {
+            "key":"How did you get past the gate? They locked the doors of the third level.",
+            "value":"Comment avez-vous franchi la porte ? Ils ont verrouillé les portes du troisième niveau"
+        },
+        {
+            "key":"I haven't seen anyone this close in a long time. They bring me food and everything I need",
+            "value":"Je n'ai pas vu quelqu'un d'aussi proche depuis longtemps. Ils m'apportent de la nourriture et tout ce dont j'ai besoin"
+        },
+        {
+            "key":"This curse happened when we were handed our father's inheritance.",
+            "value":"Cette malédiction s'est produite lorsque nous avons reçu l'héritage de notre père"
+        },
+        {
+            "key":"My brother Benjamin took everything, and I was isolated from the outside world.",
+            "value":"Mon frère Benjamin a tout pris et j'ai été isolée du monde extérieur"
+        },
+        {
+            "key":"Now my brother is a deputy mayor in the wealthy city, and I'm here",
+            "value":"Aujourd'hui, mon frère est adjoint au maire de la ville riche, et je suis ici"
+        },
+        {
+            "key":"Crystal",
+            "value":"Cristal"
+        },
+        {
+            "key":"Yeah, you don't look like the guy from the Blue Faction.",
+            "value":"Oui, vous ne ressemblez pas au gars de la faction bleue"
+        },
+        {
+            "key":"We dominate here, waiting for the right moment and controlling the territory beyond the city walls.",
+            "value":"Nous dominons ici, en attendant le bon moment et en contrôlant le territoire au-delà des murs de la ville"
+        },
+        {
+            "key":"We even catch the lost Blue members. But you, as an adventurer, be cautious",
+            "value":"Nous rattrapons même les membres bleus perdus. Mais vous, en tant qu'aventurier, soyez prudent"
+        },
+        {
+            "key":"There are all sorts of characters wandering around here. As far as I know,",
+            "value":"Il y a toutes sortes de personnages qui se promènent ici. Pour autant que je sache,"
+        },
+        {
+            "key":"there's a rule in the factions not to mess with adventurers, but it doesn't apply to everyone. So, be careful",
+            "value":"Il y a une règle dans les factions pour ne pas s'en prendre aux aventuriers, mais elle ne s'applique pas à tout le monde. Il faut donc être prudent"
+        },
+        {
+            "key":"Hanna",
+            "value":"Hanna"
+        },
+        {
+            "key":"I remember a week ago there was a small battle with the Blue Faction.",
+            "value":"Je me souviens qu'il y a une semaine, il y a eu une petite bataille avec la faction bleue"
+        },
+        {
+            "key":"Everyone got minor injuries, but it ended without anyone dying. The conflict is on hold for now",
+            "value":"Tout le monde a été légèrement blessé, mais personne n'est mort. Le conflit est suspendu pour l'instant"
+        },
+        {
+            "key":"It might be better for you to forget about finding a way out and just join the Red Faction. That's my advice",
+            "value":"Vous feriez peut-être mieux d'oublier de chercher un moyen de vous en sortir et de rejoindre la Faction Rouge. C'est mon conseil"
+        },
+        {
+            "key":"Raymond",
+            "value":"Raymond"
+        },
+        {
+            "key":"Hello, my name is Raymond. I recently joined the Red Faction, but I've already seen a lot.",
+            "value":"Bonjour, je m'appelle Raymond. Je viens de rejoindre la Red Faction, mais j'ai déjà vu beaucoup de choses"
+        },
+        {
+            "key":"Those cruel people from the Blue Faction, they will all be held accountable for their actions",
+            "value":"Ces personnes cruelles de la faction bleue devront répondre de leurs actes"
+        },
+        {
+            "key":"Tara",
+            "value":"Tara"
+        },
+        {
+            "key":"Hello! Oh! You don't look like an ordinary mortal who usually comes here",
+            "value":"Bonjour ! Oh ! Vous ne ressemblez pas à un mortel ordinaire qui vient ici d'habitude"
+        },
+        {
+            "key":"You don't belong here, but you can talk to people who lived before the conflict among the gods",
+            "value":"Tu n'as rien à faire ici, mais tu peux parler à des gens qui ont vécu avant le conflit entre les dieux"
+        },
+        {
+            "key":"Don't linger here!",
+            "value":"Ne vous attardez pas ici !"
+        },
+        {
+            "key":"Diego",
+            "value":"Diego"
+        },
+        {
+            "key":"When I recall that cold winter after the conflict among the gods, we gathered to storm the winter city.",
+            "value":"Lorsque je me souviens de l'hiver froid qui a suivi le conflit entre les dieux, nous nous sommes rassemblés pour prendre d'assaut la ville d'hiver"
+        },
+        {
+            "key":"I perished when we took the center, and now I'm here, not knowing whether we did everything right or not",
+            "value":"J'ai péri lorsque nous avons pris le centre, et maintenant je suis ici, sans savoir si nous avons bien fait les choses ou non"
+        },
+        {
+            "key":"Miguel",
+            "value":"Miguel"
+        },
+        {
+            "key":"Oh, what a mistake we made. Well, at least some of us have been forgiven by the gods, not all of us, but at least some of us",
+            "value":"Oh, quelle erreur nous avons faite. Au moins certains d'entre nous ont été pardonnés par les dieux, pas tous, mais au moins certains d'entre nous"
+        },
+        {
+            "key":"I'll tell you this: there was no need to seize the city; we should have united and helped those who suffered",
+            "value":"Je vais vous dire une chose : il n'était pas nécessaire de s'emparer de la ville, nous aurions dû nous unir et aider ceux qui ont souffert"
+        },
+        {
+            "key":"Karen",
+            "value":"Karen"
+        },
+        {
+            "key":"When the conflict started, my daughter had just been born, and now she will be 11 years old.",
+            "value":"Lorsque le conflit a commencé, ma fille venait de naître et elle aura bientôt 11 ans"
+        },
+        {
+            "key":"It's so sad that she can't see her parents",
+            "value":"C'est tellement triste qu'elle ne puisse pas voir ses parents"
+        },
+        {
+            "key":"Xavier",
+            "value":"Xavier"
+        },
+        {
+            "key":"Oh no, my wife and I didn't make it to the temple. Just a second, and we were gone.",
+            "value":"Oh non, ma femme et moi ne sommes pas arrivés au temple. Une seconde, et nous étions partis"
+        },
+        {
+            "key":"Thankfully, our child's grandfather takes care of her, and we can rest assured.",
+            "value":"Heureusement, le grand-père de notre enfant s'occupe d'elle et nous pouvons être rassurés"
+        },
+        {
+            "key":"Kevin",
+            "value":"Kevin"
+        },
+        {
+            "key":"Back then, I was the wealthiest, helping people. However, when the conflict occurred, no one helped me",
+            "value":"À l'époque, j'étais le plus riche et j'aidais les gens. Cependant, lorsque le conflit a éclaté, personne ne m'a aidé"
+        },
+        {
+            "key":"That's why I'm here in this world now. In those times, having 4000 coins was considered the wealthiest in the city",
+            "value":"C'est pour cela que je suis dans ce monde maintenant. À l'époque, posséder 4000 pièces était considéré comme la plus grande richesse de la ville"
+        },
+        {
+            "key":"But now, things are turning into a nightmare, and it seems like it might lead to hunger",
+            "value":"Mais aujourd'hui, les choses tournent au cauchemar, et il semble que cela puisse conduire à la faim"
+        },
+        {
+            "key":"Doug",
+            "value":"Doug"
+        },
+        {
+            "key":"They told me, Run a little further! But a second passed, and here I am.",
+            "value":"Ils m'ont dit: Cours un peu plus loin ! Mais une seconde s'est écoulée, et me voilà"
+        },
+        {
+            "key":"How the world decayed after the conflict among the gods",
+            "value":"Comment le monde s'est dégradé après le conflit entre les dieux"
+        },
+        {
+            "key":"Kirk",
+            "value":"Kirk"
+        },
+        {
+            "key":"In life, I have made many mistakes, but the gods have forgiven me, and now I am here",
+            "value":"Dans la vie, j'ai fait beaucoup d'erreurs, mais les dieux m'ont pardonné, et maintenant je suis ici"
+        },
+        {
+            "key":"Laura",
+            "value":"Laura"
+        },
+        {
+            "key":"Oh my, oh my, I almost explored that cave, but then a collapse started, and I couldn't run out in time",
+            "value":"Oh mon, oh mon, j'ai failli explorer cette grotte, mais un éboulement s'est produit et je n'ai pas pu m'enfuir à temps"
+        },
+        {
+            "key":"That was my last expedition",
+            "value":"Ce fut ma dernière expédition"
+        },
+        {
+            "key":"Holly",
+            "value":"Holly"
+        },
+        {
+            "key":"I followed the instructions of the gods, doing what they commanded, and if not for the conflict, I would still be serving the gods to old age",
+            "value":"J'ai suivi les instructions des dieux, j'ai fait ce qu'ils m'ont ordonné et, sans le conflit, je serais encore au service des dieux jusqu'à un âge avancé"
+        },
+        {
+            "key":"Marty",
+            "value":"Marty"
+        },
+        {
+            "key":"I was a scholar, studying gods and everything related to them",
+            "value":"J'étais un érudit, j'étudiais les dieux et tout ce qui s'y rapportait"
+        },
+        {
+            "key":"However, what is happening now in that world is sheer madness",
+            "value":"Cependant, ce qui se passe actuellement dans ce monde est une pure folie"
+        },
+        {
+            "key":"People are resolving conflicts among themselves instead of finding solutions",
+            "value":"Les gens résolvent les conflits entre eux au lieu de trouver des solutions"
+        },
+        {
+            "key":"Erika",
+            "value":"Erika"
+        },
+        {
+            "key":"Are you new here? Everyone shares a part of their story when they were alive",
+            "value":"Êtes-vous nouveau ici ? Chacun partage une partie de son histoire lorsqu'il était en vie"
+        },
+        {
+            "key":"but we all know that soon something will change, and nobody knows what",
+            "value":"mais nous savons tous que quelque chose va bientôt changer, et personne ne sait ce que c'est"
+        },
+        {
+            "key":"If you wanted to talk to the gods, nothing would come of it. It's impossible, you could say",
+            "value":"Si vous vouliez parler aux dieux, il n'en résulterait rien. C'est impossible, pourrait-on dire"
+        },
+        {
+            "key":"Troy",
+            "value":"Troie"
+        },
+        {
+            "key":"Ah, back then, life was just beginning, and then, bam, the conflict happened, and the whole system that the gods had built collapsed",
+            "value":"Ah, à l'époque, la vie commençait à peine, et puis, bam, le conflit est arrivé, et tout le système que les dieux avaient construit s'est effondré"
+        }   
+    ]
+}
